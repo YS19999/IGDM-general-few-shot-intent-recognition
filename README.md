@@ -14,6 +14,9 @@ Feature distribution differences. Red points represent target datasets (ATIS, SN
 ## Framework
 ![image](https://github.com/YS19999/IGDM-general-few-shot-intent-recognition/blob/main/images/method_page-0001.jpg)
 
+## How to use
+You can directly run meta_train.py to train a new model, and then use meta_test.py to conduct the generalization test. You can directly use the pre-trained model weights that we have provided. They are located in the "model" folder.
+
 ## Results
 ### Single-label fuzzy matching
 <div align="center">
@@ -35,3 +38,18 @@ Left is IGDM, and Right is GenPINT.
   <img src="https://github.com/YS19999/IGDM-general-few-shot-intent-recognition/blob/main/images/new_intent_igdm_page-0001.jpg" width="300" />
   <img src="https://github.com/YS19999/IGDM-general-few-shot-intent-recognition/blob/main/images/new_intent_genpint_page-0001.jpg" width="300" />
 </div>
+
+## Citation
+If you use this work in your research, please cite it as follows:
+
+```bibtex
+@ARTICLE{11516309,
+  author={Yang, Shun and Du, YaJun and He, XiaoFei},
+  journal={IEEE Transactions on Pattern Analysis and Machine Intelligence}, 
+  title={Instruction-Guided Distribution Maximization for General Few-Shot Intent Recognition}, 
+  year={2026},
+  volume={},
+  number={},
+  pages={1-18},
+  doi={10.1109/TPAMI.2026.3692528}}
+```
