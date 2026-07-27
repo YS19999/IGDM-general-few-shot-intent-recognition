@@ -1,0 +1,268 @@
+{
+    "data": [
+        {
+            "text": "Thumbs down",
+            "intent": "DISLIKE_MUSIC"
+        },
+        {
+            "text": "Is there a route from Houston to Austin with less traffic",
+            "intent": "GET_DIRECTIONS"
+        },
+        {
+            "text": "Change Cal's dentist appointment reminder to 9am October 15th.",
+            "intent": "UPDATE_REMINDER_DATE_TIME"
+        },
+        {
+            "text": "go to the last song",
+            "intent": "PREVIOUS_TRACK_MUSIC"
+        },
+        {
+            "text": "Where will the paulas wedding reminder be?",
+            "intent": "GET_REMINDER_LOCATION"
+        },
+        {
+            "text": "put album on hold",
+            "intent": "PAUSE_MUSIC"
+        },
+        {
+            "text": "Set up a biweekly reminder to notify the team about the meeting",
+            "intent": "CREATE_REMINDER"
+        },
+        {
+            "text": "Repeat that song again please",
+            "intent": "REPLAY_MUSIC"
+        },
+        {
+            "text": "snooze my next alarm",
+            "intent": "SNOOZE_ALARM"
+        },
+        {
+            "text": "when does my alarm go off?",
+            "intent": "GET_ALARM"
+        },
+        {
+            "text": "Set 2 minute timer for the next 30 minutes",
+            "intent": "UNSUPPORTED_TIMER"
+        },
+        {
+            "text": "Change my lunch reminder",
+            "intent": "UPDATE_REMINDER"
+        },
+        {
+            "text": "Get a video message for Amanda.",
+            "intent": "UNSUPPORTED_MESSAGING"
+        },
+        {
+            "text": "Are the roads to the Falcons game still icy this morning?",
+            "intent": "GET_INFO_ROAD_CONDITION"
+        },
+        {
+            "text": "whats the low for tomorrow",
+            "intent": "GET_WEATHER"
+        },
+        {
+            "text": "Is there a different way home with less traffic",
+            "intent": "UPDATE_DIRECTIONS"
+        },
+        {
+            "text": "Can I get to Fulton Academy by 9 AM with the current traffic conditions?",
+            "intent": "GET_ESTIMATED_ARRIVAL"
+        },
+        {
+            "text": "set an alarm for 6:00 am and 6:15 am",
+            "intent": "CREATE_ALARM"
+        },
+        {
+            "text": "I want to hear the next track",
+            "intent": "SKIP_TRACK_MUSIC"
+        },
+        {
+            "text": "Modify my Rent Alert to include paying my credit card bill as well",
+            "intent": "UPDATE_REMINDER_TODO"
+        },
+        {
+            "text": "That is the humidity outside",
+            "intent": "UNSUPPORTED_WEATHER"
+        },
+        {
+            "text": "Add 2 more hours to my timer",
+            "intent": "ADD_TIME_TIMER"
+        },
+        {
+            "text": "Change my timer from 30 minutes to 50",
+            "intent": "UPDATE_TIMER"
+        },
+        {
+            "text": "remove song from my playlist",
+            "intent": "REMOVE_FROM_PLAYLIST_MUSIC"
+        },
+        {
+            "text": "Is the traffic lighter than normal right now",
+            "intent": "UNSUPPORTED_NAVIGATION"
+        },
+        {
+            "text": "restart my timer please",
+            "intent": "RESTART_TIMER"
+        },
+        {
+            "text": "add title 'trash day' to 8a alarm",
+            "intent": "UNSUPPORTED_ALARM"
+        },
+        {
+            "text": "I want the three hour lamp timer to start back again.",
+            "intent": "RESUME_TIMER"
+        },
+        {
+            "text": "So my plans for this Weekend just totally fell through and now I cant even go to Stacy's anymore. Don't ask. Long story short Vince is garbage I need a new date for Thursday and I need to figure out what other club I can even show my face at. Ugh",
+            "intent": "UNSUPPORTED_EVENT"
+        },
+        {
+            "text": "Like that current song for me",
+            "intent": "LIKE_MUSIC"
+        },
+        {
+            "text": "SHUT OFF MUSIC",
+            "intent": "STOP_MUSIC"
+        },
+        {
+            "text": "show me the timer",
+            "intent": "GET_TIMER"
+        },
+        {
+            "text": "How long will it take me to get to Keizer if I leave now?",
+            "intent": "GET_ESTIMATED_DURATION"
+        },
+        {
+            "text": "cancel my 60 minute alarm/timer",
+            "intent": "DELETE_TIMER"
+        },
+        {
+            "text": "turn off egg timer",
+            "intent": "PAUSE_TIMER"
+        },
+        {
+            "text": "Where is my 3pm appointment?",
+            "intent": "GET_LOCATION"
+        },
+        {
+            "text": "Cancel the reminder to go to Zumba at 8 today",
+            "intent": "DELETE_REMINDER"
+        },
+        {
+            "text": "Subtract one minute from my timer",
+            "intent": "SUBTRACT_TIME_TIMER"
+        },
+        {
+            "text": "When does the sun set in Texas during August",
+            "intent": "GET_SUNSET"
+        },
+        {
+            "text": "PLAY OWL CITY ON SPOTIFY",
+            "intent": "PLAY_MUSIC"
+        },
+        {
+            "text": "Make a new playlist now.",
+            "intent": "CREATE_PLAYLIST_MUSIC"
+        },
+        {
+            "text": "How many reminders can one set before the storage is full",
+            "intent": "HELP_REMINDER"
+        },
+        {
+            "text": "disregard video message alerts",
+            "intent": "IGNORE_MESSAGE"
+        },
+        {
+            "text": "when is the alert for the interior decorator",
+            "intent": "GET_REMINDER_DATE_TIME"
+        },
+        {
+            "text": "do I have any reminders for today",
+            "intent": "GET_REMINDER"
+        },
+        {
+            "text": "Make Pandora my music app please",
+            "intent": "SET_DEFAULT_PROVIDER_MUSIC"
+        },
+        {
+            "text": "Repeat this songs two times more",
+            "intent": "UNSUPPORTED_MUSIC"
+        },
+        {
+            "text": "Give me a list of road closures for today",
+            "intent": "GET_INFO_TRAFFIC"
+        },
+        {
+            "text": "Put song on repeat for me",
+            "intent": "LOOP_MUSIC"
+        },
+        {
+            "text": "Send a message to the fishing guide that I want to book a trip.",
+            "intent": "SEND_MESSAGE"
+        },
+        {
+            "text": "I need a timer set for 10 minutes",
+            "intent": "CREATE_TIMER"
+        },
+        {
+            "text": "modify alarm for friday",
+            "intent": "UPDATE_ALARM"
+        },
+        {
+            "text": "delete all my alarms",
+            "intent": "DELETE_ALARM"
+        },
+        {
+            "text": "I want to see an audio message to Dad",
+            "intent": "GET_MESSAGE"
+        },
+        {
+            "text": "WHAT TIME MUST I LEAVE MY HOUSE TO ARRIVE at THE NYC CITY HALL  BY 10 A.M  USING PUBLIC TRANSPORTATION",
+            "intent": "GET_ESTIMATED_DEPARTURE"
+        },
+        {
+            "text": "add blues songs to my pandora playlist",
+            "intent": "ADD_TO_PLAYLIST_MUSIC"
+        },
+        {
+            "text": "Who is hosting New Year's Eve Parties in Orlando",
+            "intent": "GET_EVENT_ORGANIZER"
+        },
+        {
+            "text": "quit sending it",
+            "intent": "CANCEL_MESSAGE"
+        },
+        {
+            "text": "Shuffle the playlist.",
+            "intent": "START_SHUFFLE_MUSIC"
+        },
+        {
+            "text": "Are there any fireworks in Chicago tonight",
+            "intent": "GET_EVENT"
+        },
+        {
+            "text": "What's the distance between Minneapolis and Mankato",
+            "intent": "GET_DISTANCE"
+        },
+        {
+            "text": "Discontinue ringing",
+            "intent": "SILENCE_ALARM"
+        },
+        {
+            "text": "What time is sunrise on Tuesday morning",
+            "intent": "GET_SUNRISE"
+        },
+        {
+            "text": "Will there be any food courts along the way?",
+            "intent": "GET_INFO_ROUTE"
+        },
+        {
+            "text": "Laugh react to message from peter",
+            "intent": "REACT_MESSAGE"
+        },
+        {
+            "text": "What is the total of my reminders I have for waxing appointments",
+            "intent": "GET_REMINDER_AMOUNT"
+        }
+    ]
+}

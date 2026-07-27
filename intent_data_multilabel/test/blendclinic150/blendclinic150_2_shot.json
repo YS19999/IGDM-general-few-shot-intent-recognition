@@ -1,0 +1,1238 @@
+{
+    "data": [
+        {
+            "text": "what can i ask you, ai how are you doing today please change the ai's name",
+            "intent": [
+                "what_can_i_ask_you",
+                "greeting",
+                "change_ai_name"
+            ]
+        },
+        {
+            "text": "hello ai, can you tell me what things i may ask also, please change the ai name for me",
+            "intent": [
+                "what_can_i_ask_you",
+                "greeting",
+                "change_ai_name"
+            ]
+        },
+        {
+            "text": "tell me something interesting about dogs i'd like to share my location with stephanie",
+            "intent": [
+                "fun_fact",
+                "share_location"
+            ]
+        },
+        {
+            "text": "give me a fun fact about otters ; please share my location with my boss and my lawyer",
+            "intent": [
+                "fun_fact",
+                "share_location"
+            ]
+        },
+        {
+            "text": "increasing my credit limit to 1100 dollars how do i change the oil in a car",
+            "intent": [
+                "credit_limit_change",
+                "oil_change_how"
+            ]
+        },
+        {
+            "text": "while increasing the credit limit on my maurices card can you give me instructions on how to change the oil for my car",
+            "intent": [
+                "credit_limit_change",
+                "oil_change_how"
+            ]
+        },
+        {
+            "text": "do i need to get vaccinated to go to thailand can you tell me the nearest wells fargo bank location to port authority, new york",
+            "intent": [
+                "directions",
+                "vaccines"
+            ]
+        },
+        {
+            "text": "from here, how do i get to the statue of liberty by bus after will this trip require vaccines",
+            "intent": [
+                "directions",
+                "vaccines"
+            ]
+        },
+        {
+            "text": "how much is my internet bill how long will it take for me to get to red robin in san diego",
+            "intent": [
+                "bill_balance",
+                "distance"
+            ]
+        },
+        {
+            "text": "what do i owe on the car this month after approximately how much time will it take to get to tod's in minutes",
+            "intent": [
+                "bill_balance",
+                "distance"
+            ]
+        },
+        {
+            "text": "what is the current tire pressure level in the car please change accent to british male",
+            "intent": [
+                "change_accent",
+                "tire_pressure"
+            ]
+        },
+        {
+            "text": "i would prefer to hear you speak like a british male please check the pressure in my tires",
+            "intent": [
+                "change_accent",
+                "tire_pressure"
+            ]
+        },
+        {
+            "text": "dates for my car in the shop before can you please dim the lights",
+            "intent": [
+                "last_maintenance",
+                "smart_home"
+            ]
+        },
+        {
+            "text": "can you turn the oven to 350 when did i get my last oil change",
+            "intent": [
+                "last_maintenance",
+                "smart_home"
+            ]
+        },
+        {
+            "text": "am i limited in carry ons for jet blue and also does my usaa card have international transaction fees",
+            "intent": [
+                "carry_on",
+                "international_fees"
+            ]
+        },
+        {
+            "text": "is there a charge to use my card in japan and then what are the carry on limits for delta flights",
+            "intent": [
+                "carry_on",
+                "international_fees"
+            ]
+        },
+        {
+            "text": "how would you like me to call you after any good pizza restaurants around here",
+            "intent": [
+                "restaurant_suggestion",
+                "what_is_your_name"
+            ]
+        },
+        {
+            "text": "what are the best family restaurants in charlottesville before and what would your name be",
+            "intent": [
+                "restaurant_suggestion",
+                "what_is_your_name"
+            ]
+        },
+        {
+            "text": "who do i report lost luggage to finally when will my tires need changed",
+            "intent": [
+                "lost_luggage",
+                "tire_change"
+            ]
+        },
+        {
+            "text": "what is the best way to deal with my lost luggage when is it imperative that i get my tires changed",
+            "intent": [
+                "lost_luggage",
+                "tire_change"
+            ]
+        },
+        {
+            "text": "change the speaker volume to a louder one and put my music on, please",
+            "intent": [
+                "change_volume",
+                "play_music"
+            ]
+        },
+        {
+            "text": "please speak louder and then what does x's music sound like",
+            "intent": [
+                "change_volume",
+                "play_music"
+            ]
+        },
+        {
+            "text": "when will i get my new credit card, and could you please find out the current application status and credit limit for it",
+            "intent": [
+                "replacement_card_duration",
+                "application_status",
+                "credit_limit"
+            ]
+        },
+        {
+            "text": "when will my replacement credit card be mailed, and what's the current status of my application also, please inform me about the credit limit on my mastercard",
+            "intent": [
+                "replacement_card_duration",
+                "application_status",
+                "credit_limit"
+            ]
+        },
+        {
+            "text": "what is the exchange rate from pounds sterling to us dollars or is there anything neat to do in boston",
+            "intent": [
+                "exchange_rate",
+                "travel_suggestion"
+            ]
+        },
+        {
+            "text": "what are some interesting things i can do while in raleigh whats the exchange rate for us dollars to british pounds",
+            "intent": [
+                "exchange_rate",
+                "travel_suggestion"
+            ]
+        },
+        {
+            "text": "please put taco night on the house calendar date of january 6 what's the current time, please",
+            "intent": [
+                "calendar_update",
+                "time"
+            ]
+        },
+        {
+            "text": "while putting my parents anniversary on the calendar for next week on tuesday in tokyo, what time is it",
+            "intent": [
+                "calendar_update",
+                "time"
+            ]
+        },
+        {
+            "text": "march 20th through the 22nd, please book me a hotel room in manhattan big enough for 10 people ; in what state were you born",
+            "intent": [
+                "book_hotel",
+                "where_are_you_from"
+            ]
+        },
+        {
+            "text": "what place do you call home book me a room on november 11 to 15 in cali",
+            "intent": [
+                "book_hotel",
+                "where_are_you_from"
+            ]
+        },
+        {
+            "text": "what's the current song that we are listening at this time what's the routing number for my bank of america account",
+            "intent": [
+                "routing",
+                "what_song"
+            ]
+        },
+        {
+            "text": "while telling me my routing number for summit what is that noise",
+            "intent": [
+                "routing",
+                "what_song"
+            ]
+        },
+        {
+            "text": "where exactly am i how do i find when my electric bill is due",
+            "intent": [
+                "bill_due",
+                "current_location"
+            ]
+        },
+        {
+            "text": "on what day do i have to pay my nordstrom bill finding my location on the map, please",
+            "intent": [
+                "bill_due",
+                "current_location"
+            ]
+        },
+        {
+            "text": "can you tell me what my federal tax burden is converting my credit card points to cash",
+            "intent": [
+                "redeem_rewards",
+                "taxes"
+            ]
+        },
+        {
+            "text": "do i have to file a tax form additionally are there any steps i need to take to use my credit card points",
+            "intent": [
+                "redeem_rewards",
+                "taxes"
+            ]
+        },
+        {
+            "text": "how do you spell antipathy view my transactions for the last week",
+            "intent": [
+                "spelling",
+                "transactions"
+            ]
+        },
+        {
+            "text": "i need to know something about my latest transaction how do i spell acquaintance",
+            "intent": [
+                "spelling",
+                "transactions"
+            ]
+        },
+        {
+            "text": "whats included with my insurance with you pausing my account",
+            "intent": [
+                "freeze_account",
+                "insurance"
+            ]
+        },
+        {
+            "text": "what are my insurance amenities while putting a block on my visa account right away",
+            "intent": [
+                "freeze_account",
+                "insurance"
+            ]
+        },
+        {
+            "text": "what is a good beef recipe additionally how much time off do i have left",
+            "intent": [
+                "pto_balance",
+                "recipe"
+            ]
+        },
+        {
+            "text": "can you get me a recipe for mashed potatoes i have how many vacation days left this year",
+            "intent": [
+                "pto_balance",
+                "recipe"
+            ]
+        },
+        {
+            "text": "is a meeting with ruth on my schedule today are you a pet owner",
+            "intent": [
+                "do_you_have_pets",
+                "meeting_schedule"
+            ]
+        },
+        {
+            "text": "to what animal species do your pets belong what are my meetings today",
+            "intent": [
+                "do_you_have_pets",
+                "meeting_schedule"
+            ]
+        },
+        {
+            "text": "what's the crowd like at hopper's bar around 11pm how were you made",
+            "intent": [
+                "how_busy",
+                "who_made_you"
+            ]
+        },
+        {
+            "text": "do you know who you came from and also at 5:30 pm, how busy can i expect olive garden to be",
+            "intent": [
+                "how_busy",
+                "who_made_you"
+            ]
+        },
+        {
+            "text": "pleasing assist me with renting a car in boise i need the apr on my visa card",
+            "intent": [
+                "apr",
+                "car_rental"
+            ]
+        },
+        {
+            "text": "where in syracuse can i book a car and what's the current apr on my credit card",
+            "intent": [
+                "apr",
+                "car_rental"
+            ]
+        },
+        {
+            "text": "has my request for vacation time been approved and also i need my earned income form for paying taxes",
+            "intent": [
+                "pto_request_status",
+                "w2"
+            ]
+        },
+        {
+            "text": "is this where i get a w2 with you sharing the status of my day off request",
+            "intent": [
+                "pto_request_status",
+                "w2"
+            ]
+        },
+        {
+            "text": "what are the nutritional facts of waffles while wanting 5 minute timer",
+            "intent": [
+                "nutrition_info",
+                "timer"
+            ]
+        },
+        {
+            "text": "what's the nutritional info for pizza can you set a timer for me for fifteen minutes starting now",
+            "intent": [
+                "nutrition_info",
+                "timer"
+            ]
+        },
+        {
+            "text": "what timezone is china in and can yogurt be used for sour cream",
+            "intent": [
+                "ingredient_substitution",
+                "timezone"
+            ]
+        },
+        {
+            "text": "is honey a good sugar substitute and then which timezone is las vegas in",
+            "intent": [
+                "ingredient_substitution",
+                "timezone"
+            ]
+        },
+        {
+            "text": "is there enough money in my discover account for a vacation which month is the one in which my card expires",
+            "intent": [
+                "balance",
+                "expiration_date"
+            ]
+        },
+        {
+            "text": "when does my capital one visa expire and then i want my checking balance at chase",
+            "intent": [
+                "balance",
+                "expiration_date"
+            ]
+        },
+        {
+            "text": "please give me the minimum payment total for my sprint phone bill ; i wanna know my next paycheck",
+            "intent": [
+                "min_payment",
+                "payday"
+            ]
+        },
+        {
+            "text": "please give me the expected arrival date for my next paycheck and also what's the least amount i need to pay on the electric bill",
+            "intent": [
+                "min_payment",
+                "payday"
+            ]
+        },
+        {
+            "text": "how many minutes do i cook baked ziti and also my checking account needs a new pin number",
+            "intent": [
+                "cook_time",
+                "pin_change"
+            ]
+        },
+        {
+            "text": "how long is it acceptable to carmelize onions or change the pin on my bank of america account to be 1234",
+            "intent": [
+                "cook_time",
+                "pin_change"
+            ]
+        },
+        {
+            "text": "i ordered for delivery, has is arrived yet ; does this car need high octane gas",
+            "intent": [
+                "gas_type",
+                "order_status"
+            ]
+        },
+        {
+            "text": "are they any updates on my order , the car you are driving uses what kind of gas",
+            "intent": [
+                "gas_type",
+                "order_status"
+            ]
+        },
+        {
+            "text": "can you show me my shopping list ; how much am i getting paid",
+            "intent": [
+                "income",
+                "shopping_list"
+            ]
+        },
+        {
+            "text": "did i remember to put eggs on my shopping list , how much do you start at",
+            "intent": [
+                "income",
+                "shopping_list"
+            ]
+        },
+        {
+            "text": "what ingredients do i need for chicken breast after please make sure oranges are on my shopping list",
+            "intent": [
+                "ingredients_list",
+                "shopping_list_update"
+            ]
+        },
+        {
+            "text": "i need you to add creamer to my shopping list listing the ingredients in pizza",
+            "intent": [
+                "ingredients_list",
+                "shopping_list_update"
+            ]
+        },
+        {
+            "text": "how do they say \"how's it going\" in swahili , if i go to dublin is a socket converter needed",
+            "intent": [
+                "plug_type",
+                "translate"
+            ]
+        },
+        {
+            "text": "what plugs are used in spain how do they say hello in germany",
+            "intent": [
+                "plug_type",
+                "translate"
+            ]
+        },
+        {
+            "text": "please confirm my reservation for dinner at gusto handcrafted pasta & pizza at 6:30 pm or how long does it take milk to expire",
+            "intent": [
+                "confirm_reservation",
+                "food_last"
+            ]
+        },
+        {
+            "text": "what's the shelf life for eggs in the fridge and then please confirm my reservation for feburary 21st at 6pm",
+            "intent": [
+                "confirm_reservation",
+                "food_last"
+            ]
+        },
+        {
+            "text": "i am going to south america, let my bank know and then i need to order more checkbooks for my capital one account",
+            "intent": [
+                "order_checks",
+                "travel_notification"
+            ]
+        },
+        {
+            "text": "i will be traveling to rome from february 1 to march 1, please make this aware to my bank ; how can i order more checkbooks by mail",
+            "intent": [
+                "order_checks",
+                "travel_notification"
+            ]
+        },
+        {
+            "text": "help me find a new auto insurance policy or how much gas is in my car",
+            "intent": [
+                "gas",
+                "insurance_change"
+            ]
+        },
+        {
+            "text": "let me know how much gas i have , i need help acquiring new insurance",
+            "intent": [
+                "gas",
+                "insurance_change"
+            ]
+        },
+        {
+            "text": "i'd like to know about setting up direct deposit with you getting my entire shopping list ordered",
+            "intent": [
+                "direct_deposit",
+                "order"
+            ]
+        },
+        {
+            "text": "help setting up direct deposit , please order me everything that is on my shopping list",
+            "intent": [
+                "direct_deposit",
+                "order"
+            ]
+        },
+        {
+            "text": "does my calendar include an event called shana's baby shower how many meters are in 10 millimeters",
+            "intent": [
+                "calendar",
+                "measurement_conversion"
+            ]
+        },
+        {
+            "text": "what's the conversion from inches to centimeters do i have anything on my schedule for may 3",
+            "intent": [
+                "calendar",
+                "measurement_conversion"
+            ]
+        },
+        {
+            "text": "what's the caloric content in a bowl of rice crispies with milk tell me the result of a dice roll with five sides",
+            "intent": [
+                "calories",
+                "roll_dice"
+            ]
+        },
+        {
+            "text": "roll the die how high in calories is pork",
+            "intent": [
+                "calories",
+                "roll_dice"
+            ]
+        },
+        {
+            "text": "i'd like to report my card as stolen, please with you resetting the factory settings now please",
+            "intent": [
+                "report_lost_card",
+                "reset_settings"
+            ]
+        },
+        {
+            "text": "oh no, report my card, it's stolen with you going back to the original settings",
+            "intent": [
+                "report_lost_card",
+                "reset_settings"
+            ]
+        },
+        {
+            "text": "set reminder pay taxes on monday and also i heard that opening a new account will decrease my credit score, is it true",
+            "intent": [
+                "improve_credit_score",
+                "reminder_update"
+            ]
+        },
+        {
+            "text": "with you setting reminder to feed cat tonight at 6pm i'm not sure if this will hurt my credit score",
+            "intent": [
+                "improve_credit_score",
+                "reminder_update"
+            ]
+        },
+        {
+            "text": "what is the age of the ai and also what is the definition of zesty",
+            "intent": [
+                "definition",
+                "how_old_are_you"
+            ]
+        },
+        {
+            "text": "i'd like to know when you were born , what's the meaning of affiliate",
+            "intent": [
+                "definition",
+                "how_old_are_you"
+            ]
+        },
+        {
+            "text": "i want to request pto from november 7 to 11 seeing you later alligator",
+            "intent": [
+                "goodbye",
+                "pto_request"
+            ]
+        },
+        {
+            "text": "it was nice chatting with you creating a pto request for march 21st to march 26th",
+            "intent": [
+                "goodbye",
+                "pto_request"
+            ]
+        },
+        {
+            "text": "with you checking travel alerts for kenya what is the interest rate at chase",
+            "intent": [
+                "interest_rate",
+                "travel_alert"
+            ]
+        },
+        {
+            "text": "what's my current interest rate, if you could look ; does ireland have any travel alerts i should be aware of",
+            "intent": [
+                "interest_rate",
+                "travel_alert"
+            ]
+        },
+        {
+            "text": "i gotta know when should i get my oil changed next and also i need to add dusting the bookshelf to my to do list",
+            "intent": [
+                "oil_change_when",
+                "todo_list_update"
+            ]
+        },
+        {
+            "text": "place cleaning the backyard on my list of things to do after after how long should i change my oil",
+            "intent": [
+                "oil_change_when",
+                "todo_list_update"
+            ]
+        },
+        {
+            "text": "i must transfer ten dollars from my bank of america account to my capital one account before i want to know if there is meeting room available at 8",
+            "intent": [
+                "schedule_meeting",
+                "transfer"
+            ]
+        },
+        {
+            "text": "i want to find out how do i schedule a meeting needing to transfer from one account to my other one",
+            "intent": [
+                "schedule_meeting",
+                "transfer"
+            ]
+        },
+        {
+            "text": "hold on what was that you just said and if i'm heading to the mall at 5:00, what will the traffic be like",
+            "intent": [
+                "repeat",
+                "traffic"
+            ]
+        },
+        {
+            "text": "i must know what the traffic typically like at 3:30 on the route to phoenix i need you to repeat that, please",
+            "intent": [
+                "repeat",
+                "traffic"
+            ]
+        },
+        {
+            "text": "with you reserving a table for four for tonight at 7 at the fatted calf please provide an option for dinner",
+            "intent": [
+                "meal_suggestion",
+                "restaurant_reservation"
+            ]
+        },
+        {
+            "text": "reserve a table for 4 at red lobster under the name dave at 7:30pm or help me decide what mexican meal i want",
+            "intent": [
+                "meal_suggestion",
+                "restaurant_reservation"
+            ]
+        },
+        {
+            "text": "i need to know if it is possible to rollover my 401k finally i am wanting you to book me a flight from houston to miami on united airlines",
+            "intent": [
+                "book_flight",
+                "rollover_401k"
+            ]
+        },
+        {
+            "text": "while buying a flight from santa fe to jacksonville on new year's eve that returns on the fourth, please i have a new job now and need help with rolling over my 401k",
+            "intent": [
+                "book_flight",
+                "rollover_401k"
+            ]
+        },
+        {
+            "text": "i ran my credit card over with the lawn mower and need to replace it finally is respond to the professor's email on my list of reminders",
+            "intent": [
+                "damaged_card",
+                "reminder"
+            ]
+        },
+        {
+            "text": "please tell me everything on my list of reminders my card is too scratched and won't read correctly",
+            "intent": [
+                "damaged_card",
+                "reminder"
+            ]
+        },
+        {
+            "text": "how's the weather in tallahassee",
+            "intent": [
+                "weather"
+            ]
+        },
+        {
+            "text": "what is the weather report for costa mesa",
+            "intent": [
+                "weather"
+            ]
+        },
+        {
+            "text": "tell me a joke about cars",
+            "intent": [
+                "tell_joke"
+            ]
+        },
+        {
+            "text": "i'd love to hear a joke",
+            "intent": [
+                "tell_joke"
+            ]
+        },
+        {
+            "text": "please cancel that last command",
+            "intent": [
+                "cancel"
+            ]
+        },
+        {
+            "text": "would you stop talking please",
+            "intent": [
+                "cancel"
+            ]
+        },
+        {
+            "text": "tell me if you are human",
+            "intent": [
+                "are_you_a_bot"
+            ]
+        },
+        {
+            "text": "you sound like a bot",
+            "intent": [
+                "are_you_a_bot"
+            ]
+        },
+        {
+            "text": "what is the square root of 1 million",
+            "intent": [
+                "calculator"
+            ]
+        },
+        {
+            "text": "what is 20+ 5",
+            "intent": [
+                "calculator"
+            ]
+        },
+        {
+            "text": "can you swap the language to afrikaans for me",
+            "intent": [
+                "change_language"
+            ]
+        },
+        {
+            "text": "i would like to change your language from portuguese to italian",
+            "intent": [
+                "change_language"
+            ]
+        },
+        {
+            "text": "you can call me alan",
+            "intent": [
+                "change_user_name"
+            ]
+        },
+        {
+            "text": "my name is brad",
+            "intent": [
+                "change_user_name"
+            ]
+        },
+        {
+            "text": "does ihop have positive reviews",
+            "intent": [
+                "restaurant_reviews"
+            ]
+        },
+        {
+            "text": "read some of the reviews for wing stop",
+            "intent": [
+                "restaurant_reviews"
+            ]
+        },
+        {
+            "text": "i will be calling hr",
+            "intent": [
+                "make_call"
+            ]
+        },
+        {
+            "text": "please dial christie's number",
+            "intent": [
+                "make_call"
+            ]
+        },
+        {
+            "text": "why was my card declined yesterday",
+            "intent": [
+                "card_declined"
+            ]
+        },
+        {
+            "text": "my card got declined at target while buying a tv",
+            "intent": [
+                "card_declined"
+            ]
+        },
+        {
+            "text": "websites that share credit ratings",
+            "intent": [
+                "credit_score"
+            ]
+        },
+        {
+            "text": "where can i find my credit score",
+            "intent": [
+                "credit_score"
+            ]
+        },
+        {
+            "text": "can you send a text to my mother irene and tell her i love her",
+            "intent": [
+                "text"
+            ]
+        },
+        {
+            "text": "start a new text",
+            "intent": [
+                "text"
+            ]
+        },
+        {
+            "text": "what is the reason i am locked out of my bank account",
+            "intent": [
+                "account_blocked"
+            ]
+        },
+        {
+            "text": "why on earth would a block have been placed on my account",
+            "intent": [
+                "account_blocked"
+            ]
+        },
+        {
+            "text": "is cleaning the kitchen coming up on my list of things i have to do today",
+            "intent": [
+                "todo_list"
+            ]
+        },
+        {
+            "text": "do i have watering the plants on my to do list",
+            "intent": [
+                "todo_list"
+            ]
+        },
+        {
+            "text": "what's this car guzzle in gas when driving in town",
+            "intent": [
+                "mpg"
+            ]
+        },
+        {
+            "text": "how far can i go on one tank of gas",
+            "intent": [
+                "mpg"
+            ]
+        },
+        {
+            "text": "please order an uber for me to go to the zoo",
+            "intent": [
+                "uber"
+            ]
+        },
+        {
+            "text": "call me an uber please",
+            "intent": [
+                "uber"
+            ]
+        },
+        {
+            "text": "thanks, that's helpful",
+            "intent": [
+                "thank_you"
+            ]
+        },
+        {
+            "text": "thank you very much",
+            "intent": [
+                "thank_you"
+            ]
+        },
+        {
+            "text": "when will my flight take off",
+            "intent": [
+                "flight_status"
+            ]
+        },
+        {
+            "text": "will my delta flight leave on time",
+            "intent": [
+                "flight_status"
+            ]
+        },
+        {
+            "text": "how can i apply for a discover card",
+            "intent": [
+                "new_card"
+            ]
+        },
+        {
+            "text": "tell me how i can apply for a chase credit card",
+            "intent": [
+                "new_card"
+            ]
+        },
+        {
+            "text": "add american idiot by green day to my playlist",
+            "intent": [
+                "update_playlist"
+            ]
+        },
+        {
+            "text": "god's plan will be added to my new playlist",
+            "intent": [
+                "update_playlist"
+            ]
+        },
+        {
+            "text": "i gotta know your hobbies",
+            "intent": [
+                "what_are_your_hobbies"
+            ]
+        },
+        {
+            "text": "what kinds of activities do you enjoy",
+            "intent": [
+                "what_are_your_hobbies"
+            ]
+        },
+        {
+            "text": "i gotta schedule some car maintenance",
+            "intent": [
+                "schedule_maintenance"
+            ]
+        },
+        {
+            "text": "i wanna schedule some car maintenance",
+            "intent": [
+                "schedule_maintenance"
+            ]
+        },
+        {
+            "text": "i need to pay my mortgage",
+            "intent": [
+                "pay_bill"
+            ]
+        },
+        {
+            "text": "i need a bit of hand holding getting my trash bill paid",
+            "intent": [
+                "pay_bill"
+            ]
+        },
+        {
+            "text": "speak at a slower rate",
+            "intent": [
+                "change_speed"
+            ]
+        },
+        {
+            "text": "can i get you to talk at a slightly faster rate",
+            "intent": [
+                "change_speed"
+            ]
+        },
+        {
+            "text": "can you set an alarm",
+            "intent": [
+                "alarm"
+            ]
+        },
+        {
+            "text": "can i turn on the alarm now",
+            "intent": [
+                "alarm"
+            ]
+        },
+        {
+            "text": "are you working for another person or entity",
+            "intent": [
+                "who_do_you_work_for"
+            ]
+        },
+        {
+            "text": "would you say you are working for me",
+            "intent": [
+                "who_do_you_work_for"
+            ]
+        },
+        {
+            "text": "i would like some help finding my phone",
+            "intent": [
+                "find_phone"
+            ]
+        },
+        {
+            "text": "the location of my phone is unknown to me",
+            "intent": [
+                "find_phone"
+            ]
+        },
+        {
+            "text": "what is my citigroup card's rewards balance",
+            "intent": [
+                "rewards_balance"
+            ]
+        },
+        {
+            "text": "how many points do i have in total on my marriot rewards card",
+            "intent": [
+                "rewards_balance"
+            ]
+        },
+        {
+            "text": "closest auto parts store to find replace for dead car battery",
+            "intent": [
+                "jump_start"
+            ]
+        },
+        {
+            "text": "where should i go to get my dead car battery checked out",
+            "intent": [
+                "jump_start"
+            ]
+        },
+        {
+            "text": "what is the secret or meaning to life",
+            "intent": [
+                "meaning_of_life"
+            ]
+        },
+        {
+            "text": "does life have meaning",
+            "intent": [
+                "meaning_of_life"
+            ]
+        },
+        {
+            "text": "go ahead and connect to my phone",
+            "intent": [
+                "sync_device"
+            ]
+        },
+        {
+            "text": "pair with my phone please",
+            "intent": [
+                "sync_device"
+            ]
+        },
+        {
+            "text": "go ahead and flip a coin, i am calling tails",
+            "intent": [
+                "flip_coin"
+            ]
+        },
+        {
+            "text": "if you flip a coin, i call tails",
+            "intent": [
+                "flip_coin"
+            ]
+        },
+        {
+            "text": "what is the name you call me saved as",
+            "intent": [
+                "user_name"
+            ]
+        },
+        {
+            "text": "what's my name saved under",
+            "intent": [
+                "user_name"
+            ]
+        },
+        {
+            "text": "do i need a visa to travel to canada",
+            "intent": [
+                "international_visa"
+            ]
+        },
+        {
+            "text": "do i need an international visa to get into italy",
+            "intent": [
+                "international_visa"
+            ]
+        },
+        {
+            "text": "is it possible to make a reservation at redrobin",
+            "intent": [
+                "accept_reservations"
+            ]
+        },
+        {
+            "text": "does minnies cafe in modesto take reservations",
+            "intent": [
+                "accept_reservations"
+            ]
+        },
+        {
+            "text": "how do i let visa know about a charge i didn't make",
+            "intent": [
+                "report_fraud"
+            ]
+        },
+        {
+            "text": "i'd like to report a fraudulent charge from people's natural gas",
+            "intent": [
+                "report_fraud"
+            ]
+        },
+        {
+            "text": "i wish to know the next holiday",
+            "intent": [
+                "next_holiday"
+            ]
+        },
+        {
+            "text": "i need to know when i get my next day off",
+            "intent": [
+                "next_holiday"
+            ]
+        },
+        {
+            "text": "how much of my time off have i used",
+            "intent": [
+                "pto_used"
+            ]
+        },
+        {
+            "text": "how much pto do i have used up",
+            "intent": [
+                "pto_used"
+            ]
+        },
+        {
+            "text": "what will be the date tomorrow",
+            "intent": [
+                "date"
+            ]
+        },
+        {
+            "text": "what's today's date",
+            "intent": [
+                "date"
+            ]
+        },
+        {
+            "text": "get rid of my reservation at chez francois for jennifer",
+            "intent": [
+                "cancel_reservation"
+            ]
+        },
+        {
+            "text": "cancel my reservation with carl at umami",
+            "intent": [
+                "cancel_reservation"
+            ]
+        },
+        {
+            "text": "how much did i spend on shcool due last year",
+            "intent": [
+                "spending_history"
+            ]
+        },
+        {
+            "text": "what did i spend my money on last week",
+            "intent": [
+                "spending_history"
+            ]
+        },
+        {
+            "text": "i would like to hear the next tune on this particular playlist",
+            "intent": [
+                "next_song"
+            ]
+        },
+        {
+            "text": "advance to the next song",
+            "intent": [
+                "next_song"
+            ]
+        },
+        {
+            "text": "go back to normal mode please",
+            "intent": [
+                "whisper_mode"
+            ]
+        },
+        {
+            "text": "switch to quiet mode",
+            "intent": [
+                "whisper_mode"
+            ]
+        }
+    ]
+}

@@ -1,0 +1,304 @@
+{
+    "data": [
+        {
+            "text": "what home alarms have been set",
+            "intent": "alarm_query"
+        },
+        {
+            "text": "confirm the order and send me the confirmation",
+            "intent": "takeaway_order"
+        },
+        {
+            "text": "make a calendar note exhibition two thousand and seventeen mass on mar twenty five",
+            "intent": "calendar_set"
+        },
+        {
+            "text": "add toothpaste to my shopping list",
+            "intent": "createoradd"
+        },
+        {
+            "text": "i added a new email address for joe yesterday will you find it please",
+            "intent": "email_query"
+        },
+        {
+            "text": "calendar",
+            "intent": "set"
+        },
+        {
+            "text": "alexa brighten the lights",
+            "intent": "iot_hue_lightup"
+        },
+        {
+            "text": "what is the time difference between new york and lagos",
+            "intent": "datetime_convert"
+        },
+        {
+            "text": "how long should i cook a steak to achieve medium rare",
+            "intent": "cooking_recipe"
+        },
+        {
+            "text": "i need to get up at seven am",
+            "intent": "alarm_set"
+        },
+        {
+            "text": "identify song",
+            "intent": "music_query"
+        },
+        {
+            "text": "switch off the light",
+            "intent": "iot_hue_lightoff"
+        },
+        {
+            "text": "mute all responses now",
+            "intent": "audio_volume_mute"
+        },
+        {
+            "text": "tell me a funny joke",
+            "intent": "joke"
+        },
+        {
+            "text": "power off on",
+            "intent": "iot_wemo_off"
+        },
+        {
+            "text": "skip to the next song",
+            "intent": "play_music"
+        },
+        {
+            "text": "what is the exchange rate of u. s. d. to cdn",
+            "intent": "qa_currency"
+        },
+        {
+            "text": "remember that i do not like this music",
+            "intent": "music_dislikeness"
+        },
+        {
+            "text": "does byron's supports takeaways",
+            "intent": "takeaway_query"
+        },
+        {
+            "text": "play the radio station",
+            "intent": "radio"
+        },
+        {
+            "text": "please find a contact number of jayesh and tell me",
+            "intent": "email_querycontact"
+        },
+        {
+            "text": "get me to my friends list",
+            "intent": "lists_query"
+        },
+        {
+            "text": "asking for this technology",
+            "intent": "iot_cleaning"
+        },
+        {
+            "text": "i can't see anything",
+            "intent": "iot_hue_lighton"
+        },
+        {
+            "text": "can you play my latest audio book",
+            "intent": "play_audiobook"
+        },
+        {
+            "text": "disable alarm for three pm",
+            "intent": "alarm_remove"
+        },
+        {
+            "text": "please delete bananas from my shopping list",
+            "intent": "lists_remove"
+        },
+        {
+            "text": "turn on when plugged in else turn off",
+            "intent": "iot_wemo_on"
+        },
+        {
+            "text": "what is the funniest joke ever",
+            "intent": "general_joke"
+        },
+        {
+            "text": "olly is there a well rated pizza place between fourteenth and eighteenth streets",
+            "intent": "recommendation_locations"
+        },
+        {
+            "text": "what are the pending reminder for today evening",
+            "intent": "calendar_query"
+        },
+        {
+            "text": "what movies are playing near me olly",
+            "intent": "recommendation_movies"
+        },
+        {
+            "text": "open games",
+            "intent": "play_game"
+        },
+        {
+            "text": "turn up media volume",
+            "intent": "audio_volume_up"
+        },
+        {
+            "text": "play subway surfer",
+            "intent": "game"
+        },
+        {
+            "text": "play the next episode",
+            "intent": "podcasts"
+        },
+        {
+            "text": "call the phone number",
+            "intent": "transport_taxi"
+        },
+        {
+            "text": "google the word",
+            "intent": "qa_definition"
+        },
+        {
+            "text": "load up dr demento and play it by my bed",
+            "intent": "play_radio"
+        },
+        {
+            "text": "show current track in music player",
+            "intent": "music_settings"
+        },
+        {
+            "text": "how cold will it be next tuesday",
+            "intent": "weather_query"
+        },
+        {
+            "text": "what is one plus one",
+            "intent": "qa_maths"
+        },
+        {
+            "text": "dim the lights in the kitchen olly",
+            "intent": "iot_hue_lightdim"
+        },
+        {
+            "text": "tag my tweet to provider",
+            "intent": "social_post"
+        },
+        {
+            "text": "save this song as my favorite",
+            "intent": "music_likeness"
+        },
+        {
+            "text": "i would like my to tell me the trend on foreign exchange rates",
+            "intent": "currency"
+        },
+        {
+            "text": "i need a ticket on the train to new york city tomorrow",
+            "intent": "transport_ticket"
+        },
+        {
+            "text": "olly send a tweet to company",
+            "intent": "post"
+        },
+        {
+            "text": "change volume",
+            "intent": "audio_volume_other"
+        },
+        {
+            "text": "clean up my schedule",
+            "intent": "calendar_remove"
+        },
+        {
+            "text": "delete next event",
+            "intent": "remove"
+        },
+        {
+            "text": "the date today please",
+            "intent": "datetime_query"
+        },
+        {
+            "text": "what are the train times at millenium station departing toward indiana today",
+            "intent": "transport_query"
+        },
+        {
+            "text": "when will the world end",
+            "intent": "general_quirky"
+        },
+        {
+            "text": "network podcast",
+            "intent": "play_podcasts"
+        },
+        {
+            "text": "open my calendar",
+            "intent": "query"
+        },
+        {
+            "text": "are there any accidents on the four hundred and five",
+            "intent": "transport_traffic"
+        },
+        {
+            "text": "turn down the speakers",
+            "intent": "audio_volume_down"
+        },
+        {
+            "text": "hello olly how are you today",
+            "intent": "general_greet"
+        },
+        {
+            "text": "i want blue lighting",
+            "intent": "iot_hue_lightchange"
+        },
+        {
+            "text": "how much is apple stock worth",
+            "intent": "qa_stock"
+        },
+        {
+            "text": "reply to that email",
+            "intent": "sendemail"
+        },
+        {
+            "text": "just add a new email in my contacts from michael",
+            "intent": "email_addcontact"
+        },
+        {
+            "text": "let me know if anything happens on that subject",
+            "intent": "news_query"
+        },
+        {
+            "text": "can you create a new list",
+            "intent": "lists_createoradd"
+        },
+        {
+            "text": "turn off the bathroom lights",
+            "intent": "hue_lightoff"
+        },
+        {
+            "text": "name the capital of nigeria",
+            "intent": "factoid"
+        },
+        {
+            "text": "can i please have a cafe americano",
+            "intent": "iot_coffee"
+        },
+        {
+            "text": "find me a zoo or animal park in chicago that open this weekend",
+            "intent": "recommendation_events"
+        },
+        {
+            "text": "i have a deadline on tuesday",
+            "intent": "quirky"
+        },
+        {
+            "text": "olly what is the capital of california",
+            "intent": "qa_factoid"
+        },
+        {
+            "text": "show me a list of places where my relatives have been based on their photos",
+            "intent": "social_query"
+        },
+        {
+            "text": "please turn on my spotify playlist",
+            "intent": "music"
+        },
+        {
+            "text": "please load new email for bruce and send message now",
+            "intent": "email_sendemail"
+        },
+        {
+            "text": "what to cook for lunch",
+            "intent": "cooking_query"
+        }
+    ]
+}

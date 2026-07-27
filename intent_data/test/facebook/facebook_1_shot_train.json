@@ -1,0 +1,52 @@
+{
+    "data": [
+        {
+            "text": "Change my wake up alarm to 8 am",
+            "intent": "alarm_modify_alarm"
+        },
+        {
+            "text": "How many more minutes till the alarm goes off?",
+            "intent": "alarm_time_left_on_alarm"
+        },
+        {
+            "text": "What will the average high temperature be like next week",
+            "intent": "weather_find"
+        },
+        {
+            "text": "cancel my reminder to buy apples",
+            "intent": "reminder_cancel_reminder"
+        },
+        {
+            "text": "do i have any alarms tomorrow",
+            "intent": "alarm_show_alarms"
+        },
+        {
+            "text": "Remind me with an alarm in 10 minutes",
+            "intent": "reminder_set_reminder"
+        },
+        {
+            "text": "Snooze alarm for 15 min",
+            "intent": "alarm_snooze_alarm"
+        },
+        {
+            "text": "What reminders to I have in place for this Sunday",
+            "intent": "reminder_show_reminders"
+        },
+        {
+            "text": "Delete the alarm for 8 AM",
+            "intent": "alarm_cancel_alarm"
+        },
+        {
+            "text": "When's sunset in LA",
+            "intent": "weather_checkSunset"
+        },
+        {
+            "text": "what time is the sunrise in Miami",
+            "intent": "weather_checkSunrise"
+        },
+        {
+            "text": "Set alarms for 6pm and 11pm.",
+            "intent": "alarm_set_alarm"
+        }
+    ]
+}

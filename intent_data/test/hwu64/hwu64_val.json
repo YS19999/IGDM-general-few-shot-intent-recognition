@@ -1,0 +1,260 @@
+{
+    "data": [
+        {
+            "text": "i like the background song",
+            "intent": "music_likeness"
+        },
+        {
+            "text": "is there anything happening on jazz scene around edinburgh",
+            "intent": "recommendation_events"
+        },
+        {
+            "text": "i would love a less bright up room",
+            "intent": "iot_hue_lightdim"
+        },
+        {
+            "text": "olly would you shut up please.",
+            "intent": "general_commandstop"
+        },
+        {
+            "text": "what is the list about my favorite songs",
+            "intent": "music_query"
+        },
+        {
+            "text": "turn corner light on",
+            "intent": "iot_hue_lighton"
+        },
+        {
+            "text": "wake me up in thirty minutes",
+            "intent": "alarm_set"
+        },
+        {
+            "text": "please find all name start with alphabetic of g and create a list",
+            "intent": "lists_createoradd"
+        },
+        {
+            "text": "list the items on my shopping list",
+            "intent": "lists_query"
+        },
+        {
+            "text": "how long will it take me to get to park avenue considering current traffic",
+            "intent": "transport_traffic"
+        },
+        {
+            "text": "turn on my son's room plug socket on off",
+            "intent": "iot_wemo_on"
+        },
+        {
+            "text": "tell chris i will be late through email",
+            "intent": "email_sendemail"
+        },
+        {
+            "text": "is it anyone i knows birthday this month",
+            "intent": "email_querycontact"
+        },
+        {
+            "text": "off the plug",
+            "intent": "iot_wemo_off"
+        },
+        {
+            "text": "can you turn that down",
+            "intent": "audio_volume_down"
+        },
+        {
+            "text": "what is the current price of jindel stock",
+            "intent": "qa_stock"
+        },
+        {
+            "text": "we should play nfs at high speed",
+            "intent": "play_game"
+        },
+        {
+            "text": "give me details of my twitter handle profile including the total number of followers",
+            "intent": "social_query"
+        },
+        {
+            "text": "find easy recipe for almond milk",
+            "intent": "cooking_recipe"
+        },
+        {
+            "text": "make a meeting with friend",
+            "intent": "calendar_set"
+        },
+        {
+            "text": "sorry but that was not the correct response.",
+            "intent": "general_negate"
+        },
+        {
+            "text": "remove the latest alarm",
+            "intent": "alarm_remove"
+        },
+        {
+            "text": "confirm my last command please.",
+            "intent": "general_confirm"
+        },
+        {
+            "text": "describe a rotor",
+            "intent": "qa_definition"
+        },
+        {
+            "text": "whats a new sci fi movie",
+            "intent": "recommendation_movies"
+        },
+        {
+            "text": "the weather is sunny today",
+            "intent": "general_quirky"
+        },
+        {
+            "text": "could you speak that once more.",
+            "intent": "general_repeat"
+        },
+        {
+            "text": "please turn the lights off in the bathroom",
+            "intent": "iot_hue_lightoff"
+        },
+        {
+            "text": "tweet consumer service that i am very disappointed with my recent interaction",
+            "intent": "social_post"
+        },
+        {
+            "text": "increase the light in the room",
+            "intent": "iot_hue_lightup"
+        },
+        {
+            "text": "next alarm",
+            "intent": "alarm_query"
+        },
+        {
+            "text": "i would like my to tell me the trend on foreign exchange rates",
+            "intent": "qa_currency"
+        },
+        {
+            "text": "book a ticket for today in irctc site for the stored information",
+            "intent": "transport_ticket"
+        },
+        {
+            "text": "this is unimportant.",
+            "intent": "general_dontcare"
+        },
+        {
+            "text": "i need a train ticket to denver",
+            "intent": "transport_query"
+        },
+        {
+            "text": "start the vacuum cleaner",
+            "intent": "iot_cleaning"
+        },
+        {
+            "text": "play jumper by third eye blind",
+            "intent": "play_music"
+        },
+        {
+            "text": "set notification from world news",
+            "intent": "news_query"
+        },
+        {
+            "text": "hey olly have you heard any funny jokes lately",
+            "intent": "general_joke"
+        },
+        {
+            "text": "change light colors from blue to white",
+            "intent": "iot_hue_lightchange"
+        },
+        {
+            "text": "can you turn up your volume",
+            "intent": "audio_volume_up"
+        },
+        {
+            "text": "make me coffee",
+            "intent": "iot_coffee"
+        },
+        {
+            "text": "yeap you have done answer exactly.",
+            "intent": "general_affirm"
+        },
+        {
+            "text": "repeat song",
+            "intent": "music_settings"
+        },
+        {
+            "text": "what is the time difference between here and there",
+            "intent": "datetime_convert"
+        },
+        {
+            "text": "let me know today's date in american format",
+            "intent": "datetime_query"
+        },
+        {
+            "text": "i want to hear more audiobook",
+            "intent": "play_audiobook"
+        },
+        {
+            "text": "which continent has highest growth of cotton and what is average production",
+            "intent": "qa_factoid"
+        },
+        {
+            "text": "can you help me find the answer to this question",
+            "intent": "qa_maths"
+        },
+        {
+            "text": "call a taxi",
+            "intent": "transport_taxi"
+        },
+        {
+            "text": "does dominos deliver",
+            "intent": "takeaway_query"
+        },
+        {
+            "text": "save email id",
+            "intent": "email_addcontact"
+        },
+        {
+            "text": "couldn't understand what you just said now.",
+            "intent": "general_explain"
+        },
+        {
+            "text": "you've done that right thank you very much.",
+            "intent": "general_praise"
+        },
+        {
+            "text": "remove the board meeting and reschedule for next wednesday",
+            "intent": "calendar_remove"
+        },
+        {
+            "text": "please show today meting with clients",
+            "intent": "calendar_query"
+        },
+        {
+            "text": "call peking garden",
+            "intent": "takeaway_order"
+        },
+        {
+            "text": "play me news radio channel",
+            "intent": "play_radio"
+        },
+        {
+            "text": "how hot is it outside today",
+            "intent": "weather_query"
+        },
+        {
+            "text": "mobile shop",
+            "intent": "recommendation_locations"
+        },
+        {
+            "text": "jane doe",
+            "intent": "email_query"
+        },
+        {
+            "text": "mute sound from speakers",
+            "intent": "audio_volume_mute"
+        },
+        {
+            "text": "remove my grocery list",
+            "intent": "lists_remove"
+        },
+        {
+            "text": "skip this episode",
+            "intent": "play_podcasts"
+        }
+    ]
+}

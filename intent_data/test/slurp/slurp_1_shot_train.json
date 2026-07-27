@@ -1,0 +1,304 @@
+{
+    "data": [
+        {
+            "text": "let me know the morning of my doctor appointment on the twelfth",
+            "intent": "calendar_set"
+        },
+        {
+            "text": "go to sirius and play the hip hop channel",
+            "intent": "play_radio"
+        },
+        {
+            "text": "volume control",
+            "intent": "audio_volume_mute"
+        },
+        {
+            "text": "show volume settings",
+            "intent": "audio_volume_other"
+        },
+        {
+            "text": "to get more information about a historic event",
+            "intent": "quirky"
+        },
+        {
+            "text": "display my list",
+            "intent": "lists_query"
+        },
+        {
+            "text": "remove list from the database",
+            "intent": "lists_remove"
+        },
+        {
+            "text": "what's the easiest and quickest way to cook a turkey",
+            "intent": "cooking_query"
+        },
+        {
+            "text": "speak as loud as you can",
+            "intent": "audio_volume_up"
+        },
+        {
+            "text": "check whether i have set any alarms for tomorrow morning",
+            "intent": "alarm_query"
+        },
+        {
+            "text": "does the nearby pizza hut deliver in my area",
+            "intent": "takeaway_query"
+        },
+        {
+            "text": "all music released between one thousand nine hundred and ninety and two thousand is only to played",
+            "intent": "music"
+        },
+        {
+            "text": "what is the exchange rate for u. s. d. to nzd",
+            "intent": "qa_currency"
+        },
+        {
+            "text": "book for me an uber taxi to carmen drive",
+            "intent": "transport_taxi"
+        },
+        {
+            "text": "alexa tell me a joke",
+            "intent": "joke"
+        },
+        {
+            "text": "whats going on in cincinnati",
+            "intent": "recommendation_events"
+        },
+        {
+            "text": "reply thank you to john",
+            "intent": "email_sendemail"
+        },
+        {
+            "text": "and the darkness has fallen",
+            "intent": "iot_hue_lighton"
+        },
+        {
+            "text": "start the smart plug",
+            "intent": "iot_wemo_on"
+        },
+        {
+            "text": "give me the opening stock price of apple",
+            "intent": "qa_stock"
+        },
+        {
+            "text": "let's play canasta",
+            "intent": "play_game"
+        },
+        {
+            "text": "lower lights now",
+            "intent": "iot_hue_lightdim"
+        },
+        {
+            "text": "i hate this song",
+            "intent": "music_dislikeness"
+        },
+        {
+            "text": "can you please put the vacuum on",
+            "intent": "iot_cleaning"
+        },
+        {
+            "text": "change song",
+            "intent": "music_settings"
+        },
+        {
+            "text": "edit list",
+            "intent": "createoradd"
+        },
+        {
+            "text": "send a tweet to company",
+            "intent": "post"
+        },
+        {
+            "text": "power off the wemo plug",
+            "intent": "iot_wemo_off"
+        },
+        {
+            "text": "what's the best chicken place near me",
+            "intent": "recommendation_locations"
+        },
+        {
+            "text": "olly lights off",
+            "intent": "iot_hue_lightoff"
+        },
+        {
+            "text": "play my video game news podcast starting where i left off",
+            "intent": "play_podcasts"
+        },
+        {
+            "text": "what are the events next week",
+            "intent": "calendar_query"
+        },
+        {
+            "text": "i really enjoy this song",
+            "intent": "music_likeness"
+        },
+        {
+            "text": "skip to next",
+            "intent": "podcasts"
+        },
+        {
+            "text": "wake me up at five thirty",
+            "intent": "alarm_set"
+        },
+        {
+            "text": "open gallery post picture name",
+            "intent": "social_post"
+        },
+        {
+            "text": "check to see if my mom sent me any emails",
+            "intent": "email_query"
+        },
+        {
+            "text": "is snow coming tonight",
+            "intent": "weather_query"
+        },
+        {
+            "text": "how many canadian dollars are in a us dollar",
+            "intent": "currency"
+        },
+        {
+            "text": "pull up lights control",
+            "intent": "iot_hue_lightup"
+        },
+        {
+            "text": "alexa add grocery shopping to my to do list",
+            "intent": "lists_createoradd"
+        },
+        {
+            "text": "what does hypothesis mean",
+            "intent": "qa_definition"
+        },
+        {
+            "text": "who won the sports game last night",
+            "intent": "general_quirky"
+        },
+        {
+            "text": "when was the last time that i spoke to john",
+            "intent": "email_querycontact"
+        },
+        {
+            "text": "add lowes hardware to my contact emails located in cleveland ohio",
+            "intent": "email_addcontact"
+        },
+        {
+            "text": "cut down the volume",
+            "intent": "audio_volume_down"
+        },
+        {
+            "text": "how is the traffic now",
+            "intent": "transport_traffic"
+        },
+        {
+            "text": "hi how are you",
+            "intent": "general_greet"
+        },
+        {
+            "text": "convert eight thirty from gtm four to g. m. t. five thirty",
+            "intent": "datetime_convert"
+        },
+        {
+            "text": "let's play scrabble",
+            "intent": "game"
+        },
+        {
+            "text": "call and order pizza for delivery",
+            "intent": "takeaway_order"
+        },
+        {
+            "text": "weather",
+            "intent": "query"
+        },
+        {
+            "text": "delete all events and information",
+            "intent": "calendar_remove"
+        },
+        {
+            "text": "how do i set the timer on my coffee machine",
+            "intent": "iot_coffee"
+        },
+        {
+            "text": "what is the current price of brent crude",
+            "intent": "news_query"
+        },
+        {
+            "text": "find me the name of the artist of this music",
+            "intent": "music_query"
+        },
+        {
+            "text": "turn the lights off please",
+            "intent": "hue_lightoff"
+        },
+        {
+            "text": "show me the time in new york city",
+            "intent": "datetime_query"
+        },
+        {
+            "text": "google",
+            "intent": "qa_maths"
+        },
+        {
+            "text": "my calendar is to be updated with all rccg march event",
+            "intent": "set"
+        },
+        {
+            "text": "next train to dc",
+            "intent": "transport_query"
+        },
+        {
+            "text": "all emails received between ten pm and nine am is to be replied to",
+            "intent": "sendemail"
+        },
+        {
+            "text": "a priest walks into a bar",
+            "intent": "general_joke"
+        },
+        {
+            "text": "rewind audiobook by thirty seconds",
+            "intent": "play_audiobook"
+        },
+        {
+            "text": "i no longer need the daily five pm alarm",
+            "intent": "alarm_remove"
+        },
+        {
+            "text": "remove events from calendar",
+            "intent": "remove"
+        },
+        {
+            "text": "play songs from titanic",
+            "intent": "play_music"
+        },
+        {
+            "text": "play radio station",
+            "intent": "radio"
+        },
+        {
+            "text": "change color of lights",
+            "intent": "iot_hue_lightchange"
+        },
+        {
+            "text": "is there any new vegan news on facebook",
+            "intent": "social_query"
+        },
+        {
+            "text": "how many teaspoons are in a cup",
+            "intent": "cooking_recipe"
+        },
+        {
+            "text": "who is the prime minister of india",
+            "intent": "factoid"
+        },
+        {
+            "text": "how long was bryan cranston on breaking bad",
+            "intent": "qa_factoid"
+        },
+        {
+            "text": "look up movies near me",
+            "intent": "recommendation_movies"
+        },
+        {
+            "text": "please book the five pm train to rockville",
+            "intent": "transport_ticket"
+        }
+    ]
+}

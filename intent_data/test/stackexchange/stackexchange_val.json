@@ -1,0 +1,52 @@
+{
+    "data": [
+        {
+            "text": "from hauptbahnhof to garching?",
+            "intent": "FindConnection"
+        },
+        {
+            "text": "What new games are available for Ubuntu in 2011?",
+            "intent": "Software Recommendation"
+        },
+        {
+            "text": "Ubuntu upgrade failed",
+            "intent": "Make Update"
+        },
+        {
+            "text": "Archive/export all the blog entries from a RSS feed in Google Reader",
+            "intent": "Export Data"
+        },
+        {
+            "text": "Can I Share/Sync My Picasa Web Albums Automatically to My Facebook Account?",
+            "intent": "Sync Accounts"
+        },
+        {
+            "text": "Mint alternatives for Canada",
+            "intent": "Find Alternative"
+        },
+        {
+            "text": "How do I delete my Experts Exchange account?",
+            "intent": "Delete Account"
+        },
+        {
+            "text": "How to troubleshoot slow shutdown?",
+            "intent": "Shutdown Computer"
+        },
+        {
+            "text": "when the next train in garching forschungszentrum is leaving?",
+            "intent": "DepartureTime"
+        },
+        {
+            "text": "How do I change my password on TV Tropes?",
+            "intent": "Change Password"
+        },
+        {
+            "text": "How to setup HP printer/scanner on ubuntu?",
+            "intent": "Setup Printer"
+        },
+        {
+            "text": "Does marking an email as spam in Gmail affect the filter for everyone?",
+            "intent": "Filter Spam"
+        }
+    ]
+}

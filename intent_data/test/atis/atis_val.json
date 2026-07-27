@@ -1,0 +1,72 @@
+{
+    "data": [
+        {
+            "text": "what is restriction ap80",
+            "intent": "restriction"
+        },
+        {
+            "text": "please list the flight times from boston to pittsburgh",
+            "intent": "flight_time"
+        },
+        {
+            "text": "i need the flight numbers of flights leaving from cleveland and arriving at dallas",
+            "intent": "flight_no"
+        },
+        {
+            "text": "well i 'll try last time tell me the kind of aircraft united airlines flies from denver to san francisco before 10 o'clock in the morning",
+            "intent": "aircraft"
+        },
+        {
+            "text": "what does us mean",
+            "intent": "abbreviation"
+        },
+        {
+            "text": "how much does it cost to rent a car in tacoma",
+            "intent": "ground_fare"
+        },
+        {
+            "text": "can you tell me the afternoon nonstop flights departing from atlanta to boston",
+            "intent": "flight"
+        },
+        {
+            "text": "please show me round trip tickets from denver to oakland",
+            "intent": "airfare"
+        },
+        {
+            "text": "what airline is hp",
+            "intent": "airline"
+        },
+        {
+            "text": "is there a meal on delta flight 852 from san francisco to dallas fort worth",
+            "intent": "meal"
+        },
+        {
+            "text": "give me the flights and fares on december twenty seventh from indianapolis to orlando",
+            "intent": "flight_airfare"
+        },
+        {
+            "text": "tell me distance from orlando airport to the city",
+            "intent": "distance"
+        },
+        {
+            "text": "what is the seating capacity for aircraft l10",
+            "intent": "capacity"
+        },
+        {
+            "text": "airports in new york",
+            "intent": "airport"
+        },
+        {
+            "text": "show me the ground transportation to westchester county",
+            "intent": "ground_service"
+        },
+        {
+            "text": "how many of delta 's night flights are first class",
+            "intent": "quantity"
+        },
+        {
+            "text": "what cities does northwest fly out of",
+            "intent": "city"
+        }
+    ]
+}

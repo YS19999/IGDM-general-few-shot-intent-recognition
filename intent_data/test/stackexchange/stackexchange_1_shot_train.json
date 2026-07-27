@@ -1,0 +1,52 @@
+{
+    "data": [
+        {
+            "text": "shutdown 5:30pm every day",
+            "intent": "Shutdown Computer"
+        },
+        {
+            "text": "How to upgrade Ubuntu 14.04.1 to 14.04.2?",
+            "intent": "Make Update"
+        },
+        {
+            "text": "QA Platform similar to Stack Exchange model?",
+            "intent": "Find Alternative"
+        },
+        {
+            "text": "Gmail user set up through Google Apps can't change their password",
+            "intent": "Change Password"
+        },
+        {
+            "text": "How do I delete my Facebook account?",
+            "intent": "Delete Account"
+        },
+        {
+            "text": "How can I export track.scrobble data from last.fm?",
+            "intent": "Export Data"
+        },
+        {
+            "text": "How to Install a Canon MF8040Cn Printer on Ubuntu 12.04",
+            "intent": "Setup Printer"
+        },
+        {
+            "text": "Totally Blocking Spam To Gmail Account",
+            "intent": "Filter Spam"
+        },
+        {
+            "text": "Sync not export Facebook events with Google Apps calendar",
+            "intent": "Sync Accounts"
+        },
+        {
+            "text": "how to get from untere strasscker 21 to frttmaning",
+            "intent": "FindConnection"
+        },
+        {
+            "text": "What's a simple colour picker app for GNOME?",
+            "intent": "Software Recommendation"
+        },
+        {
+            "text": "when is the next train in nordfriedhof",
+            "intent": "DepartureTime"
+        }
+    ]
+}

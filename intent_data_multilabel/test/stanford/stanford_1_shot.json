@@ -1,0 +1,118 @@
+{
+    "data": [
+        {
+            "text": "Could you please send on my screen the fastest route to get there ?",
+            "intent": [
+                "show_in_screen",
+                "request_route"
+            ]
+        },
+        {
+            "text": "I need to know when my football activity is and with whom .",
+            "intent": [
+                "request_time",
+                "request_date",
+                "request_party"
+            ]
+        },
+        {
+            "text": "Let 's try Travelers Lodge what 's the address and how 's the traffic ?",
+            "intent": [
+                "request_address",
+                "request_traffic"
+            ]
+        },
+        {
+            "text": "I am guessing Ravenswood would be faster . Let 's go there .",
+            "intent": [
+                "navigate",
+                "inform"
+            ]
+        },
+        {
+            "text": "Look up san francisco 's two day weather info to see if it will be warm",
+            "intent": [
+                "request_weather",
+                "query"
+            ]
+        },
+        {
+            "text": "on my calendar set a time for tennis at 12 pm",
+            "intent": [
+                "schedule"
+            ]
+        },
+        {
+            "text": "Find me a place where i can enjoy some chinese food around here .",
+            "intent": [
+                "request_poi"
+            ]
+        },
+        {
+            "text": "Info about football please .",
+            "intent": [
+                "request_information"
+            ]
+        },
+        {
+            "text": "Yes , please do .",
+            "intent": [
+                "confirm"
+            ]
+        },
+        {
+            "text": "I need the current temperature for Atherton , please .",
+            "intent": [
+                "request_temperature"
+            ]
+        },
+        {
+            "text": "What is my agenda today ?",
+            "intent": [
+                "request_agenda"
+            ]
+        },
+        {
+            "text": "Where is the location of the meeting ?",
+            "intent": [
+                "request_location"
+            ]
+        },
+        {
+            "text": "Perfect . Nothing else for now .",
+            "intent": [
+                "appreciate"
+            ]
+        },
+        {
+            "text": "List my current reminders .",
+            "intent": [
+                "list_schedule"
+            ]
+        },
+        {
+            "text": "Please remind me I 'm going to a swimming party at 5 pm on July 7th with Martha",
+            "intent": [
+                "remind"
+            ]
+        },
+        {
+            "text": "doctor 's appointment at 10 am on monday august 8th",
+            "intent": [
+                "command_appointment"
+            ]
+        },
+        {
+            "text": "Which one will be the lowest temperature in Danville during the next week ?",
+            "intent": [
+                "request_low_temperature"
+            ]
+        },
+        {
+            "text": "What is the highest temperature in New York right now",
+            "intent": [
+                "request_high_temperature"
+            ]
+        }
+    ]
+}
