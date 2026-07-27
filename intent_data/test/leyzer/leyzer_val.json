@@ -1,0 +1,568 @@
+{
+    "data": [
+        {
+            "text": "create a new contact using a name christie patrick with a number 1 202 555 0163 as work",
+            "intent": "ShowContactWithNameAndWithNumberAndWithType"
+        },
+        {
+            "text": "what temperature do I have in here according to my heating ?",
+            "intent": "GetTemperature"
+        },
+        {
+            "text": "display my google drive files larger than 1 mb",
+            "intent": "ShowFilesWithSize"
+        },
+        {
+            "text": "pages matching google docs",
+            "intent": "SearchText"
+        },
+        {
+            "text": "images from duckduckgo matching running meme larger than 800 x 600",
+            "intent": "SearchImagesWithTextOnEngineWithWidthAndWithHeightAndWithCondition"
+        },
+        {
+            "text": "get email",
+            "intent": "OpenEmail"
+        },
+        {
+            "text": "show me emails with subject offer",
+            "intent": "ShowEmailWithSubject"
+        },
+        {
+            "text": "whats on my schedule next wednesday",
+            "intent": "CheckCalendarOnDate"
+        },
+        {
+            "text": "play a song love fuzz by william basinski",
+            "intent": "PlaySongByArtist"
+        },
+        {
+            "text": "show the instagram pictures i took when i was in new york",
+            "intent": "ShowPicturesWithLocation"
+        },
+        {
+            "text": "get recent messages from danna mcgarrigle in slack",
+            "intent": "CheckMessagesFromUser"
+        },
+        {
+            "text": "show my google drive files of type jpeg",
+            "intent": "ShowFilesWithType"
+        },
+        {
+            "text": "make new playlist titled nudisco",
+            "intent": "CreatePlaylistWithName"
+        },
+        {
+            "text": "set the number 1 803 555 0199 in contact head as home",
+            "intent": "EditNumberInContactWithNameToNumberAndToType"
+        },
+        {
+            "text": "check emails from carrissatexaco.com",
+            "intent": "ShowEmailFromSender"
+        },
+        {
+            "text": "dial 00 589 999 000",
+            "intent": "CallNumber"
+        },
+        {
+            "text": "downtown redmond parking garage around",
+            "intent": "SearchByQuery"
+        },
+        {
+            "text": "house of on google",
+            "intent": "SearchTextOnEngine"
+        },
+        {
+            "text": "images from google matching wallpaper free fire with size 800 x 600",
+            "intent": "SearchImagesWithTextOnEngineWithWidthAndWithHeight"
+        },
+        {
+            "text": "restaurants around momence reviewed by at least 10000 people",
+            "intent": "SearchByReviewCountInLocation"
+        },
+        {
+            "text": "upload a message on slack",
+            "intent": "SendMessage"
+        },
+        {
+            "text": "restaurants here reviewed by at least 100 people",
+            "intent": "SearchByReviewCount"
+        },
+        {
+            "text": "add an event called education to calendar on friday",
+            "intent": "AddEventOnDateWithDate"
+        },
+        {
+            "text": "text kirsti containing call me",
+            "intent": "SMSToContactWithMessage"
+        },
+        {
+            "text": "play youtube 's cooking and health channels",
+            "intent": "ShowChannelWithCategory"
+        },
+        {
+            "text": "resume my spotify",
+            "intent": "Pause"
+        },
+        {
+            "text": "when is sunset at hume",
+            "intent": "SunsetInLocation"
+        },
+        {
+            "text": "the current weather at michael tomorrow",
+            "intent": "WeatherTomorrowInLocation"
+        },
+        {
+            "text": "thai food",
+            "intent": "SearchByCategory"
+        },
+        {
+            "text": "unfollow luvmyrandomness on twitter",
+            "intent": "UnfollowUser"
+        },
+        {
+            "text": "play a playlist sad indie",
+            "intent": "PlayPlaylist"
+        },
+        {
+            "text": "show me news from time",
+            "intent": "ShowNews"
+        },
+        {
+            "text": "show my contacts with phone number 202 555 0147",
+            "intent": "ShowContactWithNumber"
+        },
+        {
+            "text": "save this song to playlist new music nashville",
+            "intent": "AddSongToPlaylistWithName"
+        },
+        {
+            "text": "open the slack app",
+            "intent": "OpenSlack"
+        },
+        {
+            "text": "become a twitter follower of kmore",
+            "intent": "FollowUser"
+        },
+        {
+            "text": "show the humidity level",
+            "intent": "GetHumidity"
+        },
+        {
+            "text": "turn off the cooling system",
+            "intent": "TurnOff"
+        },
+        {
+            "text": "notify me when there is new video from youtube channel unbox therapy",
+            "intent": "NotifyonNewOnChannel"
+        },
+        {
+            "text": "display my instagram pictures tagged fashionphoto",
+            "intent": "ShowPicturesWithHashtag"
+        },
+        {
+            "text": "translate please clean my room from english",
+            "intent": "TranslateTextFromLanguage"
+        },
+        {
+            "text": "play a flamagra hyperion by mosses sumney",
+            "intent": "PlayAlbumOfTypeByArtist"
+        },
+        {
+            "text": "WithCaptionupload a picture on slack to services with caption names",
+            "intent": "SendPictureToChannel"
+        },
+        {
+            "text": "check whether v.steen is active on slack",
+            "intent": "CheckUserStatus"
+        },
+        {
+            "text": "what does the living room indoor temperature sensor show ?",
+            "intent": "GetTemperatureFromDevice"
+        },
+        {
+            "text": "add the like sonny to playlist a perfect day on spotify",
+            "intent": "AddSongWithNameToPlaylistWithName"
+        },
+        {
+            "text": "translate to english",
+            "intent": "TranslateToLanguage"
+        },
+        {
+            "text": "show my contacts with phone number 1 202 555 0148 and email pakkyahoogroups.com",
+            "intent": "ShowContactWithNumberAndWithEmail"
+        },
+        {
+            "text": "forward an email to somebody",
+            "intent": "SendEmail"
+        },
+        {
+            "text": "adele weight loss images on bing",
+            "intent": "SearchImagesWithTextOnEngine"
+        },
+        {
+            "text": "get my bmi from fitbit",
+            "intent": "ShowBMI"
+        },
+        {
+            "text": "add an event called dinner with jon",
+            "intent": "AddEventWithName"
+        },
+        {
+            "text": "forward an email to melbagmail.com with subject dan temple with message held by korean refiner lg international using my gmail",
+            "intent": "SendEmailToAddressWithSubjectAndWithMessage"
+        },
+        {
+            "text": "search images on google",
+            "intent": "SearchImagesOnEngine"
+        },
+        {
+            "text": "detect the language of grigio",
+            "intent": "DetectLanguage"
+        },
+        {
+            "text": "display emails that have label tech",
+            "intent": "ShowEmailWithLabel"
+        },
+        {
+            "text": "mute speaker",
+            "intent": "MuteOn"
+        },
+        {
+            "text": "do not notify me when an event on my calendar at location capus begins",
+            "intent": "NotNotifyOnEventInLocation"
+        },
+        {
+            "text": "set temperature on my thermostat to 79 degrees fahrenheit",
+            "intent": "SetTemperatureToValue"
+        },
+        {
+            "text": "5 star restaurants on yelp",
+            "intent": "SearchByRating"
+        },
+        {
+            "text": "add that data horde to my workday soul playlist on spotify",
+            "intent": "AddAlbumToPlaylist"
+        },
+        {
+            "text": "4 star restaurants in mount lemmon",
+            "intent": "SearchByRatingInLocation"
+        },
+        {
+            "text": "notify me when an appointment on my calendar at location molena begins",
+            "intent": "NotifyOnEventInLocation"
+        },
+        {
+            "text": "turn on the ac",
+            "intent": "TurnOn"
+        },
+        {
+            "text": "show my recent tweets",
+            "intent": "OpenTwitter"
+        },
+        {
+            "text": "set the purpose for channel concerned to present for john on slack",
+            "intent": "SetPurposeOnChannel"
+        },
+        {
+            "text": "restaurants next to santa rita park",
+            "intent": "SearchInLocation"
+        },
+        {
+            "text": "make a new post containing so tired today on facebook",
+            "intent": "PostStatus"
+        },
+        {
+            "text": "when is sunrise time at lynndyl",
+            "intent": "SunriseInLocation"
+        },
+        {
+            "text": "nebraska matching in wiki",
+            "intent": "SearchQuery"
+        },
+        {
+            "text": "go back to the last track",
+            "intent": "PreviousSong"
+        },
+        {
+            "text": "play youtube videos in team coco",
+            "intent": "ShowChannelWithName"
+        },
+        {
+            "text": "upload access devices the company is backed by individual to memorandum on slack",
+            "intent": "SendMessageToChannel"
+        },
+        {
+            "text": "upload cutt.ly/PG2yIDH to possibilities on slack",
+            "intent": "SendPictureWithUrlToChannel"
+        },
+        {
+            "text": "translation of cinq to english from french",
+            "intent": "TranslateTextFromLanguageToLanguage"
+        },
+        {
+            "text": "answer vere",
+            "intent": "ReplyToEmailFromAddress"
+        },
+        {
+            "text": "the danceability of the that song",
+            "intent": "ShowDanceability"
+        },
+        {
+            "text": "display my 2 recent instagram pictures",
+            "intent": "ShowLastNumberPictures"
+        },
+        {
+            "text": "french restaurants near westmont",
+            "intent": "SearchByCategoryInLocation"
+        },
+        {
+            "text": "show me ongoing emails",
+            "intent": "ShowEmailWithPriority"
+        },
+        {
+            "text": "the translation of the day before yesterday to spanish from english with deepl",
+            "intent": "TranslateTextFromLanguageToLanguageWithEngine"
+        },
+        {
+            "text": "call emergency services",
+            "intent": "CallEmergency"
+        },
+        {
+            "text": "create a post on instagram with the last photo from Gallery and add lark filter",
+            "intent": "PostWithLastPictureWithLocationAndWithHashtag"
+        },
+        {
+            "text": "set the temperature to 80 degrees fahrenheit on my hall thermostat",
+            "intent": "SetTemperatureToValueOnDevice"
+        },
+        {
+            "text": "change output language to thai",
+            "intent": "SetDefaultLanguage"
+        },
+        {
+            "text": "send a picture to slack channel possibilities with caption create",
+            "intent": "SendPictureToChannelWithCaption"
+        },
+        {
+            "text": "list my oldest google drive files",
+            "intent": "ShowOldestFiles"
+        },
+        {
+            "text": "notify me if my weight goes over 100 kg",
+            "intent": "NotifyOnWeight"
+        },
+        {
+            "text": "set the topic for channel transportation to mona birthday on slack",
+            "intent": "SetTopicInChannel"
+        },
+        {
+            "text": "open my contact steven moses for edition",
+            "intent": "EditContactWithName"
+        },
+        {
+            "text": "use spotify and play some music",
+            "intent": "OpenSpotify"
+        },
+        {
+            "text": "decrease volume of my speaker",
+            "intent": "DecreaseVolume"
+        },
+        {
+            "text": "message on twitter to saraahjay saying i lost my beard this morning",
+            "intent": "SendMessageToUser"
+        },
+        {
+            "text": "download this page as pdf",
+            "intent": "DownloadAsPdf"
+        },
+        {
+            "text": "email darran binns",
+            "intent": "SendEmailToAddress"
+        },
+        {
+            "text": "post www.tinyurl.com/vmkgtf9 on my facebook with caption with my dad",
+            "intent": "PostPictureWithUrlAndWithCaption"
+        },
+        {
+            "text": "show me my recent instagram pictures",
+            "intent": "ShowPictures"
+        },
+        {
+            "text": "tweets with hashtag su2c",
+            "intent": "ShowTwittsWithHashtag"
+        },
+        {
+            "text": "google search",
+            "intent": "OpenEngine"
+        },
+        {
+            "text": "display my google contacts with email ivonne.jonieoutlook.com",
+            "intent": "ShowContactWithEmail"
+        },
+        {
+            "text": "display my starred google drive files",
+            "intent": "ShowFilesWithStar"
+        },
+        {
+            "text": "sunrise and sunset for location new york",
+            "intent": "SunriseAndSunsetInLocation"
+        },
+        {
+            "text": "save current track",
+            "intent": "AddSongToPlaylist"
+        },
+        {
+            "text": "find restaurant on yelp",
+            "intent": "SearchRestaurant"
+        },
+        {
+            "text": "find youtube channel conjoined twins living",
+            "intent": "FindChannelWithQuery"
+        },
+        {
+            "text": "show me a video published by unbox therapy matching 2017 top song hits on youtube",
+            "intent": "FindQueryOnChannel"
+        },
+        {
+            "text": "show photos in album holidays",
+            "intent": "ShowAlbumWithName"
+        },
+        {
+            "text": "share my CV with sarahodonnellyahoo.com and give a permission for reading",
+            "intent": "ShareFileWithNameToAddress"
+        },
+        {
+            "text": "the huffington politics section",
+            "intent": "ShowNewsFromSection"
+        },
+        {
+            "text": "show my contacts with name marchris robinson",
+            "intent": "ShowContactWithName"
+        },
+        {
+            "text": "moon phase for location dubai",
+            "intent": "MoonphaseInLocation"
+        },
+        {
+            "text": "get recent slack messages in my fellas",
+            "intent": "CheckMessagesInChannel"
+        },
+        {
+            "text": "sms changaris",
+            "intent": "SMSToContact"
+        },
+        {
+            "text": "best coffee shops portland or near mobeetie on yelp",
+            "intent": "SearchByQueryInLocation"
+        },
+        {
+            "text": "show random article",
+            "intent": "RandomPage"
+        },
+        {
+            "text": "display my google drive files created this week",
+            "intent": "ShowFilesFromTime"
+        },
+        {
+            "text": "go to eight element in contents",
+            "intent": "GoToElementNumber"
+        },
+        {
+            "text": "search for vegan on youtube",
+            "intent": "FindQuery"
+        },
+        {
+            "text": "what is the wather in dos rios",
+            "intent": "WeatherInLocation"
+        },
+        {
+            "text": "turn off the speaker",
+            "intent": "TurnOnOrOff"
+        },
+        {
+            "text": "change the name of my contact with number 615 555 0175",
+            "intent": "EditContactWithNumber"
+        },
+        {
+            "text": "play the song vortex on spotify",
+            "intent": "PlaySong"
+        },
+        {
+            "text": "change the number of my contact ruby",
+            "intent": "EditNumberInContactWithName"
+        },
+        {
+            "text": "show me my instagram pictures with filter valencia",
+            "intent": "ShowPicturesWithFilter"
+        },
+        {
+            "text": "post a picture on my facebook",
+            "intent": "PostPicture"
+        },
+        {
+            "text": "sunrise and sunset times at mount orab on date 15 june",
+            "intent": "SunriseAndSunsetInLocationAndOnDate"
+        },
+        {
+            "text": "get the count of steps from fitbit",
+            "intent": "ShowSteps"
+        },
+        {
+            "text": "set default input language to hindi",
+            "intent": "SetDefaultLanguageToLanguage"
+        },
+        {
+            "text": "what's the weather like",
+            "intent": "OpenWeather"
+        },
+        {
+            "text": "show me my post from April",
+            "intent": "ShowPicturesFromDate"
+        },
+        {
+            "text": "show this page in russian",
+            "intent": "ChangeLanguageToLanguage"
+        },
+        {
+            "text": "display my emails that arrived two days ago",
+            "intent": "ShowEmailFromTime"
+        },
+        {
+            "text": "what is the translation of can you change a traveller's check for me",
+            "intent": "TranslateText"
+        },
+        {
+            "text": "make a list",
+            "intent": "CreatePlaylist"
+        },
+        {
+            "text": "my fitbit steps on 1st January",
+            "intent": "ShowStepsOnDate"
+        },
+        {
+            "text": "say in finish is breakfast included",
+            "intent": "TranslateTextToLanguage"
+        },
+        {
+            "text": "email to koralcpuc.ca.gov with subject new edison advice letter",
+            "intent": "SendEmailToAddressWithSubject"
+        },
+        {
+            "text": "show my files in google drive",
+            "intent": "OpenGdrive"
+        },
+        {
+            "text": "list my google drive files in alphabetical order",
+            "intent": "SortReverseAlphabetical"
+        },
+        {
+            "text": "moon phase for nixon on date 30 january",
+            "intent": "MoonphaseInLocationOnDate"
+        },
+        {
+            "text": "skip than song on spotify",
+            "intent": "NextSong"
+        }
+    ]
+}

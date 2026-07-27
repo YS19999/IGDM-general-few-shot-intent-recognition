@@ -1,0 +1,176 @@
+{
+    "data": [
+        {
+            "text": "Can you give me some - tell me some cheap rate hotels because I'm planning just to leave my bags there and go somewhere take some pictures .",
+            "intent": [
+                "INFO",
+                "RECOMMEND",
+                "EXPLAIN"
+            ]
+        },
+        {
+            "text": "Challenging , okay , eating with your hands would be like either the chili crabs or pepper crabs , this will be challenging .",
+            "intent": [
+                "INFO",
+                "RECOMMEND",
+                "EXPLAIN"
+            ]
+        },
+        {
+            "text": "Okay sure , and when do you plan to come to Singapore ?",
+            "intent": [
+                "POSITIVE",
+                "WHEN"
+            ]
+        },
+        {
+            "text": "Formula One is in September .",
+            "intent": [
+                "POSITIVE",
+                "WHEN"
+            ]
+        },
+        {
+            "text": "Two , three stops down ?",
+            "intent": [
+                "HOW_TO",
+                "WHERE"
+            ]
+        },
+        {
+            "text": "Yah from Tanah Merah you follow the green line all the way down .",
+            "intent": [
+                "HOW_TO",
+                "WHERE"
+            ]
+        },
+        {
+            "text": "Maybe two days .",
+            "intent": [
+                "HOW_MUCH",
+                "COMMIT"
+            ]
+        },
+        {
+            "text": "I'm gonna visit Singapore , the whole Singapore if - for three days .",
+            "intent": [
+                "HOW_MUCH",
+                "COMMIT"
+            ]
+        },
+        {
+            "text": "restaurants or bars .",
+            "intent": [
+                "WHICH"
+            ]
+        },
+        {
+            "text": "So which stop from the railways - which railway station shall I shop in order for me to get a bus ?",
+            "intent": [
+                "WHICH"
+            ]
+        },
+        {
+            "text": "So I think that's okay now .",
+            "intent": [
+                "ENOUGH"
+            ]
+        },
+        {
+            "text": "I think that's all .",
+            "intent": [
+                "ENOUGH"
+            ]
+        },
+        {
+            "text": "like Antonio Banderas ?",
+            "intent": [
+                "WHO"
+            ]
+        },
+        {
+            "text": "And like who will you be coming with ?",
+            "intent": [
+                "WHO"
+            ]
+        },
+        {
+            "text": "Oh thank you .",
+            "intent": [
+                "THANK"
+            ]
+        },
+        {
+            "text": "Thanks for the -",
+            "intent": [
+                "THANK"
+            ]
+        },
+        {
+            "text": "What's your favourite ?",
+            "intent": [
+                "WHAT"
+            ]
+        },
+        {
+            "text": "The more - What do you call them ?",
+            "intent": [
+                "WHAT"
+            ]
+        },
+        {
+            "text": "It is - there is a water flowing on its mouth ?",
+            "intent": [
+                "CONFIRM"
+            ]
+        },
+        {
+            "text": "COMEX , alright .",
+            "intent": [
+                "CONFIRM"
+            ]
+        },
+        {
+            "text": "Can you help me out ?",
+            "intent": [
+                "OPENING"
+            ]
+        },
+        {
+            "text": "Okay , this rate is not available here .",
+            "intent": [
+                "NEGATIVE"
+            ]
+        },
+        {
+            "text": "no actually .",
+            "intent": [
+                "NEGATIVE"
+            ]
+        },
+        {
+            "text": "Just the two of us .",
+            "intent": [
+                "PREFERENCE"
+            ]
+        },
+        {
+            "text": "I guess if actually Sentosa would be probably for me and for my son .",
+            "intent": [
+                "PREFERENCE"
+            ]
+        },
+        {
+            "text": "the hotels - Yah .",
+            "intent": [
+                "ACK"
+            ]
+        },
+        {
+            "text": "Okay , and I just need to choose what kind of fruit I wanted to mix with this lassi .",
+            "intent": [
+                "ACK"
+            ]
+        }
+    ]
+}

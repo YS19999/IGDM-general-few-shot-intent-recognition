@@ -1,0 +1,52 @@
+{
+    "data": [
+        {
+            "text": "show alarms for this evening",
+            "intent": "alarm_show_alarms"
+        },
+        {
+            "text": "set alarm for this evening",
+            "intent": "alarm_set_alarm"
+        },
+        {
+            "text": "is the weather supposed to snow in NY",
+            "intent": "weather_find"
+        },
+        {
+            "text": "Snooze alarm for 15 minutes",
+            "intent": "alarm_snooze_alarm"
+        },
+        {
+            "text": "Cancel Mondays alarms",
+            "intent": "alarm_cancel_alarm"
+        },
+        {
+            "text": "how much time is left on oven alarm",
+            "intent": "alarm_time_left_on_alarm"
+        },
+        {
+            "text": "What are my current reminders for tomorrow",
+            "intent": "reminder_show_reminders"
+        },
+        {
+            "text": "when will the sun set",
+            "intent": "weather_checkSunset"
+        },
+        {
+            "text": "Change my morning alarm to 7:45 am",
+            "intent": "alarm_modify_alarm"
+        },
+        {
+            "text": "Set a monthly reminder to pay bills",
+            "intent": "reminder_set_reminder"
+        },
+        {
+            "text": "Cancel reminder to buy yogurt",
+            "intent": "reminder_cancel_reminder"
+        },
+        {
+            "text": "when does the sun rise in London",
+            "intent": "weather_checkSunrise"
+        }
+    ]
+}

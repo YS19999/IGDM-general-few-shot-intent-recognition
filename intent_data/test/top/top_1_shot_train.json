@@ -1,0 +1,80 @@
+{
+    "data": [
+        {
+            "text": "tell me traffic in this area",
+            "intent": "GET_INFO_TRAFFIC"
+        },
+        {
+            "text": "what's the address to the closest hospital",
+            "intent": "GET_LOCATION"
+        },
+        {
+            "text": "I need to be at TYS Airport by 5 pm leaving from my house and taking the freeway which is the best route to go and time to leave?",
+            "intent": "COMBINE"
+        },
+        {
+            "text": "are any of my friends hosting parties in Wilmington this weekend",
+            "intent": "GET_EVENT_ORGANIZER"
+        },
+        {
+            "text": "What time is happy hour at Trulucks on Sunday",
+            "intent": "UNSUPPORTED_EVENT"
+        },
+        {
+            "text": "can i get to charlotte from here before 3 pm",
+            "intent": "GET_ESTIMATED_ARRIVAL"
+        },
+        {
+            "text": "How are road conditions here",
+            "intent": "GET_INFO_ROAD_CONDITION"
+        },
+        {
+            "text": "how many people expected at the amphitheatre",
+            "intent": "GET_EVENT_ATTENDEE_AMOUNT"
+        },
+        {
+            "text": "Redirect route",
+            "intent": "UPDATE_DIRECTIONS"
+        },
+        {
+            "text": "What is the drive time from where I am now to home",
+            "intent": "GET_ESTIMATED_DURATION"
+        },
+        {
+            "text": "What movie theater in Johnson City Tennessee is the best one to take my kids to at noon",
+            "intent": "UNSUPPORTED"
+        },
+        {
+            "text": "get directions to New York City without construction leaving at 3pm",
+            "intent": "GET_DIRECTIONS"
+        },
+        {
+            "text": "how far is it from the California-Mexico border to the Alaska border",
+            "intent": "GET_DISTANCE"
+        },
+        {
+            "text": "Is Jack going to the concert",
+            "intent": "GET_EVENT_ATTENDEE"
+        },
+        {
+            "text": "Is there a gas station on my route",
+            "intent": "GET_INFO_ROUTE"
+        },
+        {
+            "text": "Start a new destination after this one",
+            "intent": "UNSUPPORTED_NAVIGATION"
+        },
+        {
+            "text": "Is to Blue bevill State Saturday January 5th at 10 a.m.",
+            "intent": "UNINTELLIGIBLE"
+        },
+        {
+            "text": "What time should I leave to make it to church by 6:30",
+            "intent": "GET_ESTIMATED_DEPARTURE"
+        },
+        {
+            "text": "Are there any Comic Con events in Sacramento this weekend",
+            "intent": "GET_EVENT"
+        }
+    ]
+}

@@ -1,0 +1,1764 @@
+{
+    "data": [
+        {
+            "text": "if i see a payment in the app that i don't recognize what should i do",
+            "intent": "card_payment_not_recognised"
+        },
+        {
+            "text": "what is my password",
+            "intent": "passcode_forgotten"
+        },
+        {
+            "text": "make a venmo request for 100 from melissa",
+            "intent": "payment_request"
+        },
+        {
+            "text": "i wonder what my balance is",
+            "intent": "balance"
+        },
+        {
+            "text": "is there any event around",
+            "intent": "recommendation_events"
+        },
+        {
+            "text": "when did i buy salesforce",
+            "intent": "stock_age"
+        },
+        {
+            "text": "place order for usual burritto at chipolte",
+            "intent": "takeaway_order"
+        },
+        {
+            "text": "can you tell me the time when i can watch the movie",
+            "intent": "gettimesformovie"
+        },
+        {
+            "text": "i'm bored can you find me any attractions i can visit",
+            "intent": "findattractions"
+        },
+        {
+            "text": "go on with the you aren't done running till this goes off timer",
+            "intent": "resume_timer"
+        },
+        {
+            "text": "tell me how you're made",
+            "intent": "where_are_you_from"
+        },
+        {
+            "text": "text christopher and tell him i will stop by",
+            "intent": "text"
+        },
+        {
+            "text": "i have a new phone number and need to edit my contact information",
+            "intent": "edit_personal_details"
+        },
+        {
+            "text": "change your language setting to spanish",
+            "intent": "change_language"
+        },
+        {
+            "text": "could you please reset your factory settings",
+            "intent": "reset_settings"
+        },
+        {
+            "text": "set the average of the device",
+            "intent": "audio_volume_other"
+        },
+        {
+            "text": "i need you to your volume",
+            "intent": "change_volume"
+        },
+        {
+            "text": "if i exchange currencies on a frequent basis can i receive a discount",
+            "intent": "exchange_charge"
+        },
+        {
+            "text": "i would like to know what hobbies you enjoy",
+            "intent": "what_are_your_hobbies"
+        },
+        {
+            "text": "i need new home owners insurance",
+            "intent": "insurance_change"
+        },
+        {
+            "text": "i deposited cash this morning but it's not showing up in my account can you tell me where's my money",
+            "intent": "balance_not_updated_after_cheque_or_cash_deposit"
+        },
+        {
+            "text": "that is kevin over on the left corner take a left turn and find the nearest parking spot",
+            "intent": "talk2car"
+        },
+        {
+            "text": "hello i am unable to exchange the crypto currency through the app i am very keen to buy please let me know the issue interested buying crypto currency but i am unable to purchase it through the application i do want to do the exchange could you please let me know what is the problem",
+            "intent": "beneficiary_not_allowed"
+        },
+        {
+            "text": "what should i do if my car battery is dead",
+            "intent": "jump_start"
+        },
+        {
+            "text": "tell me the meaning of condemnation",
+            "intent": "definition"
+        },
+        {
+            "text": "i have not received a refund",
+            "intent": "refund_not_showing_up"
+        },
+        {
+            "text": "shush please",
+            "intent": "silence_alarm"
+        },
+        {
+            "text": "what is the reason i am locked out of my bank account",
+            "intent": "account_blocked"
+        },
+        {
+            "text": "can you please turn on my furnace",
+            "intent": "smart_home"
+        },
+        {
+            "text": "it doesn't let me verify my identity",
+            "intent": "unable_to_verify_identity"
+        },
+        {
+            "text": "on my to do list add dishes",
+            "intent": "todo_list_update"
+        },
+        {
+            "text": "why has my card payment been reversed",
+            "intent": "reverted_card_payment"
+        },
+        {
+            "text": "turn on some radio station",
+            "intent": "play_radio"
+        },
+        {
+            "text": "play the next song instead",
+            "intent": "next_song"
+        },
+        {
+            "text": "what day did i last have the oil in my car changed",
+            "intent": "last_maintenance"
+        },
+        {
+            "text": "i would like to transfer money",
+            "intent": "transfermoney"
+        },
+        {
+            "text": "has the trip been approved",
+            "intent": "status"
+        },
+        {
+            "text": "tell me about city traffic",
+            "intent": "transport_traffic"
+        },
+        {
+            "text": "is milk one of the things i need to buy",
+            "intent": "shopping_list"
+        },
+        {
+            "text": "mute sound from speakers",
+            "intent": "audio_volume_mute"
+        },
+        {
+            "text": "do i have any meetings with ben today",
+            "intent": "meeting_schedule"
+        },
+        {
+            "text": "i need help regarding a festival show",
+            "intent": "play_times"
+        },
+        {
+            "text": "i had transferred some money but the balance hasn't changed",
+            "intent": "balance_not_updated_after_bank_transfer"
+        },
+        {
+            "text": "tell me who callie is",
+            "intent": "get_info_contact"
+        },
+        {
+            "text": "for how much longer will coronavirus pandemic be around",
+            "intent": "pandemic_duration"
+        },
+        {
+            "text": "search google for how to set up direct deposit",
+            "intent": "direct_deposit"
+        },
+        {
+            "text": "olly lets listen to hunt for read october",
+            "intent": "play_audiobook"
+        },
+        {
+            "text": "i see a direct debit transaction in my history that i did not set up",
+            "intent": "direct_debit_payment_not_recognised"
+        },
+        {
+            "text": "i need some help with my playlist",
+            "intent": "edit_playlist"
+        },
+        {
+            "text": "what you age on your last birthday",
+            "intent": "how_old_are_you"
+        },
+        {
+            "text": "tell me the character for cargo in mongolian",
+            "intent": "character_stroke"
+        },
+        {
+            "text": "make the lights shine blue",
+            "intent": "iot_hue_lightchange"
+        },
+        {
+            "text": "show creativity of the house of the dead",
+            "intent": "search_creative_work"
+        },
+        {
+            "text": "when did phil start working for mcdonalds",
+            "intent": "get_employment_time"
+        },
+        {
+            "text": "what things are on my todo list",
+            "intent": "todo_list"
+        },
+        {
+            "text": "the transfer i tried to make failed",
+            "intent": "failed_transfer"
+        },
+        {
+            "text": "i was trying to use contactless earlier but it didn't work",
+            "intent": "contactless_not_working"
+        },
+        {
+            "text": "how would i say i must be going now if i were german",
+            "intent": "translate"
+        },
+        {
+            "text": "turn off the fan08",
+            "intent": "iot_wemo_off"
+        },
+        {
+            "text": "i need some help planning my wedding",
+            "intent": "wedding_planner"
+        },
+        {
+            "text": "i want to learn the process of changing oil",
+            "intent": "oil_change_how"
+        },
+        {
+            "text": "remove the may 11 event called baby shower from my calendar",
+            "intent": "calendar_update"
+        },
+        {
+            "text": "respond maybe to eat drink play los gatos",
+            "intent": "set_rsvp_interested"
+        },
+        {
+            "text": "i need help coming up with a name for my new restaurant",
+            "intent": "name_suggester"
+        },
+        {
+            "text": "how much money did i spend this weekend",
+            "intent": "spending_history"
+        },
+        {
+            "text": "i was charged extra when i made a cash withdraw why",
+            "intent": "cash_withdrawal_charge"
+        },
+        {
+            "text": "why did my top-up not work",
+            "intent": "top_up_failed"
+        },
+        {
+            "text": "tell me the opposite meaning for classy",
+            "intent": "word_antonym"
+        },
+        {
+            "text": "z uses which type of plug",
+            "intent": "plug_type"
+        },
+        {
+            "text": "flip it please",
+            "intent": "flip_coin"
+        },
+        {
+            "text": "can you help me hunt for my missing cellphone",
+            "intent": "find_phone"
+        },
+        {
+            "text": "turn on my son's room plug socket on off",
+            "intent": "iot_wemo_on"
+        },
+        {
+            "text": "kishore17051985 gmail com",
+            "intent": "email_sendemail"
+        },
+        {
+            "text": "should i call a car maintenance",
+            "intent": "schedule_maintenance"
+        },
+        {
+            "text": "is it ok if there is a little pink in the pork",
+            "intent": "is_true_recipes"
+        },
+        {
+            "text": "do i need vaccinations to travel there",
+            "intent": "vaccines"
+        },
+        {
+            "text": "which of my coworkers are on the engineering team",
+            "intent": "org_chart_team"
+        },
+        {
+            "text": "how can i set up a meeting",
+            "intent": "schedule_meeting"
+        },
+        {
+            "text": "by main power off",
+            "intent": "iot_hue_lightoff"
+        },
+        {
+            "text": "look for a joke",
+            "intent": "tell_joke"
+        },
+        {
+            "text": "i need to reserve a house for 3 guest with a checkin date of march 8th",
+            "intent": "bookhouse"
+        },
+        {
+            "text": "can my children have their own account",
+            "intent": "age_limit"
+        },
+        {
+            "text": "i am very grateful",
+            "intent": "thank_you"
+        },
+        {
+            "text": "i just took cough syrup what are the side effects from it",
+            "intent": "side_effects"
+        },
+        {
+            "text": "how can i order more checks",
+            "intent": "checks"
+        },
+        {
+            "text": "i'm going out of the country and need to notify my bank",
+            "intent": "travel_notification"
+        },
+        {
+            "text": "what animated movies are playing close by at four o'clock",
+            "intent": "search_screening_event"
+        },
+        {
+            "text": "i need to return something",
+            "intent": "shopping"
+        },
+        {
+            "text": "help me figure out my state taxes",
+            "intent": "taxes"
+        },
+        {
+            "text": "what s the recovery time for a broken bone",
+            "intent": "recovery_duration"
+        },
+        {
+            "text": "i need the card number for my insurance",
+            "intent": "insurance_number"
+        },
+        {
+            "text": "use mainly apple music",
+            "intent": "set_default_provider_music"
+        },
+        {
+            "text": "where do my available funds come from",
+            "intent": "verify_source_of_funds"
+        },
+        {
+            "text": "can my credit limit on my discovery card go up",
+            "intent": "credit_limit_change"
+        },
+        {
+            "text": "where can i get a shot of tequila and some to-go mexican food",
+            "intent": "takeaway_query"
+        },
+        {
+            "text": "ai please stop your current task",
+            "intent": "cancel"
+        },
+        {
+            "text": "what is the exchange rate in pesos for 100 dollars",
+            "intent": "exchange_rate"
+        },
+        {
+            "text": "i want to booking a restaurant for 2 people",
+            "intent": "restaurant_reservation"
+        },
+        {
+            "text": "change the time",
+            "intent": "alarm_set"
+        },
+        {
+            "text": "do you have same day appointments for walk-ins",
+            "intent": "appointment"
+        },
+        {
+            "text": "what is my chase card's rewards balance",
+            "intent": "rewards_balance"
+        },
+        {
+            "text": "i have questions about my plan",
+            "intent": "phone_plan_bot"
+        },
+        {
+            "text": "hi i have a5 day vacation coming up and i would like to spend it somewhere warm can you help me find somewhere warm",
+            "intent": "vacation_ideas"
+        },
+        {
+            "text": "is sarah's birthday in august",
+            "intent": "get_age"
+        },
+        {
+            "text": "i m traveling to south america and i want to know if the zika virus is contagious",
+            "intent": "is_contagious"
+        },
+        {
+            "text": "how do i get a refill on my lyrica",
+            "intent": "prescription_refill"
+        },
+        {
+            "text": "is there a generic version of cipro",
+            "intent": "generic_available"
+        },
+        {
+            "text": "i need you to cancel my reservation for smith at the williams diner",
+            "intent": "cancel_reservation"
+        },
+        {
+            "text": "my app is showing a cash balance that i did not receive",
+            "intent": "cash_withdrawal_not_recognised"
+        },
+        {
+            "text": "so where do i get the w2 form",
+            "intent": "w2"
+        },
+        {
+            "text": "i would give half a life 3 out of 6",
+            "intent": "rate_book"
+        },
+        {
+            "text": "hang up the phone",
+            "intent": "end_call"
+        },
+        {
+            "text": "can i make online purchases with my card",
+            "intent": "card_acceptance"
+        },
+        {
+            "text": "what institution is the best for prostate cancer patients",
+            "intent": "recommended_hospital"
+        },
+        {
+            "text": "time  date",
+            "intent": "transport_ticket"
+        },
+        {
+            "text": "i want to buy a gift for my grandma she is turning 90 tomorrow",
+            "intent": "present_ideas"
+        },
+        {
+            "text": "message luanne that we'll meet her at great adventure on tuesday",
+            "intent": "send_message"
+        },
+        {
+            "text": "please double check on my reservations for buffalo wild wings at five for the game",
+            "intent": "confirm_reservation"
+        },
+        {
+            "text": "i have left my card at my parents house can you send me a spare one please to use in the meantime",
+            "intent": "getting_spare_card"
+        },
+        {
+            "text": "it's been a few days since i've tried to pay a seller but the funds aren't going through what is happening",
+            "intent": "pending_card_payment"
+        },
+        {
+            "text": "skip to the next artist",
+            "intent": "skip_track_music"
+        },
+        {
+            "text": "what ground transportation is available from dallas fort worth airport to downtown dallas",
+            "intent": "ground_service"
+        },
+        {
+            "text": "i may need to exchange my usd for gbp can your app do that",
+            "intent": "exchange_via_app"
+        },
+        {
+            "text": "i plan attending a party with friend and i need tips",
+            "intent": "prompt_generator"
+        },
+        {
+            "text": "what currencies do you accept",
+            "intent": "fiat_currency_support"
+        },
+        {
+            "text": "can i get more checkbooks for my bank of america checkings account",
+            "intent": "order_checks"
+        },
+        {
+            "text": "you're talking too quickly for me to understand",
+            "intent": "change_speed"
+        },
+        {
+            "text": "i want you to check and confirm what last said please",
+            "intent": "general_confirm"
+        },
+        {
+            "text": "do you have a nickname",
+            "intent": "what_is_your_name"
+        },
+        {
+            "text": "give me my income",
+            "intent": "income"
+        },
+        {
+            "text": "which countries are playing in the world cup today",
+            "intent": "sports_info"
+        },
+        {
+            "text": "please help me find a cab",
+            "intent": "getride"
+        },
+        {
+            "text": "i wouldn't really mind olly",
+            "intent": "general_dontcare"
+        },
+        {
+            "text": "get me the forms to put in for holiday",
+            "intent": "request"
+        },
+        {
+            "text": "i want to see video messages from my papa",
+            "intent": "get_message"
+        },
+        {
+            "text": "olly can you change my timezone from central time to pacific",
+            "intent": "datetime_convert"
+        },
+        {
+            "text": "i'm afraid my luggage has gone missing",
+            "intent": "lost_luggage"
+        },
+        {
+            "text": "what is a peso worth in currencysource dollars",
+            "intent": "qa_currency"
+        },
+        {
+            "text": "when's the the last time i was paid",
+            "intent": "payday"
+        },
+        {
+            "text": "can you help with a pet",
+            "intent": "pet_advice"
+        },
+        {
+            "text": "let's use whisper voice",
+            "intent": "whisper_mode"
+        },
+        {
+            "text": "how many calories are in a large fry",
+            "intent": "calories"
+        },
+        {
+            "text": "how long do you need to put the cuish in for",
+            "intent": "cook_time"
+        },
+        {
+            "text": "is it windy tomorrow",
+            "intent": "weather_query"
+        },
+        {
+            "text": "i need help managing my contacts",
+            "intent": "contact_manager"
+        },
+        {
+            "text": "how do i get reimbursed for my business trip",
+            "intent": "expense_report"
+        },
+        {
+            "text": "do i have to use a bank approved atm to withdraw money",
+            "intent": "atm_support"
+        },
+        {
+            "text": "do i receive the physical card for free",
+            "intent": "order_physical_card"
+        },
+        {
+            "text": "why was my cash withdrawal cancelled at the atm",
+            "intent": "declined_cash_withdrawal"
+        },
+        {
+            "text": "how do i make lassagna",
+            "intent": "recipe"
+        },
+        {
+            "text": "what gift should i bring to a retirement party",
+            "intent": "gift_idea"
+        },
+        {
+            "text": "the place is too crowded do go again on the weekend",
+            "intent": "meal_log"
+        },
+        {
+            "text": "i would like you to put a stop on my bank account",
+            "intent": "freeze_account"
+        },
+        {
+            "text": "i have a visa and mastercard can i use these",
+            "intent": "visa_or_mastercard"
+        },
+        {
+            "text": "how does my card's apr compare to others",
+            "intent": "apr"
+        },
+        {
+            "text": "repeat fall on me",
+            "intent": "replay_music"
+        },
+        {
+            "text": "please lights less brighter",
+            "intent": "iot_hue_lightdim"
+        },
+        {
+            "text": "it was nice to chat",
+            "intent": "goodbye"
+        },
+        {
+            "text": "do you mind informing me the status of my southwest flight",
+            "intent": "flight_status"
+        },
+        {
+            "text": "can you explain the process of buying a home",
+            "intent": "new_home"
+        },
+        {
+            "text": "what will i need for identity verification",
+            "intent": "verify_my_identity"
+        },
+        {
+            "text": "i'm not happy with service and would like to delete this account",
+            "intent": "terminate_account"
+        },
+        {
+            "text": "will i need a travel visa to go to canary islands",
+            "intent": "international_visa"
+        },
+        {
+            "text": "how rapidly is the climate changing",
+            "intent": "question_news"
+        },
+        {
+            "text": "modify my alarm to 8pm",
+            "intent": "update_alarm"
+        },
+        {
+            "text": "what's a good french meal",
+            "intent": "meal_suggestion"
+        },
+        {
+            "text": "what's the mileage to get the the taj mahal in atlantic city",
+            "intent": "distance"
+        },
+        {
+            "text": "tell me the normal range of vitamind for a 30 year old male",
+            "intent": "normal_levels"
+        },
+        {
+            "text": "how do i use cash to top up my account",
+            "intent": "top_up_by_cash_or_cheque"
+        },
+        {
+            "text": "when will the money be made available in my account",
+            "intent": "transfer_timing"
+        },
+        {
+            "text": "is it night time in peru",
+            "intent": "datetime_query"
+        },
+        {
+            "text": "how can i keep my credit score from going down",
+            "intent": "improve_credit_score"
+        },
+        {
+            "text": "what are the symptoms of lung cancer",
+            "intent": "symptoms"
+        },
+        {
+            "text": "change accent to british male",
+            "intent": "change_accent"
+        },
+        {
+            "text": "what is the status of my order",
+            "intent": "check_status"
+        },
+        {
+            "text": "remind me again please",
+            "intent": "reminder_update"
+        },
+        {
+            "text": "hello i need help",
+            "intent": "order_pizza"
+        },
+        {
+            "text": "i need to cancel a purchase",
+            "intent": "request_refund"
+        },
+        {
+            "text": "hi",
+            "intent": "time_zone"
+        },
+        {
+            "text": "can you suggest music for my wedding",
+            "intent": "music_suggester"
+        },
+        {
+            "text": "how much is my xfinity bill this month",
+            "intent": "bill_balance"
+        },
+        {
+            "text": "date account opened",
+            "intent": "account_age"
+        },
+        {
+            "text": "will i incur transaction fees if i use my american card internationally",
+            "intent": "international_fees"
+        },
+        {
+            "text": "clear calendar for this month",
+            "intent": "calendar_remove"
+        },
+        {
+            "text": "repeat the last message",
+            "intent": "email_query"
+        },
+        {
+            "text": "i'd like to reserve this car and pick it up around afternoon 2 till the 5th of this month",
+            "intent": "reservecar"
+        },
+        {
+            "text": "how long before i neet to get my oil changed",
+            "intent": "oil_change_when"
+        },
+        {
+            "text": "can you make a phone call to kevin",
+            "intent": "make_call"
+        },
+        {
+            "text": "please restart my timer",
+            "intent": "restart_timer"
+        },
+        {
+            "text": "please get everything on my shopping list",
+            "intent": "order"
+        },
+        {
+            "text": "drop jackson miranda a line",
+            "intent": "create_call"
+        },
+        {
+            "text": "use my capital one account to pay for my gas bill",
+            "intent": "pay_bill"
+        },
+        {
+            "text": "how long does delivery take",
+            "intent": "card_delivery_estimate"
+        },
+        {
+            "text": "can you tell me where the country georgia is",
+            "intent": "geography"
+        },
+        {
+            "text": "i would love the watch the movie searching for sugar man now",
+            "intent": "playmovie"
+        },
+        {
+            "text": "there's a shady charge from comcast on my account",
+            "intent": "report_fraud"
+        },
+        {
+            "text": "hi can i change a phone setting",
+            "intent": "phone_settings"
+        },
+        {
+            "text": "find something fun for me to do in dallas",
+            "intent": "travel_suggestion"
+        },
+        {
+            "text": "please add milk on my shopping list if it is not already on it",
+            "intent": "shopping_list_update"
+        },
+        {
+            "text": "when's the next phone bill",
+            "intent": "bill_due"
+        },
+        {
+            "text": "i finally have time to do some more planning for my trip i'm absolutely determined to get my calendar updated today would you spend a few minutes with me now please so i can know what time i have available on march 13th",
+            "intent": "getavailabletime"
+        },
+        {
+            "text": "what steps can i take to avoid getting the flu",
+            "intent": "prevention"
+        },
+        {
+            "text": "i was getting cash and can't get my card back",
+            "intent": "card_swallowed"
+        },
+        {
+            "text": "navigate to nearest branch",
+            "intent": "location"
+        },
+        {
+            "text": "me and my friends want to visit some event on the 6th of march can you get me 3 tickets",
+            "intent": "buyeventtickets"
+        },
+        {
+            "text": "can you tell me the date",
+            "intent": "date"
+        },
+        {
+            "text": "what words are 11 letters and end with ash",
+            "intent": "word_generator"
+        },
+        {
+            "text": "is there someone else you work for",
+            "intent": "who_do_you_work_for"
+        },
+        {
+            "text": "i need help",
+            "intent": "tourism"
+        },
+        {
+            "text": "i tried to get gas but my money was gone",
+            "intent": "topping_up_by_card"
+        },
+        {
+            "text": "give me my time worked these last 7 days",
+            "intent": "hours"
+        },
+        {
+            "text": "can i have the phone for my bank",
+            "intent": "phone"
+        },
+        {
+            "text": "why is the exchange rate different from what i expected",
+            "intent": "card_payment_wrong_exchange_rate"
+        },
+        {
+            "text": "i want an evaluation of my car's tire pressure",
+            "intent": "tire_pressure"
+        },
+        {
+            "text": "i want to hear cool bee facts",
+            "intent": "fun_fact"
+        },
+        {
+            "text": "any news updates",
+            "intent": "news_query"
+        },
+        {
+            "text": "can i top up from my apple watch",
+            "intent": "apple_pay_or_google_pay"
+        },
+        {
+            "text": "where am i currently",
+            "intent": "current_location"
+        },
+        {
+            "text": "olly stop please",
+            "intent": "general_commandstop"
+        },
+        {
+            "text": "i must pay verizon what minimum amount on my bill",
+            "intent": "min_payment"
+        },
+        {
+            "text": "hi i tried to withdraw some money from an atm and the machine was broken it says that the transaction is still in progress can you double check to see what's happening i don't want to be charged since i was not able to withdraw the money",
+            "intent": "pending_cash_withdrawal"
+        },
+        {
+            "text": "can you put in a pto request for the 5th of june to june 8th",
+            "intent": "pto_request"
+        },
+        {
+            "text": "i need a help with searching through a catalogue",
+            "intent": "catalogue_bot"
+        },
+        {
+            "text": "how can i add a new card",
+            "intent": "card_linking"
+        },
+        {
+            "text": "i need lisa's email",
+            "intent": "get_contact_method"
+        },
+        {
+            "text": "i have an inquiry about a game",
+            "intent": "game_rules"
+        },
+        {
+            "text": "cancel my current alarm",
+            "intent": "delete_alarm"
+        },
+        {
+            "text": "when does the replacement card arrive",
+            "intent": "replacement_card_duration"
+        },
+        {
+            "text": "i would like to find a chinese food restaurant",
+            "intent": "findrestaurants"
+        },
+        {
+            "text": "i got an unexpected charge on my transfers how can i correct this",
+            "intent": "transfer_fee_charged"
+        },
+        {
+            "text": "change cookie timer to 11 minutes",
+            "intent": "update_timer"
+        },
+        {
+            "text": "end walk timer",
+            "intent": "delete_timer"
+        },
+        {
+            "text": "i think you have understood that not correct",
+            "intent": "general_negate"
+        },
+        {
+            "text": "what is the square root of 144",
+            "intent": "calculator"
+        },
+        {
+            "text": "if i go to ireland where can i find the captial city",
+            "intent": "capital"
+        },
+        {
+            "text": "how can i add money to my account from another account i have",
+            "intent": "transfer_into_account"
+        },
+        {
+            "text": "is auto top up available",
+            "intent": "automatic_top_up"
+        },
+        {
+            "text": "have you made a mistake",
+            "intent": "general_explain"
+        },
+        {
+            "text": "i need an uber to the movies for me and 5 other people",
+            "intent": "uber"
+        },
+        {
+            "text": "i entered my pin wrong too many times",
+            "intent": "pin_blocked"
+        },
+        {
+            "text": "what's the next scheduled holiday at this job",
+            "intent": "next_holiday"
+        },
+        {
+            "text": "i sold stock today when do i see the money",
+            "intent": "trade_execution_time"
+        },
+        {
+            "text": "can you put the vacuum on",
+            "intent": "iot_cleaning"
+        },
+        {
+            "text": "pda what's the name of this song",
+            "intent": "what_song"
+        },
+        {
+            "text": "i only made one transaction at this place but it's appearing multiple times",
+            "intent": "transaction_charged_twice"
+        },
+        {
+            "text": "how do i make my transfer go through",
+            "intent": "declined_transfer"
+        },
+        {
+            "text": "how do i know what my pin is",
+            "intent": "get_physical_card"
+        },
+        {
+            "text": "how are the donuts reviews at tgi",
+            "intent": "restaurant_reviews"
+        },
+        {
+            "text": "availability is open",
+            "intent": "set_available"
+        },
+        {
+            "text": "what type of doctor should i visit to treat oral cancer",
+            "intent": "doctor_type"
+        },
+        {
+            "text": "how long does it take for pending to go through",
+            "intent": "pending_transfer"
+        },
+        {
+            "text": "my phone was too close to my card and demagnetized it how can i report this",
+            "intent": "damaged_card"
+        },
+        {
+            "text": "end current accept new call",
+            "intent": "switch_call"
+        },
+        {
+            "text": "i am looking for an apartment to rent",
+            "intent": "apartment_finder"
+        },
+        {
+            "text": "do enviromental factors play a role in getting cancer",
+            "intent": "medical_cause"
+        },
+        {
+            "text": "alert me in 20 minutes",
+            "intent": "timer"
+        },
+        {
+            "text": "on next wednesday flight from kansas city to chicago should arrive in chicago around 7 pm return flight on thursday",
+            "intent": "flight"
+        },
+        {
+            "text": "i want to find a new credit card to sign up for",
+            "intent": "new_card"
+        },
+        {
+            "text": "is john working at marriott",
+            "intent": "get_employer"
+        },
+        {
+            "text": "create new contact with email",
+            "intent": "email_addcontact"
+        },
+        {
+            "text": "i need to find out where the card is that i ordered",
+            "intent": "card_arrival"
+        },
+        {
+            "text": "would you please give me the unrealized gain for general motors",
+            "intent": "stock_metric"
+        },
+        {
+            "text": "my visa card got stolen",
+            "intent": "lost_or_stolen_card"
+        },
+        {
+            "text": "olly it's awfully dark here",
+            "intent": "iot_hue_lighton"
+        },
+        {
+            "text": "open iheartradio and play original album classics on shuffle",
+            "intent": "start_shuffle_music"
+        },
+        {
+            "text": "add 20 seconds to the wall sit timer",
+            "intent": "add_time_timer"
+        },
+        {
+            "text": "snooze my alarm for 30 mins",
+            "intent": "snooze_alarm"
+        },
+        {
+            "text": "what do i do if i accidentally broke my card",
+            "intent": "card_not_working"
+        },
+        {
+            "text": "show me how to make a fee waiver request",
+            "intent": "fee_waiver_request"
+        },
+        {
+            "text": "can you tell me the nutritional content of chicken nuggets",
+            "intent": "nutrition_info"
+        },
+        {
+            "text": "do i have the gas to get to orlando",
+            "intent": "gas"
+        },
+        {
+            "text": "repeat this song",
+            "intent": "music_settings"
+        },
+        {
+            "text": "when did piers start at mt san jacinto college",
+            "intent": "get_education_time"
+        },
+        {
+            "text": "are there any jobs using java that are not with tivoli",
+            "intent": "jobs640"
+        },
+        {
+            "text": "ai what is my chase routing number",
+            "intent": "routing"
+        },
+        {
+            "text": "who's responsible for your existence",
+            "intent": "who_made_you"
+        },
+        {
+            "text": "have they approved my vacation request yet",
+            "intent": "pto_request_status"
+        },
+        {
+            "text": "i like this album save it",
+            "intent": "music_likeness"
+        },
+        {
+            "text": "what is billy s title",
+            "intent": "org_chart_title"
+        },
+        {
+            "text": "do you own a cat or do you own a dog",
+            "intent": "do_you_have_pets"
+        },
+        {
+            "text": "how long does it take for a transfer to arrive",
+            "intent": "transfer_not_received_by_recipient"
+        },
+        {
+            "text": "has my application for my visa card gone through",
+            "intent": "application_status"
+        },
+        {
+            "text": "hello i want to book a flight",
+            "intent": "booking_flight"
+        },
+        {
+            "text": "will you please add cannons by phil wickham to my playlist",
+            "intent": "update_playlist"
+        },
+        {
+            "text": "my mom should be removed from this video chat",
+            "intent": "update_call"
+        },
+        {
+            "text": "take 30 seconds off my timer",
+            "intent": "subtract_time_timer"
+        },
+        {
+            "text": "tell me the interest for my savings account",
+            "intent": "interest_rate"
+        },
+        {
+            "text": "how often can i top up",
+            "intent": "top_up_limits"
+        },
+        {
+            "text": "what kind of vacation days have i used so far",
+            "intent": "pto_used"
+        },
+        {
+            "text": "i need a taxi to take me to the airport please",
+            "intent": "transport_taxi"
+        },
+        {
+            "text": "give me details of my twitter handle profile including the total number of followers",
+            "intent": "social_query"
+        },
+        {
+            "text": "i'd like to know if you have a certain book in at the moment",
+            "intent": "library_request"
+        },
+        {
+            "text": "why did my card get declined at the dentist office",
+            "intent": "card_declined"
+        },
+        {
+            "text": "i need a qoute",
+            "intent": "quote_of_the_day_bot"
+        },
+        {
+            "text": "if i want to transfer money which accounts may i use",
+            "intent": "transfer_list"
+        },
+        {
+            "text": "can i take out the olive oil and use lard",
+            "intent": "ingredient_substitution"
+        },
+        {
+            "text": "i'm going on a short trip can you buy a ticket leaving around morning 9 15",
+            "intent": "reserveroundtripflights"
+        },
+        {
+            "text": "hi i need to book a skiing trip",
+            "intent": "ski_bot"
+        },
+        {
+            "text": "can you please show me some pricing on safety deposit boxes",
+            "intent": "safe"
+        },
+        {
+            "text": "need help with this potential scam from a dating site",
+            "intent": "scam_lookup"
+        },
+        {
+            "text": "is there a disposable virtual card",
+            "intent": "get_disposable_virtual_card"
+        },
+        {
+            "text": "hey you know any cities",
+            "intent": "auto_sort"
+        },
+        {
+            "text": "what do i have to do to use my credit points acquired through purchases",
+            "intent": "redeem_rewards"
+        },
+        {
+            "text": "i do not want my phone synced anymore",
+            "intent": "sync_device"
+        },
+        {
+            "text": "delete the reminder for gym for the rest of this week",
+            "intent": "delete_reminder"
+        },
+        {
+            "text": "i must make several disposable cards per day",
+            "intent": "disposable_card_limits"
+        },
+        {
+            "text": "what are the requirements for carry on on flights with united airlines",
+            "intent": "carry_on"
+        },
+        {
+            "text": "my phone was stolen so i no longer have access to the app",
+            "intent": "lost_or_stolen_phone"
+        },
+        {
+            "text": "how much was pfizer selling for when i invested in it",
+            "intent": "stock_price_purchased"
+        },
+        {
+            "text": "i don't recognize some transactions is someone else using it",
+            "intent": "compromised_card"
+        },
+        {
+            "text": "the payment for the card did not go through",
+            "intent": "declined_card_payment"
+        },
+        {
+            "text": "how soon until my tires will need to be changed",
+            "intent": "tire_change"
+        },
+        {
+            "text": "how can my new card be activated",
+            "intent": "activate_my_card"
+        },
+        {
+            "text": "hi i would like to know more about our company policy",
+            "intent": "policy_bot"
+        },
+        {
+            "text": "why do you verify the top up",
+            "intent": "verify_top_up"
+        },
+        {
+            "text": "who can send me money",
+            "intent": "receiving_money"
+        },
+        {
+            "text": "can you find me a dentist in gilroy",
+            "intent": "findprovider"
+        },
+        {
+            "text": "could you please lower your volume",
+            "intent": "audio_volume_down"
+        },
+        {
+            "text": "there is an extra 1 charge on my statement why is that",
+            "intent": "extra_charge_on_statement"
+        },
+        {
+            "text": "hi",
+            "intent": "guiness_check"
+        },
+        {
+            "text": "i would like to book a hotel check out on march 12th",
+            "intent": "hotel_reserve"
+        },
+        {
+            "text": "olly i met my future wife today please set up a date next friday",
+            "intent": "general_quirky"
+        },
+        {
+            "text": "can you find some round trips for me with american airlines on the 2nd",
+            "intent": "searchroundtripflights"
+        },
+        {
+            "text": "when using my card i was charged a fee for doing so why",
+            "intent": "card_payment_fee_charged"
+        },
+        {
+            "text": "make the volume louder",
+            "intent": "audio_volume_up"
+        },
+        {
+            "text": "do you know who my primary heath care physician is",
+            "intent": "physician"
+        },
+        {
+            "text": "i am looking for a one bedroom apartment",
+            "intent": "findapartment"
+        },
+        {
+            "text": "can you book me a doctor's appointment dr philip lindstrom this sunday please",
+            "intent": "bookappointment"
+        },
+        {
+            "text": "where is the nearest gas station to 20th and market streets in philadelphia pa",
+            "intent": "directions"
+        },
+        {
+            "text": "i appreciate your helping",
+            "intent": "general_praise"
+        },
+        {
+            "text": "can you tell me why my portfolio has a negative balance",
+            "intent": "negative_balance"
+        },
+        {
+            "text": "it sure is boring around here is anything interesting happening nearby",
+            "intent": "getevents"
+        },
+        {
+            "text": "convert cm to inch",
+            "intent": "measurement_conversion"
+        },
+        {
+            "text": "is it safe to go to north korea",
+            "intent": "travel_alert"
+        },
+        {
+            "text": "i would like to buy tickets leaving from la quarter to 8 in the morning",
+            "intent": "buybusticket"
+        },
+        {
+            "text": "when does my card expire",
+            "intent": "expiration_date"
+        },
+        {
+            "text": "what gas does this car use",
+            "intent": "gas_type"
+        },
+        {
+            "text": "could i also add other debts to my refinancing",
+            "intent": "mortgage_refinance"
+        },
+        {
+            "text": "do they take reservations at carrabbas",
+            "intent": "accept_reservations"
+        },
+        {
+            "text": "please give me my last ten debit card transactions in the month of december",
+            "intent": "transactions"
+        },
+        {
+            "text": "i want to know what i need to open a bank account",
+            "intent": "new_account_documents"
+        },
+        {
+            "text": "stock market",
+            "intent": "qa_stock"
+        },
+        {
+            "text": "i would like movie listings please",
+            "intent": "movie_listings"
+        },
+        {
+            "text": "what other words mean ill",
+            "intent": "word_synonym"
+        },
+        {
+            "text": "what happened to the money that i deposited",
+            "intent": "top_up_reverted"
+        },
+        {
+            "text": "can you tell me when i get my next day off",
+            "intent": "next"
+        },
+        {
+            "text": "who do i know who lives in new orleans",
+            "intent": "get_contact"
+        },
+        {
+            "text": "what s the origin of the name coronavirus",
+            "intent": "covid_name"
+        },
+        {
+            "text": "how long is the wait at buffalo wild wings",
+            "intent": "how_busy"
+        },
+        {
+            "text": "can you assist me in purchasing a one-way flight ticket departing on 5th of march",
+            "intent": "reserveonewayflight"
+        },
+        {
+            "text": "give me a two minute timer",
+            "intent": "create_timer"
+        },
+        {
+            "text": "can you please advise me on when the new employee is starting",
+            "intent": "start_date"
+        },
+        {
+            "text": "how're you doing",
+            "intent": "greeting"
+        },
+        {
+            "text": "on second thought just close this account",
+            "intent": "close"
+        },
+        {
+            "text": "why do you need so much information to verify my identity",
+            "intent": "why_verify_identity"
+        },
+        {
+            "text": "do i need to get any security advice when installing software on my computer",
+            "intent": "install_software"
+        },
+        {
+            "text": "ignore all calls from lee",
+            "intent": "ignore_call"
+        },
+        {
+            "text": "i nee to know how to transfer my 401k",
+            "intent": "rollover_401k"
+        },
+        {
+            "text": "what are the risks of taking quetiapine and zopiclone together",
+            "intent": "drug_combination"
+        },
+        {
+            "text": "do you know who i am",
+            "intent": "user_name"
+        },
+        {
+            "text": "i have a question about my insurance",
+            "intent": "insurance"
+        },
+        {
+            "text": "is nadia in at the moment",
+            "intent": "at_work"
+        },
+        {
+            "text": "i'm hungry and can't decide what to eat help",
+            "intent": "decider_bot"
+        },
+        {
+            "text": "call steve cohen and ask him what he s doing today then do that also",
+            "intent": "stock_advice"
+        },
+        {
+            "text": "i would like to find a hotel to sleep in so can you help with that",
+            "intent": "searchhotel"
+        },
+        {
+            "text": "is it free for top ups",
+            "intent": "top_up_by_card_charge"
+        },
+        {
+            "text": "i need a rental car",
+            "intent": "getcarsavailable"
+        },
+        {
+            "text": "play the soft parade",
+            "intent": "play_music"
+        },
+        {
+            "text": "i would like to find some songs the album expectations would be a good place to find several good songs",
+            "intent": "lookupmusic"
+        },
+        {
+            "text": "my card is going to expire what do i do",
+            "intent": "card_about_to_expire"
+        },
+        {
+            "text": "i want a house to stay in and it must have a rating of 4 3 or higher",
+            "intent": "searchhouse"
+        },
+        {
+            "text": "can you repeat that please",
+            "intent": "repeat"
+        },
+        {
+            "text": "where can i have a virtual card",
+            "intent": "getting_virtual_card"
+        },
+        {
+            "text": "what's my discover credit limit",
+            "intent": "credit_limit"
+        },
+        {
+            "text": "change my book club reminder to noon next tuesday",
+            "intent": "update_reminder_date_time"
+        },
+        {
+            "text": "i want my credit score",
+            "intent": "credit_score"
+        },
+        {
+            "text": "i'd like you to tell me where the last event is at",
+            "intent": "get_location"
+        },
+        {
+            "text": "launch the rooster teeth podcast",
+            "intent": "play_podcasts"
+        },
+        {
+            "text": "if the atm only gave me 10 pounds instead of the 30 i requested what do i do",
+            "intent": "wrong_amount_of_cash_received"
+        },
+        {
+            "text": "can you please cancel my flight from austin to dallas",
+            "intent": "cancel_flight"
+        },
+        {
+            "text": "are you a live being",
+            "intent": "are_you_a_bot"
+        },
+        {
+            "text": "needed gas been delayed for half an hour please fix it",
+            "intent": "pending_top_up"
+        },
+        {
+            "text": "tell me what you can do for me",
+            "intent": "what_can_i_ask_you"
+        },
+        {
+            "text": "i am the king of the world",
+            "intent": "agreement_bot"
+        },
+        {
+            "text": "please tell me what the mpg is for this car",
+            "intent": "mpg"
+        },
+        {
+            "text": "you can call me sarah",
+            "intent": "change_user_name"
+        },
+        {
+            "text": "who does alex goode report to",
+            "intent": "org_chart_reports_to"
+        },
+        {
+            "text": "pause stopwatch timer",
+            "intent": "pause_timer"
+        },
+        {
+            "text": "how do you make chicken noodle casserole",
+            "intent": "ingredients_list"
+        },
+        {
+            "text": "set my status as not going for unicorn",
+            "intent": "set_rsvp_no"
+        },
+        {
+            "text": "is any traffic on my route to work",
+            "intent": "traffic"
+        },
+        {
+            "text": "can you check a setting for me please",
+            "intent": "home_bot"
+        },
+        {
+            "text": "return to the main menu",
+            "intent": "home_screen"
+        },
+        {
+            "text": "roll the dice",
+            "intent": "roll_dice"
+        },
+        {
+            "text": "birth day whishes",
+            "intent": "social_post"
+        },
+        {
+            "text": "does comcast trade on the nasdaq",
+            "intent": "stock_exchange"
+        },
+        {
+            "text": "what do i need to do to change my abc bank account pin number",
+            "intent": "change_pin"
+        },
+        {
+            "text": "buy me 100 shares of both amzn and ibm at the market",
+            "intent": "stock_transaction"
+        },
+        {
+            "text": "do i have the contact of tara john",
+            "intent": "email_querycontact"
+        },
+        {
+            "text": "can you tell me the refills for mevacor",
+            "intent": "num_refills"
+        },
+        {
+            "text": "make a new name for the ai",
+            "intent": "change_ai_name"
+        },
+        {
+            "text": "i need to cancel a transaction immediately",
+            "intent": "cancel_transfer"
+        },
+        {
+            "text": "switch it to video please",
+            "intent": "update_method_call"
+        },
+        {
+            "text": "what number of vacation days remain for me",
+            "intent": "pto_balance"
+        },
+        {
+            "text": "kindly update me about panadol s expiry",
+            "intent": "prescription_expiration"
+        },
+        {
+            "text": "i really want to find a movie to watch i was thinking we could go to an imax show",
+            "intent": "findmovies"
+        },
+        {
+            "text": "i'm i limited in how much to withdrawal",
+            "intent": "withdrawal"
+        },
+        {
+            "text": "please answer sakura kerry",
+            "intent": "answer_call"
+        },
+        {
+            "text": "what's the alarm situation for tomorrow",
+            "intent": "alarm_query"
+        },
+        {
+            "text": "set my status to busy",
+            "intent": "set_unavailable"
+        },
+        {
+            "text": "can you spell out annulment",
+            "intent": "spelling"
+        },
+        {
+            "text": "what do i have to do for this job",
+            "intent": "job_description"
+        },
+        {
+            "text": "list all my missed calls for yesterday",
+            "intent": "get_call"
+        },
+        {
+            "text": "i need to book a car rental in boston",
+            "intent": "car_rental"
+        },
+        {
+            "text": "remind paul and i to ship family holiday gifts in november",
+            "intent": "create_reminder"
+        },
+        {
+            "text": "is mum currently online",
+            "intent": "get_availability"
+        },
+        {
+            "text": "add this track to downtempo beats",
+            "intent": "add_to_playlist"
+        },
+        {
+            "text": "is american express accepted",
+            "intent": "supported_cards_and_currencies"
+        },
+        {
+            "text": "how do you figure out the exchange rate can you explain why i got less money than expected",
+            "intent": "wrong_exchange_rate_for_cash_withdrawal"
+        },
+        {
+            "text": "olly want to play a game of trivia",
+            "intent": "play_game"
+        },
+        {
+            "text": "does my life have meaning",
+            "intent": "meaning_of_life"
+        },
+        {
+            "text": "is this open to residents of all countries",
+            "intent": "country_support"
+        },
+        {
+            "text": "how any times does 50 go into 1 million",
+            "intent": "qa_maths"
+        },
+        {
+            "text": "run coffee maker",
+            "intent": "iot_coffee"
+        },
+        {
+            "text": "i'm on hollywood boulevard in hollywood california can you tell me what the closest subway station is near to me",
+            "intent": "bus_schedule_bot"
+        },
+        {
+            "text": "can you find me a oneway flight for my trip coming up for one person",
+            "intent": "searchonewayflight"
+        },
+        {
+            "text": "will you help me find a bus that leaves from sd",
+            "intent": "findbus"
+        },
+        {
+            "text": "hp laptop is the most rated laptop by most programmers",
+            "intent": "stock_rating"
+        },
+        {
+            "text": "i can't get my virtual card to work",
+            "intent": "virtual_card_not_working"
+        },
+        {
+            "text": "brighten lights",
+            "intent": "iot_hue_lightup"
+        },
+        {
+            "text": "when did john call",
+            "intent": "get_call_time"
+        },
+        {
+            "text": "i couldn't say",
+            "intent": "maybe"
+        },
+        {
+            "text": "what is the fee to top-up my account",
+            "intent": "top_up_by_bank_transfer_charge"
+        },
+        {
+            "text": "how many calories are in a big mac from mcdonald's",
+            "intent": "get_info_recipes"
+        },
+        {
+            "text": "yeah you've gotten your understanding perfectly",
+            "intent": "general_affirm"
+        },
+        {
+            "text": "my chinese food has sat in the fridge since friday but can i still eat it",
+            "intent": "food_last"
+        },
+        {
+            "text": "other than migraines what can amitriptyline be useful for",
+            "intent": "medicine_use"
+        },
+        {
+            "text": "how much time is left overall on my timer",
+            "intent": "get_timer"
+        },
+        {
+            "text": "share my location with darren and stacey",
+            "intent": "share_location"
+        },
+        {
+            "text": "i have a question regarding contacts",
+            "intent": "update_contact"
+        }
+    ]
+}

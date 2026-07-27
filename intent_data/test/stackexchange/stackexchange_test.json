@@ -1,0 +1,1604 @@
+{
+    "data": [
+        {
+            "text": "How can I permanently delete my MySpace account?",
+            "intent": "Delete Account"
+        },
+        {
+            "text": "Are there any good Veoh or Youtube alternatives?",
+            "intent": "Find Alternative"
+        },
+        {
+            "text": "What scientific plotting software is available?",
+            "intent": "Software Recommendation"
+        },
+        {
+            "text": "how can i get from mnchner freiheit to odeonsplatz",
+            "intent": "FindConnection"
+        },
+        {
+            "text": "How to shutdown computer when users are logged on?",
+            "intent": "Shutdown Computer"
+        },
+        {
+            "text": "how to get from garching to perlach?",
+            "intent": "FindConnection"
+        },
+        {
+            "text": "how can i go from garching forschungszentrum to prinzregentenplatz",
+            "intent": "FindConnection"
+        },
+        {
+            "text": "How to send messages to spam in Gmail filter?",
+            "intent": "Filter Spam"
+        },
+        {
+            "text": "Alternatives to Google Groups with more features?",
+            "intent": "Find Alternative"
+        },
+        {
+            "text": "next train from muenchen freicheit",
+            "intent": "DepartureTime"
+        },
+        {
+            "text": "Gmail's filter for SPAM folder and/or keywords in multiple fields",
+            "intent": "Filter Spam"
+        },
+        {
+            "text": "when does the next train come at garching forschungszentrum",
+            "intent": "DepartureTime"
+        },
+        {
+            "text": "What software can I use to view epub documents?",
+            "intent": "Software Recommendation"
+        },
+        {
+            "text": "i want to travel from garching to odeonsplatz?",
+            "intent": "FindConnection"
+        },
+        {
+            "text": "Alternatives to LibraryThing",
+            "intent": "Find Alternative"
+        },
+        {
+            "text": "How to partially upgrade Ubuntu 11.10 from Ubuntu 11.04?",
+            "intent": "Make Update"
+        },
+        {
+            "text": "Users can't reset their passwords anymore on Google Apps?",
+            "intent": "Change Password"
+        },
+        {
+            "text": "Upgrading from 10.04 to 11.10",
+            "intent": "Make Update"
+        },
+        {
+            "text": "Is there a HTML alternative to Prezi?",
+            "intent": "Find Alternative"
+        },
+        {
+            "text": "when is the next train from untere straaecker 21 garching to kieferngarten",
+            "intent": "FindConnection"
+        },
+        {
+            "text": "Is any offline upgrade from 13.10 to 14.04 possible?",
+            "intent": "Make Update"
+        },
+        {
+            "text": "update-manager: upgrade to 15.04 rather than 16.04",
+            "intent": "Make Update"
+        },
+        {
+            "text": "what's the shortest connection between quiddestrae and odeonsplatz?",
+            "intent": "FindConnection"
+        },
+        {
+            "text": "is there a bus from garching to moosach at around 5?",
+            "intent": "FindConnection"
+        },
+        {
+            "text": "Photo Sharing Site alternative to flickr supporting OpenID sign in?",
+            "intent": "Find Alternative"
+        },
+        {
+            "text": "My system doesn't go shutdown",
+            "intent": "Shutdown Computer"
+        },
+        {
+            "text": "How to Shut down Ubuntu by using keyboard?",
+            "intent": "Shutdown Computer"
+        },
+        {
+            "text": "i need a connection from harras to karl-preis-platz at 8 am.",
+            "intent": "FindConnection"
+        },
+        {
+            "text": "from marienplatz to petershausen",
+            "intent": "FindConnection"
+        },
+        {
+            "text": "Problems upgrading from 12.04 to 14.04",
+            "intent": "Make Update"
+        },
+        {
+            "text": "harthaus to hackerbrcke",
+            "intent": "FindConnection"
+        },
+        {
+            "text": "how to get from bonnerplatz to freimann",
+            "intent": "FindConnection"
+        },
+        {
+            "text": "Shutdown after a certain time",
+            "intent": "Shutdown Computer"
+        },
+        {
+            "text": "next bus from central station",
+            "intent": "DepartureTime"
+        },
+        {
+            "text": "shutdown in specific way if no-one uses computer",
+            "intent": "Shutdown Computer"
+        },
+        {
+            "text": "how can i get from theresienstrae to munich east?",
+            "intent": "FindConnection"
+        },
+        {
+            "text": "Is there LAN topology mapping software available in Ubuntu?",
+            "intent": "Software Recommendation"
+        },
+        {
+            "text": "How to setup wireless printing from a printer connected via usb on Ubuntu Server 12.10?",
+            "intent": "Setup Printer"
+        },
+        {
+            "text": "Install Canon MP560 Ubuntu 15.04",
+            "intent": "Setup Printer"
+        },
+        {
+            "text": "how can i get to boltzmannstrae from quiddestrae?",
+            "intent": "FindConnection"
+        },
+        {
+            "text": "No matter what I do Ubuntu 15.04 does not recognize HP LaserJet 1020",
+            "intent": "Setup Printer"
+        },
+        {
+            "text": "when is the next bus from garching",
+            "intent": "DepartureTime"
+        },
+        {
+            "text": "how i can get from munchner freiheit to nordfriedhof?",
+            "intent": "FindConnection"
+        },
+        {
+            "text": "Any command line calculator for Ubuntu?",
+            "intent": "Software Recommendation"
+        },
+        {
+            "text": "when does the next u-bahn depart at garching?",
+            "intent": "DepartureTime"
+        },
+        {
+            "text": "What Is The Best HDR Software?",
+            "intent": "Software Recommendation"
+        },
+        {
+            "text": "theresienstrae to assling",
+            "intent": "FindConnection"
+        },
+        {
+            "text": "What IDEs are available for Ubuntu?",
+            "intent": "Software Recommendation"
+        },
+        {
+            "text": "shut down without extra question",
+            "intent": "Shutdown Computer"
+        },
+        {
+            "text": "how i can get from garching to nordfriedhof",
+            "intent": "FindConnection"
+        },
+        {
+            "text": "Upgrading from 11.10 to 12.04",
+            "intent": "Make Update"
+        },
+        {
+            "text": "How do I sync Google Calendar with my Outlook Calendar?",
+            "intent": "Sync Accounts"
+        },
+        {
+            "text": "when does the next train leaves?",
+            "intent": "DepartureTime"
+        },
+        {
+            "text": "how do i get from poccistrae to laim",
+            "intent": "FindConnection"
+        },
+        {
+            "text": "Google search engine alternatives",
+            "intent": "Find Alternative"
+        },
+        {
+            "text": "Is there any recovery software available for ext4?",
+            "intent": "Software Recommendation"
+        },
+        {
+            "text": "find connection from hauptbahnhof to odeonsplatz",
+            "intent": "FindConnection"
+        },
+        {
+            "text": "Extracting embedded images from a PDF",
+            "intent": "Software Recommendation"
+        },
+        {
+            "text": "how can i get to sendlinger tor?",
+            "intent": "FindConnection"
+        },
+        {
+            "text": "next bus from garching",
+            "intent": "DepartureTime"
+        },
+        {
+            "text": "when is the bus from quiddestrae?",
+            "intent": "DepartureTime"
+        },
+        {
+            "text": "how can i get from moosach to garching forschungszentrum?",
+            "intent": "FindConnection"
+        },
+        {
+            "text": "when is the next s-bahn leaving at garching?",
+            "intent": "DepartureTime"
+        },
+        {
+            "text": "How can I automatically shutdown the system after a specific time?",
+            "intent": "Shutdown Computer"
+        },
+        {
+            "text": "how to get from alte heide to marienplatz",
+            "intent": "FindConnection"
+        },
+        {
+            "text": "how i can get from marienplatz to garching",
+            "intent": "FindConnection"
+        },
+        {
+            "text": "what's the shortest way from quiddestrae to odeonsplatz?",
+            "intent": "FindConnection"
+        },
+        {
+            "text": "when does the next train departs from quiddestrae?",
+            "intent": "DepartureTime"
+        },
+        {
+            "text": "in need to be at hauptbahnhof at 1 pm can you search a connection from garching forschungszentrum?",
+            "intent": "FindConnection"
+        },
+        {
+            "text": "How can I sync my Yahoo Calendar with Google Calendar?",
+            "intent": "Sync Accounts"
+        },
+        {
+            "text": "What are alternatives to Postini for spam filtering?",
+            "intent": "Filter Spam"
+        },
+        {
+            "text": "when is the next train from garching",
+            "intent": "DepartureTime"
+        },
+        {
+            "text": "Which application do you recommend for watching TV DVB?",
+            "intent": "Software Recommendation"
+        },
+        {
+            "text": "how can i get from klinkum to marienplatz?",
+            "intent": "FindConnection"
+        },
+        {
+            "text": "How do I disable the spam filter in Gmail?",
+            "intent": "Filter Spam"
+        },
+        {
+            "text": "How do I setup my HP C4140 printer wirelessly?",
+            "intent": "Setup Printer"
+        },
+        {
+            "text": "What are some good PHP editors?",
+            "intent": "Software Recommendation"
+        },
+        {
+            "text": "i want to go to garching from marienplatz",
+            "intent": "FindConnection"
+        },
+        {
+            "text": "connection from garching to hauptbahnhof?",
+            "intent": "FindConnection"
+        },
+        {
+            "text": "when does the next bus starts at garching?",
+            "intent": "DepartureTime"
+        },
+        {
+            "text": "Upgrading Ubuntu Server 9.10 to 10.04",
+            "intent": "Make Update"
+        },
+        {
+            "text": "tell me the next bus from garching",
+            "intent": "DepartureTime"
+        },
+        {
+            "text": "what is the next connection from garching forschungszentrum to odeonsplatz?",
+            "intent": "FindConnection"
+        },
+        {
+            "text": "when is the next train in nordfriedhof?",
+            "intent": "DepartureTime"
+        },
+        {
+            "text": "how can i get from moosach to odeonsplatz?",
+            "intent": "FindConnection"
+        },
+        {
+            "text": "How can I permanently delete my Yahoo mail account?",
+            "intent": "Delete Account"
+        },
+        {
+            "text": "Why did the upgrade from 11.10 to 12.04 ruin my system?",
+            "intent": "Make Update"
+        },
+        {
+            "text": "next subway from garching forschungszentrum",
+            "intent": "DepartureTime"
+        },
+        {
+            "text": "when is the next train",
+            "intent": "DepartureTime"
+        },
+        {
+            "text": "How do I delete my LinkedIn account?",
+            "intent": "Delete Account"
+        },
+        {
+            "text": "Upgrading From 11.04 32bit to 12.04 64bit",
+            "intent": "Make Update"
+        },
+        {
+            "text": "Which programs can I use to edit PDF files?",
+            "intent": "Software Recommendation"
+        },
+        {
+            "text": "how to get from untere strasscker 21 to frtmaning",
+            "intent": "FindConnection"
+        },
+        {
+            "text": "neufahrn to garching",
+            "intent": "FindConnection"
+        },
+        {
+            "text": "when does the next u-bahn leaves from garching forschungszentrum?",
+            "intent": "DepartureTime"
+        },
+        {
+            "text": "Password Management Applications?",
+            "intent": "Software Recommendation"
+        },
+        {
+            "text": "How do I sync Facebook Twitter  Foursquare?",
+            "intent": "Sync Accounts"
+        },
+        {
+            "text": "Is it possible to export my data from Trello to back it up?",
+            "intent": "Export Data"
+        },
+        {
+            "text": "when the next train in garching is leaving?",
+            "intent": "DepartureTime"
+        },
+        {
+            "text": "can you find the shortest way from moosfeld to milbertshofen?",
+            "intent": "FindConnection"
+        },
+        {
+            "text": "How Do I Install Canon MF8000C Printer in Ubuntu 15.10?",
+            "intent": "Setup Printer"
+        },
+        {
+            "text": "hello munich city bot how do i get from mnchner freiheit to scheidplatz?",
+            "intent": "FindConnection"
+        },
+        {
+            "text": "how can i get from garching forschungszentrum to prinzregentenplatz",
+            "intent": "FindConnection"
+        },
+        {
+            "text": "Wubi Device /dev/loop0 full. How to get more space?",
+            "intent": "Software Recommendation"
+        },
+        {
+            "text": "Upgrading from 12.04 to 13.10  Unanswered questions ",
+            "intent": "Make Update"
+        },
+        {
+            "text": "from garching to klinikum",
+            "intent": "FindConnection"
+        },
+        {
+            "text": "How to Install Brother DCP-8110DN Laser Printer on Ubuntu?",
+            "intent": "Setup Printer"
+        },
+        {
+            "text": "how can i get to glockenbachviertel from garching forschungszentrum?",
+            "intent": "FindConnection"
+        },
+        {
+            "text": "Upgrade from 12.04 to 12.10 without losing files?",
+            "intent": "Make Update"
+        },
+        {
+            "text": "What tools do you use to monitor a web server?",
+            "intent": "Software Recommendation"
+        },
+        {
+            "text": "How to upgrade from 14.04 LTS or 15.10 to 16.04 from terminal",
+            "intent": "Make Update"
+        },
+        {
+            "text": "Is there a Linux file manager with a proper drop-down tree view? like finder in OS X",
+            "intent": "Software Recommendation"
+        },
+        {
+            "text": "In Unity how do I see the details of a given launcher?",
+            "intent": "Software Recommendation"
+        },
+        {
+            "text": "Correctly Identifying Spam Messages",
+            "intent": "Filter Spam"
+        },
+        {
+            "text": "Keyboard shortcut to shutdown?",
+            "intent": "Shutdown Computer"
+        },
+        {
+            "text": "how can i get from garching forschungszentrum to odeonsplatz?",
+            "intent": "FindConnection"
+        },
+        {
+            "text": "How to change my Uber password or delete the account?",
+            "intent": "Delete Account"
+        },
+        {
+            "text": "when does the next train leaves from quiddestrae?",
+            "intent": "DepartureTime"
+        },
+        {
+            "text": "when is the next rocket from winterstrae 12 to kieferngarte",
+            "intent": "FindConnection"
+        },
+        {
+            "text": "Any alternatives to Google Streetview?",
+            "intent": "Find Alternative"
+        },
+        {
+            "text": "Gmail recover password while logged in Iphone",
+            "intent": "Change Password"
+        },
+        {
+            "text": "How do I fix a shutdown problem?",
+            "intent": "Shutdown Computer"
+        },
+        {
+            "text": "can you tell me the cheapest way from garching forschungszentrum to quiddestrae?",
+            "intent": "FindConnection"
+        },
+        {
+            "text": "How to Upgrade from 11.10 to 12.04 when you've got a problem?",
+            "intent": "Make Update"
+        },
+        {
+            "text": "Is there a tool like wifi analyzer for ubuntu?",
+            "intent": "Software Recommendation"
+        },
+        {
+            "text": "How do I delete my Gmail account?",
+            "intent": "Delete Account"
+        },
+        {
+            "text": "Can you recommend a good modern GUI download manager wget wrapper?",
+            "intent": "Software Recommendation"
+        },
+        {
+            "text": "depart in garching i assume",
+            "intent": "DepartureTime"
+        },
+        {
+            "text": "How can I delete my 160by2 account?",
+            "intent": "Delete Account"
+        },
+        {
+            "text": "Upgrade 10.10 to 11.04",
+            "intent": "Make Update"
+        },
+        {
+            "text": "Is there an online alternative to iGoogle",
+            "intent": "Find Alternative"
+        },
+        {
+            "text": "Is there a project management software for Ubuntu like Microsoft Project?",
+            "intent": "Software Recommendation"
+        },
+        {
+            "text": "how can i get from garching to milbertshofen?",
+            "intent": "FindConnection"
+        },
+        {
+            "text": "how do i get to untere strausscker?",
+            "intent": "FindConnection"
+        },
+        {
+            "text": "when is the train leaving in garching?",
+            "intent": "DepartureTime"
+        },
+        {
+            "text": "What developer text editors are available for Ubuntu?",
+            "intent": "Software Recommendation"
+        },
+        {
+            "text": "What is the command to open the shutdown dialog?",
+            "intent": "Shutdown Computer"
+        },
+        {
+            "text": "What are some good ASCII art generators?",
+            "intent": "Software Recommendation"
+        },
+        {
+            "text": "What is a good MongoDB GUI client?",
+            "intent": "Software Recommendation"
+        },
+        {
+            "text": "Is there a free and privacy-aware alternative to Google?",
+            "intent": "Find Alternative"
+        },
+        {
+            "text": "when does the next bus starts from garching?",
+            "intent": "DepartureTime"
+        },
+        {
+            "text": "Is there any program for fuzzy string matching which provides a match score?",
+            "intent": "Software Recommendation"
+        },
+        {
+            "text": "when does the next bus leaves at garching?",
+            "intent": "DepartureTime"
+        },
+        {
+            "text": "when comes the next train",
+            "intent": "DepartureTime"
+        },
+        {
+            "text": "how can i get from garching to mnchner freiheit as fast as possible?",
+            "intent": "FindConnection"
+        },
+        {
+            "text": "when is the next train from winterstrae 12 to kieferngarten",
+            "intent": "FindConnection"
+        },
+        {
+            "text": "How do I transfer my photos from Flickr to Picasa?",
+            "intent": "Export Data"
+        },
+        {
+            "text": "Do emails auto-forwarded from one Gmail account to another stop if marked as spam?",
+            "intent": "Filter Spam"
+        },
+        {
+            "text": "when does the next train leaves from odeonsplatz?",
+            "intent": "DepartureTime"
+        },
+        {
+            "text": "how can i get from studentenstadt to garching",
+            "intent": "FindConnection"
+        },
+        {
+            "text": "when is the next train in mnchner freiheit?",
+            "intent": "DepartureTime"
+        },
+        {
+            "text": "How to add a network printer on Ubuntu 15.10?",
+            "intent": "Setup Printer"
+        },
+        {
+            "text": "Force upgrade 12.10 to 13.04",
+            "intent": "Make Update"
+        },
+        {
+            "text": "how can i get to hohenlindenerstr",
+            "intent": "FindConnection"
+        },
+        {
+            "text": "when is the next bus in garching forschungszentrum",
+            "intent": "DepartureTime"
+        },
+        {
+            "text": "when does the next subway departs at garching",
+            "intent": "DepartureTime"
+        },
+        {
+            "text": "Installing EPSON L355 on Ubuntu 14.04",
+            "intent": "Setup Printer"
+        },
+        {
+            "text": "how do i get from olympia einkaufszentrum to hauptbahnhof?",
+            "intent": "FindConnection"
+        },
+        {
+            "text": "Do I need to uninstall 10.04 to upgrade to 12.04?",
+            "intent": "Make Update"
+        },
+        {
+            "text": "Recommendation for Regex editor?",
+            "intent": "Software Recommendation"
+        },
+        {
+            "text": "Is there software that can view .dwg files?",
+            "intent": "Software Recommendation"
+        },
+        {
+            "text": "connection from hauptbahnhof to odeonsplatz?",
+            "intent": "FindConnection"
+        },
+        {
+            "text": "Is it recommended to upgrade to Lubuntu 15.04?",
+            "intent": "Software Recommendation"
+        },
+        {
+            "text": "how can i get from kurt-eisner-strae to garching forschungszentrum?",
+            "intent": "FindConnection"
+        },
+        {
+            "text": "Are there any good Pandora alternatives with general availability outside the US?",
+            "intent": "Find Alternative"
+        },
+        {
+            "text": "How to upgrade Ubuntu 12.04 to 14.04 if I have dual boot with windows 7?",
+            "intent": "Make Update"
+        },
+        {
+            "text": "when is the next subway from garching forschungszentrum",
+            "intent": "DepartureTime"
+        },
+        {
+            "text": "from garching to perlach",
+            "intent": "FindConnection"
+        },
+        {
+            "text": "can you find a connection from quiddestrae to garching forschungszentrum?",
+            "intent": "FindConnection"
+        },
+        {
+            "text": "next bus from garching please.",
+            "intent": "DepartureTime"
+        },
+        {
+            "text": "How can I enable shutdown verbosity?",
+            "intent": "Shutdown Computer"
+        },
+        {
+            "text": "when the next train in garchingforschungszentrum is leaving?",
+            "intent": "DepartureTime"
+        },
+        {
+            "text": "What do you use to edit Microsoft Word documents docx?",
+            "intent": "Software Recommendation"
+        },
+        {
+            "text": "show me the next bus from garching",
+            "intent": "DepartureTime"
+        },
+        {
+            "text": "Using 12.04 can I compile packages with gcc for 10.04?",
+            "intent": "Make Update"
+        },
+        {
+            "text": "when does the bus to rblingweg starts?",
+            "intent": "DepartureTime"
+        },
+        {
+            "text": "Alternatives to discontinued Google Calendar Appointment Slots",
+            "intent": "Find Alternative"
+        },
+        {
+            "text": "how can i get to quiddestrae?",
+            "intent": "FindConnection"
+        },
+        {
+            "text": "when does the next train starts at sendlinger tor?",
+            "intent": "DepartureTime"
+        },
+        {
+            "text": "Any app that tells me to take regular breaks from working?",
+            "intent": "Software Recommendation"
+        },
+        {
+            "text": "Upgrade to 12.04 64 bit",
+            "intent": "Make Update"
+        },
+        {
+            "text": "Alternatives for Google Reader with Android synchronizing",
+            "intent": "Find Alternative"
+        },
+        {
+            "text": "Do I need to reinstall everything to upgrade from 13.10 to 14.10?",
+            "intent": "Make Update"
+        },
+        {
+            "text": "from harthaus to hackerbrcke",
+            "intent": "FindConnection"
+        },
+        {
+            "text": "when is the next train to garching",
+            "intent": "FindConnection"
+        },
+        {
+            "text": "how to get from untere strassaecker 21 to frtmaning",
+            "intent": "FindConnection"
+        },
+        {
+            "text": "take me from hauptbahnhof to odeonsplatz",
+            "intent": "FindConnection"
+        },
+        {
+            "text": "how to upgrade from ubuntu 15.04 to 15.10?",
+            "intent": "Make Update"
+        },
+        {
+            "text": "from garching to marienplatz",
+            "intent": "FindConnection"
+        },
+        {
+            "text": "Twitter and Echofon spam",
+            "intent": "Filter Spam"
+        },
+        {
+            "text": "next bus from quiddestrae?",
+            "intent": "DepartureTime"
+        },
+        {
+            "text": "Can you recommend a password generator?",
+            "intent": "Software Recommendation"
+        },
+        {
+            "text": "next train from garching",
+            "intent": "DepartureTime"
+        },
+        {
+            "text": "What graphical utility can I use for Ubuntu auto shutdown?",
+            "intent": "Shutdown Computer"
+        },
+        {
+            "text": "How can i upgrade to Ubuntu 14.04 final from 14.04 Beta correctly?",
+            "intent": "Make Update"
+        },
+        {
+            "text": "when does the next subway departes from odeonsplatz?",
+            "intent": "DepartureTime"
+        },
+        {
+            "text": "how can i get from neuperlach zentrum to karlsplatz as fast as possible?",
+            "intent": "FindConnection"
+        },
+        {
+            "text": "how can i get from mossach to garching forschungszentrum?",
+            "intent": "FindConnection"
+        },
+        {
+            "text": "how can i get from garching to hauptbahnhof?",
+            "intent": "FindConnection"
+        },
+        {
+            "text": "when is the next train leaving in garching",
+            "intent": "DepartureTime"
+        },
+        {
+            "text": "how do i get from garching forschungszentrum to pasing",
+            "intent": "FindConnection"
+        },
+        {
+            "text": "hey bot when does the next bus starts at garching?",
+            "intent": "DepartureTime"
+        },
+        {
+            "text": "when does the next bus leave in garching?",
+            "intent": "DepartureTime"
+        },
+        {
+            "text": "how can i get from olympiazentrum to hauptbahnhof?",
+            "intent": "FindConnection"
+        },
+        {
+            "text": "Deleting an accountwebsite from Google Analytics?",
+            "intent": "Delete Account"
+        },
+        {
+            "text": "How to remove spam filter for Google Apps email",
+            "intent": "Filter Spam"
+        },
+        {
+            "text": "How to upgrade Ubuntu 9.10 to 12.10 via terminal?",
+            "intent": "Make Update"
+        },
+        {
+            "text": "next bus in garching",
+            "intent": "DepartureTime"
+        },
+        {
+            "text": "Upgrading 16.04 to 16.04.1",
+            "intent": "Make Update"
+        },
+        {
+            "text": "when is the train from garching",
+            "intent": "DepartureTime"
+        },
+        {
+            "text": "How can I prevent/lessen event spam on Facebook?",
+            "intent": "Filter Spam"
+        },
+        {
+            "text": "A light alternative to gnome-system-monitor?",
+            "intent": "Software Recommendation"
+        },
+        {
+            "text": "when does the next rocket leaves from garching forschungszentrum?",
+            "intent": "DepartureTime"
+        },
+        {
+            "text": "how can i get from moosach to poccistrae?",
+            "intent": "FindConnection"
+        },
+        {
+            "text": "when will the next u-bahn depart from garching forschungszentrum?",
+            "intent": "DepartureTime"
+        },
+        {
+            "text": "when is the next train in garching?",
+            "intent": "DepartureTime"
+        },
+        {
+            "text": "how can i get to neuperlach sd from garching forschungszentrum?",
+            "intent": "FindConnection"
+        },
+        {
+            "text": "implerstrae to ostbahnhof",
+            "intent": "FindConnection"
+        },
+        {
+            "text": "What's the best Mind Mapping Software?",
+            "intent": "Software Recommendation"
+        },
+        {
+            "text": "when is the next train leaving in garching forschungszentrum",
+            "intent": "DepartureTime"
+        },
+        {
+            "text": "How to upgrade from 16.04 LTS to 16.04.1 LTS",
+            "intent": "Make Update"
+        },
+        {
+            "text": "How to upgrade from Ubuntu 10.10 to 11.04?",
+            "intent": "Make Update"
+        },
+        {
+            "text": "when does the next bus departs from garching?",
+            "intent": "DepartureTime"
+        },
+        {
+            "text": "prinzregentenplatz to rotkreuzplatz",
+            "intent": "FindConnection"
+        },
+        {
+            "text": "how can i get from quiddestrae to boltzmannstrae?",
+            "intent": "FindConnection"
+        },
+        {
+            "text": "Alternative to Facebook",
+            "intent": "Find Alternative"
+        },
+        {
+            "text": "how can i get from hauptbahnhof to odeonsplatz?",
+            "intent": "FindConnection"
+        },
+        {
+            "text": "Does moving a mail to the IMAP spam folder trains Gmail's spam filter?",
+            "intent": "Filter Spam"
+        },
+        {
+            "text": "Cannot setup HP All in one DJ3630",
+            "intent": "Setup Printer"
+        },
+        {
+            "text": "i need to be in garching at 9",
+            "intent": "FindConnection"
+        },
+        {
+            "text": "how can i get to milbertshofen from garching?",
+            "intent": "FindConnection"
+        },
+        {
+            "text": "Is it worth upgrading from 12.04 LTS to 13.04",
+            "intent": "Make Update"
+        },
+        {
+            "text": "Is there any software that will do face recognition in photos?",
+            "intent": "Software Recommendation"
+        },
+        {
+            "text": "Why can't I change my password and login with Skype?",
+            "intent": "Change Password"
+        },
+        {
+            "text": "Cannot upgrade from 12.04LTS to 14.04",
+            "intent": "Make Update"
+        },
+        {
+            "text": "Shutdown problem in Ubuntu 16.04",
+            "intent": "Shutdown Computer"
+        },
+        {
+            "text": "how can i get to hohenlindenerstrae",
+            "intent": "FindConnection"
+        },
+        {
+            "text": "how can i get from garching forschungszentrum to marienplatz",
+            "intent": "FindConnection"
+        },
+        {
+            "text": "from garching foschungszentrum to odeonsplatz",
+            "intent": "FindConnection"
+        },
+        {
+            "text": "Get rid of Russian junk from my Gmail",
+            "intent": "Filter Spam"
+        },
+        {
+            "text": "from prinzregentenplatz to rotkreuzplatz",
+            "intent": "FindConnection"
+        },
+        {
+            "text": "What to use to quickly cut Audio/Video",
+            "intent": "Software Recommendation"
+        },
+        {
+            "text": "when does the next s-bahn leaves from hauptbahnhof?",
+            "intent": "DepartureTime"
+        },
+        {
+            "text": "when is the next u6 leaving from garching?",
+            "intent": "DepartureTime"
+        },
+        {
+            "text": "can you give me a connection from garching to odeonsplatz?",
+            "intent": "FindConnection"
+        },
+        {
+            "text": "when does the next bus leaves at romanplatz?",
+            "intent": "DepartureTime"
+        },
+        {
+            "text": "when is the next train from nordfriedhof to garching forschungszentrum",
+            "intent": "FindConnection"
+        },
+        {
+            "text": "when is the next bus from ostbahnhof",
+            "intent": "DepartureTime"
+        },
+        {
+            "text": "How to permanently delete a 37signals ID",
+            "intent": "Delete Account"
+        },
+        {
+            "text": "could you give me the fastest connection between brudermhlstrae and alte heide?",
+            "intent": "FindConnection"
+        },
+        {
+            "text": "Is there a software utility to adjust screen gamma/brightness/contrast?",
+            "intent": "Software Recommendation"
+        },
+        {
+            "text": "Upgrade 12.04 to 12.10 using startup disk",
+            "intent": "Make Update"
+        },
+        {
+            "text": "How do I update Xubuntu 11.10 to Xubuntu 12.04 LTS?",
+            "intent": "Make Update"
+        },
+        {
+            "text": "can you find a bus from quiddestrae to lehel?",
+            "intent": "FindConnection"
+        },
+        {
+            "text": "when does the next tram starts from hauptbahnhof?",
+            "intent": "DepartureTime"
+        },
+        {
+            "text": "when is the next subway leaving from garching?",
+            "intent": "DepartureTime"
+        },
+        {
+            "text": "UPNP / DLNA client player recommendations?",
+            "intent": "Software Recommendation"
+        },
+        {
+            "text": "On really old Ubuntu 6.06 - How to upgrade",
+            "intent": "Software Recommendation"
+        },
+        {
+            "text": "how i can get from marienplatz to garching?",
+            "intent": "FindConnection"
+        },
+        {
+            "text": "Is there an upgrade procedure from 12.04 LTS to 14.04 LTS",
+            "intent": "Make Update"
+        },
+        {
+            "text": "How can I delete my Hunch account?",
+            "intent": "Delete Account"
+        },
+        {
+            "text": "What alternatives to Google Product Search exist?",
+            "intent": "Find Alternative"
+        },
+        {
+            "text": "Google Calendar not syncing calendars that have been added by URL with Windows 10 Calendar",
+            "intent": "Sync Accounts"
+        },
+        {
+            "text": "when is the next u6?",
+            "intent": "DepartureTime"
+        },
+        {
+            "text": "how can i get from kurt-eisner-strae to garching?",
+            "intent": "FindConnection"
+        },
+        {
+            "text": "How to shutdown the computer after Xsession ends?",
+            "intent": "Shutdown Computer"
+        },
+        {
+            "text": "Upgrading from ubuntu 12.04 to 13.10",
+            "intent": "Make Update"
+        },
+        {
+            "text": "How To Install Canon LBP2900B printer in 14.04 LTS ? I tried the method for LBP2900 but it didnt work",
+            "intent": "Setup Printer"
+        },
+        {
+            "text": "when is the next bus leaving from garching?",
+            "intent": "DepartureTime"
+        },
+        {
+            "text": "connection from untere stracker 21 to kieferngarten",
+            "intent": "FindConnection"
+        },
+        {
+            "text": "Do I need to backup my 12.04 system to upgrade to 12.04.1?",
+            "intent": "Make Update"
+        },
+        {
+            "text": "when can i get a bus at mariahilfplatz?",
+            "intent": "DepartureTime"
+        },
+        {
+            "text": "can you find a connection from olympiazentrum to lehel at 2 pm?",
+            "intent": "FindConnection"
+        },
+        {
+            "text": "how to get from bonner platz to freimann?",
+            "intent": "FindConnection"
+        },
+        {
+            "text": "Please recommend a hex editor for shell",
+            "intent": "Software Recommendation"
+        },
+        {
+            "text": "Installing Epson XP-424 wireless printer",
+            "intent": "Setup Printer"
+        },
+        {
+            "text": "Stopping spam emails in Gmail by pattern",
+            "intent": "Filter Spam"
+        },
+        {
+            "text": "Is there an SSH connection manager?",
+            "intent": "Software Recommendation"
+        },
+        {
+            "text": "when is the next train in alte heide?",
+            "intent": "DepartureTime"
+        },
+        {
+            "text": "How can I auto-delete some spam from Gmail?",
+            "intent": "Filter Spam"
+        },
+        {
+            "text": "can you find a connection from kurt-eisner-strae to garching forschungszentrum?",
+            "intent": "FindConnection"
+        },
+        {
+            "text": "Doubts regarding the 15.04 upgrade is it inevitable and unavoidable?",
+            "intent": "Make Update"
+        },
+        {
+            "text": "Tool for recovering deleted data from a flash drive",
+            "intent": "Software Recommendation"
+        },
+        {
+            "text": "i want to go marienplatz",
+            "intent": "FindConnection"
+        },
+        {
+            "text": "when does the next bus leaves from hauptbahnhof?",
+            "intent": "DepartureTime"
+        },
+        {
+            "text": "How can I shutdown the computer when a certain process ends?",
+            "intent": "Shutdown Computer"
+        },
+        {
+            "text": "i want to go garching from marienplatz",
+            "intent": "FindConnection"
+        },
+        {
+            "text": "when is the train leaving in garching",
+            "intent": "DepartureTime"
+        },
+        {
+            "text": "How to install a Lexmark z600 series printer?",
+            "intent": "Setup Printer"
+        },
+        {
+            "text": "when does the next u6 leave from garching forschungszentrum",
+            "intent": "DepartureTime"
+        },
+        {
+            "text": "how can i get from feldmoching to garching forschungszentrum?",
+            "intent": "FindConnection"
+        },
+        {
+            "text": "How do I install the HP F4280 printer?",
+            "intent": "Setup Printer"
+        },
+        {
+            "text": "What are the alternatives to Facebook/Meetup for Event Planning",
+            "intent": "Find Alternative"
+        },
+        {
+            "text": "next bus from garching.",
+            "intent": "DepartureTime"
+        },
+        {
+            "text": "Which PDF Viewer would you recommend?",
+            "intent": "Software Recommendation"
+        },
+        {
+            "text": "Is there an application for reading mobi files?",
+            "intent": "Software Recommendation"
+        },
+        {
+            "text": "when does the next bus leaves at garching forschungszentrum?",
+            "intent": "DepartureTime"
+        },
+        {
+            "text": "from quiddestrae to garching?",
+            "intent": "FindConnection"
+        },
+        {
+            "text": "is there a train from neuperlach zentrum to garching at 3 pm?",
+            "intent": "FindConnection"
+        },
+        {
+            "text": "Google Contact Synchronization on the iPhone 3G",
+            "intent": "Sync Accounts"
+        },
+        {
+            "text": "Applications to replace iTunes for iPod synchronization?",
+            "intent": "Software Recommendation"
+        },
+        {
+            "text": "connection from boltzmannstrae to kieferngarten",
+            "intent": "FindConnection"
+        },
+        {
+            "text": "No action when shutdown pressed",
+            "intent": "Shutdown Computer"
+        },
+        {
+            "text": "Upgrading from Ubuntu 14.04 to 15.04",
+            "intent": "Make Update"
+        },
+        {
+            "text": "how can i get from garching to odeonsplatz",
+            "intent": "FindConnection"
+        },
+        {
+            "text": "Are there any Keyboard Shortcuts to Shutdown?",
+            "intent": "Shutdown Computer"
+        },
+        {
+            "text": "how can i get from garching forschungszentrum to kurt-eisner-strae?",
+            "intent": "FindConnection"
+        },
+        {
+            "text": "what's the cheapest way from neuperlach sd to lehel?",
+            "intent": "FindConnection"
+        },
+        {
+            "text": "how can i get from garching to odeonsplatz?",
+            "intent": "FindConnection"
+        },
+        {
+            "text": "when is the next train in munchner freiheit?",
+            "intent": "DepartureTime"
+        },
+        {
+            "text": "Update 11.04 to 12.04 with LiveCD",
+            "intent": "Make Update"
+        },
+        {
+            "text": "How do I upgrade to the release version of 16.04 if I am running Beta?",
+            "intent": "Make Update"
+        },
+        {
+            "text": "from garching to studentenstadt",
+            "intent": "FindConnection"
+        },
+        {
+            "text": "how can i get from garching to sendlinger tor?",
+            "intent": "FindConnection"
+        },
+        {
+            "text": "how can i get from garching to garching?",
+            "intent": "FindConnection"
+        },
+        {
+            "text": "Any good alternative to Google Alerts?",
+            "intent": "Find Alternative"
+        },
+        {
+            "text": "Is it necessary to upgrade to 15.10 from 14.04?",
+            "intent": "Make Update"
+        },
+        {
+            "text": "Are there any hardware diagnostic tools?",
+            "intent": "Software Recommendation"
+        },
+        {
+            "text": "How can I delete my Twitter account?",
+            "intent": "Delete Account"
+        },
+        {
+            "text": "What screenshot tools are available?",
+            "intent": "Software Recommendation"
+        },
+        {
+            "text": "how can i get from hauptbahnhof to odeonsplatz",
+            "intent": "FindConnection"
+        },
+        {
+            "text": "How can I install a Pantum 2502W laser printer on Ubuntu",
+            "intent": "Setup Printer"
+        },
+        {
+            "text": "from garching to hauptbahnhof",
+            "intent": "FindConnection"
+        },
+        {
+            "text": "when does the next train leave from garching forschungszentrum",
+            "intent": "DepartureTime"
+        },
+        {
+            "text": "How do I shut down without the confirmation prompt?",
+            "intent": "Shutdown Computer"
+        },
+        {
+            "text": "or depart from garching",
+            "intent": "DepartureTime"
+        },
+        {
+            "text": "how to get from winterstrasse 12 to frttmaning",
+            "intent": "FindConnection"
+        },
+        {
+            "text": "Google Bookmarks and Chrome Bookmark Sync -- Different?",
+            "intent": "Sync Accounts"
+        },
+        {
+            "text": "What is the proper terminal-way to shutdown?",
+            "intent": "Shutdown Computer"
+        },
+        {
+            "text": "how to get from mnchner freiheit to garching ?",
+            "intent": "FindConnection"
+        },
+        {
+            "text": "how do i get from marienplatz zu garching",
+            "intent": "FindConnection"
+        },
+        {
+            "text": "How to check your Gmail spam label for good emails",
+            "intent": "Filter Spam"
+        },
+        {
+            "text": "What are some good GUI binary viewers/editors?",
+            "intent": "Software Recommendation"
+        },
+        {
+            "text": "What does my computer do when I click 'Shut Down'?",
+            "intent": "Shutdown Computer"
+        },
+        {
+            "text": "How to install a Brother MFC-5890CN network printer?",
+            "intent": "Setup Printer"
+        },
+        {
+            "text": "what is the next train from mnchner freiheit",
+            "intent": "DepartureTime"
+        },
+        {
+            "text": "upgrading to Ubuntu 13.10 from Ubuntu 13.04",
+            "intent": "Make Update"
+        },
+        {
+            "text": "what's the shortest way between hauptbahnhof and odeonsplatz?",
+            "intent": "FindConnection"
+        },
+        {
+            "text": "What blog editor software are available?",
+            "intent": "Software Recommendation"
+        },
+        {
+            "text": "How can I remove myself from a Trello organization?",
+            "intent": "Delete Account"
+        },
+        {
+            "text": "How to retrieve a stolen Yahoo account's password?",
+            "intent": "Change Password"
+        },
+        {
+            "text": "Problems upgrading Ubuntu 12.10 to 13.04",
+            "intent": "Make Update"
+        },
+        {
+            "text": "when is the next train from untere straaecker 21 to kieferngarten",
+            "intent": "FindConnection"
+        },
+        {
+            "text": "Mark large numbers of messages as not spam",
+            "intent": "Filter Spam"
+        },
+        {
+            "text": "How do I install drivers for the Panasonic MB1900CX All-in-One Printer/Scanner?",
+            "intent": "Setup Printer"
+        },
+        {
+            "text": "How do I install drivers for a Konica Minolta 200?",
+            "intent": "Setup Printer"
+        },
+        {
+            "text": "how can i get from theresienstrasse to garching forschungszentrum",
+            "intent": "FindConnection"
+        },
+        {
+            "text": "can i take a bus from quiddestrae to hauptbahnhof?",
+            "intent": "FindConnection"
+        },
+        {
+            "text": "Install printer Lexmark X4690 ubuntu 12.04",
+            "intent": "Setup Printer"
+        },
+        {
+            "text": "how can i get from moosach to quiddestrae?",
+            "intent": "FindConnection"
+        },
+        {
+            "text": "how can i get from mangfallplatz to garching",
+            "intent": "FindConnection"
+        },
+        {
+            "text": "How to install Canon LBP330 in Lts 16.04",
+            "intent": "Setup Printer"
+        },
+        {
+            "text": "Is there a lightweight tool to crop images quickly?",
+            "intent": "Software Recommendation"
+        },
+        {
+            "text": "when is adrians next subway leaving at garching forschungszentrum?",
+            "intent": "DepartureTime"
+        },
+        {
+            "text": "what is the right way to shutdown ubuntu using the command line?",
+            "intent": "Shutdown Computer"
+        },
+        {
+            "text": "Does using Gmail's Never send it to Spam filter mean I can't train their spam filter?",
+            "intent": "Filter Spam"
+        },
+        {
+            "text": "when does the next u-bahn departs at garching forschungszentrum?",
+            "intent": "DepartureTime"
+        },
+        {
+            "text": "Problem upgrading Ubuntu 9.10",
+            "intent": "Make Update"
+        },
+        {
+            "text": "Evernote alternative",
+            "intent": "Find Alternative"
+        },
+        {
+            "text": "Which is the best PDF metadata viewer for Ubuntu?",
+            "intent": "Software Recommendation"
+        },
+        {
+            "text": "is there a bus from odeonsplatz to hauptbahnhof at 3 pm?",
+            "intent": "FindConnection"
+        },
+        {
+            "text": "when does the train leaving in garching forschungszentrum",
+            "intent": "DepartureTime"
+        },
+        {
+            "text": "How to delete my imgur account?",
+            "intent": "Delete Account"
+        },
+        {
+            "text": "how can i get from neufahrn to garching",
+            "intent": "FindConnection"
+        },
+        {
+            "text": "What's the best Wireframing tool?",
+            "intent": "Software Recommendation"
+        },
+        {
+            "text": "How to upgrade from 12.10 to 14.04",
+            "intent": "Make Update"
+        },
+        {
+            "text": "how can i get from garching to marienplatz",
+            "intent": "FindConnection"
+        },
+        {
+            "text": "when is the next bus from garching forschungzentrum",
+            "intent": "DepartureTime"
+        },
+        {
+            "text": "when is the train from garching to marienplatz",
+            "intent": "FindConnection"
+        },
+        {
+            "text": "How can I make shutdown not require admin password?",
+            "intent": "Shutdown Computer"
+        },
+        {
+            "text": "What IRC clients are available?",
+            "intent": "Software Recommendation"
+        },
+        {
+            "text": "how do i get from oez to hbf?",
+            "intent": "FindConnection"
+        },
+        {
+            "text": "when does the next u-bahn departs at garching?",
+            "intent": "DepartureTime"
+        },
+        {
+            "text": "How to delete a Sify Mail account",
+            "intent": "Delete Account"
+        },
+        {
+            "text": "how do i get from spitzingplatz to poccistrae?",
+            "intent": "FindConnection"
+        },
+        {
+            "text": "When I move spam to my inbox it goes back into the spam again",
+            "intent": "Filter Spam"
+        },
+        {
+            "text": "is there a tram from karlsplatz to lehel?",
+            "intent": "FindConnection"
+        },
+        {
+            "text": "what is the cheapest connection between quiddestrae and hauptbahnhof?",
+            "intent": "FindConnection"
+        },
+        {
+            "text": "when does the next train leaves at garching?",
+            "intent": "DepartureTime"
+        },
+        {
+            "text": "how i can get from garching to neuperlach sued",
+            "intent": "FindConnection"
+        },
+        {
+            "text": "when is the next train in muncher freiheit?",
+            "intent": "DepartureTime"
+        },
+        {
+            "text": "Upgrade from 9.10 to 11.04",
+            "intent": "Make Update"
+        },
+        {
+            "text": "How do I change my password on ebay?",
+            "intent": "Change Password"
+        },
+        {
+            "text": "How do I install Dell 2150cdn printer",
+            "intent": "Setup Printer"
+        },
+        {
+            "text": "Bugmenot registration bypasser alternative that doesn't suck?",
+            "intent": "Find Alternative"
+        },
+        {
+            "text": "How can one shutdown a PC using the keyboard?",
+            "intent": "Shutdown Computer"
+        },
+        {
+            "text": "Any alternatives to Google Apps for your domain?",
+            "intent": "Find Alternative"
+        },
+        {
+            "text": "take me to the airport",
+            "intent": "FindConnection"
+        },
+        {
+            "text": "MySQL GUI Tools",
+            "intent": "Software Recommendation"
+        },
+        {
+            "text": "Removing Recently used items in 12.04",
+            "intent": "Software Recommendation"
+        },
+        {
+            "text": "Software to read a QR code?",
+            "intent": "Software Recommendation"
+        },
+        {
+            "text": "Ho do I update to 13.04 from the beta?",
+            "intent": "Make Update"
+        },
+        {
+            "text": "Ubuntu Shut down app",
+            "intent": "Shutdown Computer"
+        },
+        {
+            "text": "show me the next bus from michaelibad.",
+            "intent": "DepartureTime"
+        },
+        {
+            "text": "how can i get from garchingto garching?",
+            "intent": "FindConnection"
+        },
+        {
+            "text": "Alternatives to Twitter",
+            "intent": "Find Alternative"
+        },
+        {
+            "text": "Software to create a video slideshow?",
+            "intent": "Software Recommendation"
+        },
+        {
+            "text": "start: neufahrn end:garching",
+            "intent": "FindConnection"
+        },
+        {
+            "text": "How to disable/delete a Harvest account?",
+            "intent": "Delete Account"
+        },
+        {
+            "text": "can you find a connection from garching to hauptbahnhof?",
+            "intent": "FindConnection"
+        }
+    ]
+}

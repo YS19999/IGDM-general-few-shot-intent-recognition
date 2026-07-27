@@ -1,0 +1,32 @@
+{
+    "data": [
+        {
+            "text": "i want to hear major harris s songs from the fifties",
+            "intent": "PlayMusic"
+        },
+        {
+            "text": "give the current album a five ",
+            "intent": "RateBook"
+        },
+        {
+            "text": "please search the ironbound picture ",
+            "intent": "SearchCreativeWork"
+        },
+        {
+            "text": "i want to give the canon of medicine one out of 6 stars ",
+            "intent": "BookRestaurant"
+        },
+        {
+            "text": "rate the current series 4 points",
+            "intent": "AddToPlaylist"
+        },
+        {
+            "text": "on jan  the twentieth what will it feel like in ct or the area not far from it",
+            "intent": "GetWeather"
+        },
+        {
+            "text": "please look up three essays on the theory of sexuality show ",
+            "intent": "SearchScreeningEvent"
+        }
+    ]
+}

@@ -1,0 +1,118 @@
+{
+    "data": [
+        {
+            "text": "get me directions to the mall",
+            "intent": [
+                "show_in_screen",
+                "request_route"
+            ]
+        },
+        {
+            "text": "What time is the tennis activity and who is attending ?",
+            "intent": [
+                "request_time",
+                "request_date",
+                "request_party"
+            ]
+        },
+        {
+            "text": "What is the address , and is there supposed to be any traffic ?",
+            "intent": [
+                "request_address",
+                "request_traffic"
+            ]
+        },
+        {
+            "text": "I need to go home and avoid the heavy traffic .",
+            "intent": [
+                "navigate",
+                "inform"
+            ]
+        },
+        {
+            "text": "Tell me Redwood City 's forecast today , if it 's going to be windy or not ?",
+            "intent": [
+                "request_weather",
+                "query"
+            ]
+        },
+        {
+            "text": "schedule of yoga class",
+            "intent": [
+                "schedule"
+            ]
+        },
+        {
+            "text": "show me the nearest shopping mall",
+            "intent": [
+                "request_poi"
+            ]
+        },
+        {
+            "text": "Please give me the information for Thursday .",
+            "intent": [
+                "request_information"
+            ]
+        },
+        {
+            "text": "Yes that would be helpful .",
+            "intent": [
+                "confirm"
+            ]
+        },
+        {
+            "text": "What is the temperature in Camarillo right now ?",
+            "intent": [
+                "request_temperature"
+            ]
+        },
+        {
+            "text": "check my agenda for my meetings",
+            "intent": [
+                "request_agenda"
+            ]
+        },
+        {
+            "text": "Where is the meeting ?",
+            "intent": [
+                "request_location"
+            ]
+        },
+        {
+            "text": "No , that will be it . Thanks very much .",
+            "intent": [
+                "appreciate"
+            ]
+        },
+        {
+            "text": "List my schedule for Friday .",
+            "intent": [
+                "list_schedule"
+            ]
+        },
+        {
+            "text": "remind me about my son 's football practice at 2 tomorrow",
+            "intent": [
+                "remind"
+            ]
+        },
+        {
+            "text": "set doctor 's appointment for next week",
+            "intent": [
+                "command_appointment"
+            ]
+        },
+        {
+            "text": "Which one is gon na be the lowest temperature today in New York ?",
+            "intent": [
+                "request_low_temperature"
+            ]
+        },
+        {
+            "text": "I want to hear grand rapids highest temperature for today and tomorrow",
+            "intent": [
+                "request_high_temperature"
+            ]
+        }
+    ]
+}

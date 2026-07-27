@@ -1,0 +1,220 @@
+{
+    "data": [
+        {
+            "text": "Can you shut off my bedroom light?",
+            "intent": "hue_lightoff"
+        },
+        {
+            "text": "yes exactly.",
+            "intent": "affirm"
+        },
+        {
+            "text": "Olly how much are tickets at Wonder Works?",
+            "intent": "events"
+        },
+        {
+            "text": "set the default audio setting",
+            "intent": "volume_other"
+        },
+        {
+            "text": "write me a tweet about how horrible their management is",
+            "intent": "post"
+        },
+        {
+            "text": "I want to bright the room more",
+            "intent": "hue_lightup"
+        },
+        {
+            "text": "What is the defination of textual",
+            "intent": "definition"
+        },
+        {
+            "text": "PDA: Make the room light blue",
+            "intent": "hue_lightchange"
+        },
+        {
+            "text": "Resume a song from the audiobook by Michael Jackson",
+            "intent": "audiobook"
+        },
+        {
+            "text": "will you shut up.",
+            "intent": "commandstop"
+        },
+        {
+            "text": "that doesn't matter to me olly.",
+            "intent": "dontcare"
+        },
+        {
+            "text": "When was insert last academy award winning movie?",
+            "intent": "factoid"
+        },
+        {
+            "text": "Add Carl's email to my contact.",
+            "intent": "addcontact"
+        },
+        {
+            "text": "s1 will you elaborate me about that once again.",
+            "intent": "explain"
+        },
+        {
+            "text": "You're too loud",
+            "intent": "volume_down"
+        },
+        {
+            "text": "Please mark  the wemo socket to off",
+            "intent": "wemo_off"
+        },
+        {
+            "text": "Let's have the radio on.",
+            "intent": "radio"
+        },
+        {
+            "text": "Tell me about the new foriegn policy of Trump",
+            "intent": "query"
+        },
+        {
+            "text": "What is the exchange rate for pounds and USD?",
+            "intent": "currency"
+        },
+        {
+            "text": "how is the traffic now",
+            "intent": "traffic"
+        },
+        {
+            "text": "play bingo",
+            "intent": "game"
+        },
+        {
+            "text": "please will you check my last instruction.",
+            "intent": "confirm"
+        },
+        {
+            "text": "Play my midnight love playlist.",
+            "intent": "music"
+        },
+        {
+            "text": "What shops are near me?",
+            "intent": "locations"
+        },
+        {
+            "text": "Tell me more about the show.",
+            "intent": "quirky"
+        },
+        {
+            "text": "Alexa please turn on the lights.",
+            "intent": "hue_lighton"
+        },
+        {
+            "text": "May i ask you to dim the lights",
+            "intent": "hue_lightdim"
+        },
+        {
+            "text": "Play podcast favorites.",
+            "intent": "podcasts"
+        },
+        {
+            "text": "Who many teaspoons are in a cup?",
+            "intent": "recipe"
+        },
+        {
+            "text": "Hello how are you?",
+            "intent": "greet"
+        },
+        {
+            "text": "sorry but i think you are not right.",
+            "intent": "negate"
+        },
+        {
+            "text": "say your sentence spoken one more time please.",
+            "intent": "repeat"
+        },
+        {
+            "text": "Call and order pizza for delivery",
+            "intent": "order"
+        },
+        {
+            "text": "shuffle music by aaron carter",
+            "intent": "settings"
+        },
+        {
+            "text": "I don't like this song",
+            "intent": "dislikeness"
+        },
+        {
+            "text": "can you find an animal joke for me",
+            "intent": "joke"
+        },
+        {
+            "text": "Could you please send back to Pawel this answer",
+            "intent": "sendemail"
+        },
+        {
+            "text": "What is the Netflix stock price.",
+            "intent": "stock"
+        },
+        {
+            "text": "what is the square root of 34?",
+            "intent": "maths"
+        },
+        {
+            "text": "Remind me about my anniversary in one day advance.",
+            "intent": "set"
+        },
+        {
+            "text": "Make the wemo go on",
+            "intent": "wemo_on"
+        },
+        {
+            "text": "Schedule an uber in 20 minutes to Tesco on 5th street",
+            "intent": "taxi"
+        },
+        {
+            "text": "Remove list of Due payment of Rajesh.",
+            "intent": "remove"
+        },
+        {
+            "text": "get the roomba to clean the kitchen",
+            "intent": "cleaning"
+        },
+        {
+            "text": "Brew me a cup of coffee",
+            "intent": "coffee"
+        },
+        {
+            "text": "Where is the car?",
+            "intent": "volume_up"
+        },
+        {
+            "text": "i appreciate it it's awesome.",
+            "intent": "praise"
+        },
+        {
+            "text": "pls change timezone to canada",
+            "intent": "convert"
+        },
+        {
+            "text": "Replay this song I really like it.",
+            "intent": "likeness"
+        },
+        {
+            "text": "Alexa what information do you have on file in my information about Bill ?",
+            "intent": "querycontact"
+        },
+        {
+            "text": "I've got a meeting by tonight 7:00PM please mute the music for an hour",
+            "intent": "volume_mute"
+        },
+        {
+            "text": "Olly what are good movies playing now?",
+            "intent": "movies"
+        },
+        {
+            "text": "Order a train ticket to Los Angeles.",
+            "intent": "ticket"
+        },
+        {
+            "text": "I need to start a list called...",
+            "intent": "createoradd"
+        }
+    ]
+}

@@ -1,0 +1,436 @@
+{
+    "data": [
+        {
+            "text": "Turn off the bedroom lamp",
+            "intent": "hue_lightoff"
+        },
+        {
+            "text": "I need to add this new contact for Sam Smith ssmithyahoo.com.",
+            "intent": "addcontact"
+        },
+        {
+            "text": "Inform me about the most popular rom-com movie playing now in theatres across New York.",
+            "intent": "movies"
+        },
+        {
+            "text": "Tell a joke that puts smile on my face",
+            "intent": "joke"
+        },
+        {
+            "text": "Activate coffee machine.",
+            "intent": "coffee"
+        },
+        {
+            "text": "I don't want to hear any more songs of that type",
+            "intent": "dislikeness"
+        },
+        {
+            "text": "what playlists do you have for pop music",
+            "intent": "music"
+        },
+        {
+            "text": "Turn on hall lights.",
+            "intent": "hue_lighton"
+        },
+        {
+            "text": "please order me lo mein and egg rolls from panda express now",
+            "intent": "order"
+        },
+        {
+            "text": "tweet esurance and tell them they suck",
+            "intent": "post"
+        },
+        {
+            "text": "disable my  okug",
+            "intent": "wemo_off"
+        },
+        {
+            "text": "Alexa send mom an email now",
+            "intent": "sendemail"
+        },
+        {
+            "text": "PDA Can u increase the volume of the speakers?",
+            "intent": "volume_up"
+        },
+        {
+            "text": "Can you tell me what haggis looks like?",
+            "intent": "definition"
+        },
+        {
+            "text": "Tell me about Mary S in my contacts",
+            "intent": "querycontact"
+        },
+        {
+            "text": "set to mute",
+            "intent": "volume_mute"
+        },
+        {
+            "text": "what's up olly",
+            "intent": "greet"
+        },
+        {
+            "text": "post pic on my phone on facebook alexa",
+            "intent": "post"
+        },
+        {
+            "text": "Who is the contact that last called me.",
+            "intent": "querycontact"
+        },
+        {
+            "text": "Games",
+            "intent": "game"
+        },
+        {
+            "text": "PDA I like electronic music",
+            "intent": "likeness"
+        },
+        {
+            "text": "how is the stock for compaq doing?",
+            "intent": "stock"
+        },
+        {
+            "text": "Give me options for Indian carryout under 30.",
+            "intent": "order"
+        },
+        {
+            "text": "Turn wemo on",
+            "intent": "wemo_on"
+        },
+        {
+            "text": "road traffic",
+            "intent": "traffic"
+        },
+        {
+            "text": "Will you dim all the lights.",
+            "intent": "hue_lightdim"
+        },
+        {
+            "text": "Remind me to call mom every Tuesday at 10 AM.",
+            "intent": "set"
+        },
+        {
+            "text": "what is the coldest place on earth",
+            "intent": "factoid"
+        },
+        {
+            "text": "I need sport's news",
+            "intent": "query"
+        },
+        {
+            "text": "please decrease the volume of music player.",
+            "intent": "volume_down"
+        },
+        {
+            "text": "Clear my schedule for the month.",
+            "intent": "remove"
+        },
+        {
+            "text": "check the details.",
+            "intent": "confirm"
+        },
+        {
+            "text": "find events in local area",
+            "intent": "events"
+        },
+        {
+            "text": "What's going on",
+            "intent": "events"
+        },
+        {
+            "text": "please could you tell me that one more time again.",
+            "intent": "repeat"
+        },
+        {
+            "text": "I want to see the recipe of veg biryani",
+            "intent": "recipe"
+        },
+        {
+            "text": "good day",
+            "intent": "greet"
+        },
+        {
+            "text": "Make a list of numbers for me",
+            "intent": "createoradd"
+        },
+        {
+            "text": "s1 explain me more on what you have said.",
+            "intent": "explain"
+        },
+        {
+            "text": "Olly can you convert my time zone to the timezone I'm currently in?",
+            "intent": "convert"
+        },
+        {
+            "text": "you have got the answer right.",
+            "intent": "affirm"
+        },
+        {
+            "text": "please reserve the next taxi a 9:00 AM",
+            "intent": "taxi"
+        },
+        {
+            "text": "Ok Google raise your volume",
+            "intent": "volume_up"
+        },
+        {
+            "text": "the command was confirmed.",
+            "intent": "affirm"
+        },
+        {
+            "text": "Dollar rate of Philippiness peso",
+            "intent": "currency"
+        },
+        {
+            "text": "i appreciate it that's good.",
+            "intent": "praise"
+        },
+        {
+            "text": "x company stock price",
+            "intent": "stock"
+        },
+        {
+            "text": "Olly play the podcast of barack obama saved in device",
+            "intent": "podcasts"
+        },
+        {
+            "text": "Overhead lights on please.",
+            "intent": "hue_lighton"
+        },
+        {
+            "text": "What kind of shops are near my locality?",
+            "intent": "locations"
+        },
+        {
+            "text": "you've done it right i appreciate it.",
+            "intent": "praise"
+        },
+        {
+            "text": "What is the time at Singapore when or time is 5 pm",
+            "intent": "convert"
+        },
+        {
+            "text": "Where is volume setting",
+            "intent": "volume_other"
+        },
+        {
+            "text": "Is there any new jobs are relate to my qualifications",
+            "intent": "quirky"
+        },
+        {
+            "text": "shut down SPS smart plug socket",
+            "intent": "wemo_off"
+        },
+        {
+            "text": "I want my PDA to find good posters and arts of my favorite shows",
+            "intent": "quirky"
+        },
+        {
+            "text": "How do you activate the robot vacuum cleaner?",
+            "intent": "cleaning"
+        },
+        {
+            "text": "Change the station to 82.4",
+            "intent": "radio"
+        },
+        {
+            "text": "Can you add a new email to my contacts?",
+            "intent": "addcontact"
+        },
+        {
+            "text": "I cup of Joe would be nice right now Olly",
+            "intent": "coffee"
+        },
+        {
+            "text": "Remind me that I like that song.",
+            "intent": "likeness"
+        },
+        {
+            "text": "Find an Oscar nominee movie",
+            "intent": "movies"
+        },
+        {
+            "text": "you've done a task all in wrong manner.",
+            "intent": "negate"
+        },
+        {
+            "text": "olly please can you shut up.",
+            "intent": "commandstop"
+        },
+        {
+            "text": "Resume audiobook playback",
+            "intent": "audiobook"
+        },
+        {
+            "text": "book a train ticket to city A.",
+            "intent": "ticket"
+        },
+        {
+            "text": "Music change",
+            "intent": "settings"
+        },
+        {
+            "text": "Dim the lights in the bathroom",
+            "intent": "hue_lightdim"
+        },
+        {
+            "text": "Will you put in my calendar that John C. and his wife are meeting with us at four p.m. tomorrow?",
+            "intent": "set"
+        },
+        {
+            "text": "Please brighten the lights",
+            "intent": "hue_lightup"
+        },
+        {
+            "text": "Please turn off kitchen light for me",
+            "intent": "hue_lightoff"
+        },
+        {
+            "text": "olly will you shut up please.",
+            "intent": "commandstop"
+        },
+        {
+            "text": "whatever would be ok to me.",
+            "intent": "dontcare"
+        },
+        {
+            "text": "Crockpot recipe for chicken alfredo",
+            "intent": "recipe"
+        },
+        {
+            "text": "What are the stats of x?",
+            "intent": "factoid"
+        },
+        {
+            "text": "Please switch on my wemo plug socket.",
+            "intent": "wemo_on"
+        },
+        {
+            "text": "Find an uber driver available for tonight after 10 pm.",
+            "intent": "taxi"
+        },
+        {
+            "text": "Make the light in here redder.",
+            "intent": "hue_lightchange"
+        },
+        {
+            "text": "What's the answer to 1  1?",
+            "intent": "maths"
+        },
+        {
+            "text": "What is the price of EUR To USD",
+            "intent": "currency"
+        },
+        {
+            "text": "Play most recent podcast upload.",
+            "intent": "podcasts"
+        },
+        {
+            "text": "Add pick up kids from school to my to-do list for today",
+            "intent": "createoradd"
+        },
+        {
+            "text": "i need to hear that sentence again.",
+            "intent": "repeat"
+        },
+        {
+            "text": "goodnight",
+            "intent": "volume_mute"
+        },
+        {
+            "text": "hey siri what's the time",
+            "intent": "query"
+        },
+        {
+            "text": "Remove next event in calendar",
+            "intent": "remove"
+        },
+        {
+            "text": "Clean the floor.",
+            "intent": "cleaning"
+        },
+        {
+            "text": "this song is too length",
+            "intent": "dislikeness"
+        },
+        {
+            "text": "I need a gold class ticket on train no XXX using my credit card",
+            "intent": "ticket"
+        },
+        {
+            "text": "BRIGTEN THE LIGHT AT 70 PERCENT",
+            "intent": "hue_lightup"
+        },
+        {
+            "text": "Next play Justin Bieber's Sorry.",
+            "intent": "music"
+        },
+        {
+            "text": "What does insert mean ?",
+            "intent": "definition"
+        },
+        {
+            "text": "Light color change",
+            "intent": "hue_lightchange"
+        },
+        {
+            "text": "What is 4  5",
+            "intent": "maths"
+        },
+        {
+            "text": "Stop after current song.",
+            "intent": "settings"
+        },
+        {
+            "text": "i like you to check that please.",
+            "intent": "confirm"
+        },
+        {
+            "text": "no i think you did this all in wrong manner.",
+            "intent": "negate"
+        },
+        {
+            "text": "Recommend Pub eighth and monte diablo",
+            "intent": "locations"
+        },
+        {
+            "text": "Video Games",
+            "intent": "game"
+        },
+        {
+            "text": "How long will it take to get home?",
+            "intent": "traffic"
+        },
+        {
+            "text": "please play back some important points summary.",
+            "intent": "audiobook"
+        },
+        {
+            "text": "What's the latest joke?",
+            "intent": "joke"
+        },
+        {
+            "text": "Lower the speak volume",
+            "intent": "volume_down"
+        },
+        {
+            "text": "Change volume to 35 percent.",
+            "intent": "volume_other"
+        },
+        {
+            "text": "would not really mind.",
+            "intent": "dontcare"
+        },
+        {
+            "text": "play me news radio channel",
+            "intent": "radio"
+        },
+        {
+            "text": "explain further.",
+            "intent": "explain"
+        },
+        {
+            "text": "Can you open the reply box?",
+            "intent": "sendemail"
+        }
+    ]
+}
