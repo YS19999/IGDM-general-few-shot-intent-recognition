@@ -1,0 +1,87 @@
+{
+    "data": [
+        {
+            "text": "Oh you can go into the casinos free of charge because you're a tourist .",
+            "intent": [
+                "INFO",
+                "RECOMMEND",
+                "EXPLAIN"
+            ]
+        },
+        {
+            "text": "And then , yah , leave on the twenty seventh .",
+            "intent": [
+                "POSITIVE",
+                "WHEN"
+            ]
+        },
+        {
+            "text": "I just want to ask where to go to the Merlion statue ?",
+            "intent": [
+                "HOW_TO",
+                "WHERE"
+            ]
+        },
+        {
+            "text": "So do you know how long - can you estimate how long can we vis~ you know , check out the Sentosa Park ?",
+            "intent": [
+                "HOW_MUCH",
+                "COMMIT"
+            ]
+        },
+        {
+            "text": "which ethnic place would you want me to recommend ?",
+            "intent": [
+                "WHICH"
+            ]
+        },
+        {
+            "text": "So I think that's fine .",
+            "intent": [
+                "ENOUGH"
+            ]
+        },
+        {
+            "text": "Yes , who is Raffles ?",
+            "intent": [
+                "WHO"
+            ]
+        },
+        {
+            "text": "Okay , thank .",
+            "intent": [
+                "THANK"
+            ]
+        },
+        {
+            "text": "But also what you're trying to say is that there's a chance that they would allow you to do that or -",
+            "intent": [
+                "WHAT"
+            ]
+        },
+        {
+            "text": "It's the fifth , is it ?",
+            "intent": [
+                "CONFIRM"
+            ]
+        },
+        {
+            "text": "Oh - we don't have a cottage .",
+            "intent": [
+                "NEGATIVE"
+            ]
+        },
+        {
+            "text": "I'm planning to go there with my child .",
+            "intent": [
+                "PREFERENCE"
+            ]
+        },
+        {
+            "text": "I see , okay , yah .",
+            "intent": [
+                "ACK"
+            ]
+        }
+    ]
+}

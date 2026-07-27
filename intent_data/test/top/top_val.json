@@ -1,0 +1,80 @@
+{
+    "data": [
+        {
+            "text": "Florist shops nearby",
+            "intent": "UNSUPPORTED"
+        },
+        {
+            "text": "best route to work",
+            "intent": "GET_DIRECTIONS"
+        },
+        {
+            "text": "Please tell me the traffic going to New York",
+            "intent": "GET_INFO_TRAFFIC"
+        },
+        {
+            "text": "How long until I get to Albany if I leave now?",
+            "intent": "GET_ESTIMATED_DURATION"
+        },
+        {
+            "text": "Will I pass any gas stations on the way home",
+            "intent": "GET_INFO_ROUTE"
+        },
+        {
+            "text": "music concerts in Detroit this weekend",
+            "intent": "GET_EVENT"
+        },
+        {
+            "text": "Did Sarah go to the 20 year reunion?",
+            "intent": "GET_EVENT_ATTENDEE"
+        },
+        {
+            "text": "If I need to be in Canton by 6pm what time should I leave downtown Cleveland by?",
+            "intent": "GET_ESTIMATED_DEPARTURE"
+        },
+        {
+            "text": "no alternate driving traffic",
+            "intent": "UNINTELLIGIBLE"
+        },
+        {
+            "text": "Are there bike lanes along the entire route from my house to my office?",
+            "intent": "UNSUPPORTED_NAVIGATION"
+        },
+        {
+            "text": "Are there any detours to avoid the West Side Highway?",
+            "intent": "UPDATE_DIRECTIONS"
+        },
+        {
+            "text": "How far is Centerville NY to Texarkana AR",
+            "intent": "GET_DISTANCE"
+        },
+        {
+            "text": "I'd like to know if the roads are icy this evening on my way home from work",
+            "intent": "GET_INFO_ROAD_CONDITION"
+        },
+        {
+            "text": "Are the roads icy on Hwy 101 right now and is there a different route I should be taking?",
+            "intent": "COMBINE"
+        },
+        {
+            "text": "when will it be when I arrive at my mom's house",
+            "intent": "GET_ESTIMATED_ARRIVAL"
+        },
+        {
+            "text": "What's my current location?",
+            "intent": "GET_LOCATION"
+        },
+        {
+            "text": "Who is hosting New Year's Eve Parties in Orlando",
+            "intent": "GET_EVENT_ORGANIZER"
+        },
+        {
+            "text": "What bars will have DJs this weekend in near me",
+            "intent": "UNSUPPORTED_EVENT"
+        },
+        {
+            "text": "how many people expected to show up on first star wars showing",
+            "intent": "GET_EVENT_ATTENDEE_AMOUNT"
+        }
+    ]
+}

@@ -1,0 +1,260 @@
+{
+    "data": [
+        {
+            "text": "a little brighter thanks",
+            "intent": "iot_hue_lightup"
+        },
+        {
+            "text": "i have no idea about what to do olly.",
+            "intent": "general_dontcare"
+        },
+        {
+            "text": "store opinion on song",
+            "intent": "music_likeness"
+        },
+        {
+            "text": "turn on one oh seven point five",
+            "intent": "play_radio"
+        },
+        {
+            "text": "open my notes",
+            "intent": "lists_createoradd"
+        },
+        {
+            "text": "s1 explain more on your response.",
+            "intent": "general_explain"
+        },
+        {
+            "text": "call yellow cab",
+            "intent": "transport_taxi"
+        },
+        {
+            "text": "can you tell me the contact information of jo",
+            "intent": "email_querycontact"
+        },
+        {
+            "text": "turn up the sound",
+            "intent": "audio_volume_up"
+        },
+        {
+            "text": "delete my eight pm alarm",
+            "intent": "alarm_remove"
+        },
+        {
+            "text": "set the lights on blue",
+            "intent": "iot_hue_lightchange"
+        },
+        {
+            "text": "what is the date today",
+            "intent": "datetime_query"
+        },
+        {
+            "text": "do i have any openings on my schedule for tomorrow",
+            "intent": "calendar_query"
+        },
+        {
+            "text": "add email to existing contact",
+            "intent": "email_addcontact"
+        },
+        {
+            "text": "would you shut off.",
+            "intent": "general_commandstop"
+        },
+        {
+            "text": "delete that",
+            "intent": "calendar_remove"
+        },
+        {
+            "text": "could you please find me the latest news from a source that i do not usually go to",
+            "intent": "news_query"
+        },
+        {
+            "text": "do i need to carry umbrella for evening",
+            "intent": "weather_query"
+        },
+        {
+            "text": "what's a movie in theaters that doesn't suck",
+            "intent": "recommendation_movies"
+        },
+        {
+            "text": "it's quiet time",
+            "intent": "audio_volume_mute"
+        },
+        {
+            "text": "open hershey twitter",
+            "intent": "social_post"
+        },
+        {
+            "text": "ah that is great one.",
+            "intent": "general_praise"
+        },
+        {
+            "text": "play album audiobook",
+            "intent": "play_audiobook"
+        },
+        {
+            "text": "is yemen closer to japan or india",
+            "intent": "qa_factoid"
+        },
+        {
+            "text": "yeah you have got my instructions right.",
+            "intent": "general_affirm"
+        },
+        {
+            "text": "what conducts heat better copper bottomed pots or cast iron",
+            "intent": "cooking_recipe"
+        },
+        {
+            "text": "can you turn off kitchen light for me",
+            "intent": "iot_hue_lightoff"
+        },
+        {
+            "text": "how much money will i make for the week if i make dollars per hour and work twenty hours",
+            "intent": "qa_maths"
+        },
+        {
+            "text": "do you know about this lyrics",
+            "intent": "music_query"
+        },
+        {
+            "text": "can you send an email to my mother about the weekly weather",
+            "intent": "email_sendemail"
+        },
+        {
+            "text": "turn the lights down a bit",
+            "intent": "iot_hue_lightdim"
+        },
+        {
+            "text": "Switch off the smart socket",
+            "intent": "iot_wemo_off"
+        },
+        {
+            "text": "remove the milk from the shopping list",
+            "intent": "lists_remove"
+        },
+        {
+            "text": "book a ride from new york to orlando covering ten places to see",
+            "intent": "transport_ticket"
+        },
+        {
+            "text": "how do i get from where i'm at to universal in orlando florida",
+            "intent": "transport_query"
+        },
+        {
+            "text": "wait i think that's not the right answer.",
+            "intent": "general_negate"
+        },
+        {
+            "text": "what pubs are close",
+            "intent": "recommendation_locations"
+        },
+        {
+            "text": "could you tell me again please.",
+            "intent": "general_repeat"
+        },
+        {
+            "text": "is it possible to drive now in ohio",
+            "intent": "transport_traffic"
+        },
+        {
+            "text": "order spaghetti from spaghetti warehouse to bring home",
+            "intent": "takeaway_order"
+        },
+        {
+            "text": "could you please lower your volume",
+            "intent": "audio_volume_down"
+        },
+        {
+            "text": "did you get the last thing i said correctly?",
+            "intent": "general_confirm"
+        },
+        {
+            "text": "tell a joke that puts smile on my face",
+            "intent": "general_joke"
+        },
+        {
+            "text": "please check this companies stock",
+            "intent": "qa_stock"
+        },
+        {
+            "text": "would you go check my emails for me",
+            "intent": "email_query"
+        },
+        {
+            "text": "what time are my alarms",
+            "intent": "alarm_query"
+        },
+        {
+            "text": "let me know about the exchange rate of rupee to dirham",
+            "intent": "qa_currency"
+        },
+        {
+            "text": "will you please play a podcast",
+            "intent": "play_podcasts"
+        },
+        {
+            "text": "play new rihanna song",
+            "intent": "play_music"
+        },
+        {
+            "text": "does the restaurant have carryout",
+            "intent": "takeaway_query"
+        },
+        {
+            "text": "describe a fifty inch smart tv",
+            "intent": "qa_definition"
+        },
+        {
+            "text": "will you have the vacuum start cleaning",
+            "intent": "iot_cleaning"
+        },
+        {
+            "text": "what's trending on twitter",
+            "intent": "social_query"
+        },
+        {
+            "text": "what is time now in japan compared to usa",
+            "intent": "datetime_convert"
+        },
+        {
+            "text": "i want it to be able to tell me statistics about things it's done for me like how often i've eaten out this month",
+            "intent": "general_quirky"
+        },
+        {
+            "text": "are there any interesting events around this area",
+            "intent": "recommendation_events"
+        },
+        {
+            "text": "shuffle song",
+            "intent": "music_settings"
+        },
+        {
+            "text": "can you make coffee",
+            "intent": "iot_coffee"
+        },
+        {
+            "text": "please remind me for the function at miami tomorrow",
+            "intent": "calendar_set"
+        },
+        {
+            "text": "did i put toothpaste on my pick up list",
+            "intent": "lists_query"
+        },
+        {
+            "text": "set an alarm for two hours from now please",
+            "intent": "alarm_set"
+        },
+        {
+            "text": "switch on all the lights",
+            "intent": "iot_hue_lighton"
+        },
+        {
+            "text": "turn on the rice cooker socket",
+            "intent": "iot_wemo_on"
+        },
+        {
+            "text": "bring up papa pear saga",
+            "intent": "play_game"
+        }
+    ]
+}

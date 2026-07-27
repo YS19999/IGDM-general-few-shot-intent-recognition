@@ -1,0 +1,5776 @@
+{
+    "data": [
+        {
+            "text": "please share this link on my twitter",
+            "intent": "share"
+        },
+        {
+            "text": "does virus thrive in water",
+            "intent": "can_i_get_from_packages_surfaces"
+        },
+        {
+            "text": "hey what's up",
+            "intent": "hi"
+        },
+        {
+            "text": "Hi I cant insert the Automatic adapter I received in my cars OBD port",
+            "intent": "info_knowyourdrive_errors"
+        },
+        {
+            "text": "I do not know how I could contact an agent",
+            "intent": "contact_human_agent"
+        },
+        {
+            "text": "It looks like my auto policy is with The General",
+            "intent": "info_the_general_contact"
+        },
+        {
+            "text": "can i get the virus from eating pork",
+            "intent": "can_i_get_from_feces_animal_pets"
+        },
+        {
+            "text": "Not happy with the product please help me to return",
+            "intent": "return_exchange"
+        },
+        {
+            "text": "Transaction",
+            "intent": "check_deposit_status"
+        },
+        {
+            "text": "making order",
+            "intent": "place_order"
+        },
+        {
+            "text": "are grocery stores considered a hisk risk area",
+            "intent": "what_if_i_visited_high_risk_area"
+        },
+        {
+            "text": "contact agent",
+            "intent": "contact_human_agent"
+        },
+        {
+            "text": "am i in a high risk area for covid-19",
+            "intent": "what_if_i_visited_high_risk_area"
+        },
+        {
+            "text": "check under what circumstances can I ask for refunds",
+            "intent": "check_refund_policy"
+        },
+        {
+            "text": "can I switch user?",
+            "intent": "switch_account"
+        },
+        {
+            "text": "report an issue with payment",
+            "intent": "payment_issue"
+        },
+        {
+            "text": "Call back",
+            "intent": "contact_number"
+        },
+        {
+            "text": "what shoud essential workers do to protect people in their household",
+            "intent": "what_if_i_visited_high_risk_area"
+        },
+        {
+            "text": "where do I check your allowed payment methods?",
+            "intent": "check_payment_methods"
+        },
+        {
+            "text": "What are active offers for me",
+            "intent": "offers_and_referrals"
+        },
+        {
+            "text": "could you help me get my money back?",
+            "intent": "get_refund"
+        },
+        {
+            "text": "I was in an accident and now my car isnt drivable How can I get a rental car",
+            "intent": "info_cl_rental"
+        },
+        {
+            "text": "help me submitting some feedback for your company",
+            "intent": "review"
+        },
+        {
+            "text": "I don't know what I have to do to contact customer service",
+            "intent": "contact_customer_service"
+        },
+        {
+            "text": "is it a myth that lavender helps covid",
+            "intent": "myths"
+        },
+        {
+            "text": "where could I get my invoices?",
+            "intent": "get_invoice"
+        },
+        {
+            "text": "I don't know how I can cancel the last order",
+            "intent": "cancel_order"
+        },
+        {
+            "text": "I am calling to submit some feedback for your company",
+            "intent": "review"
+        },
+        {
+            "text": "I want assistance checking how long the delivery takes",
+            "intent": "delivery_period"
+        },
+        {
+            "text": "how to add something?",
+            "intent": "change_order"
+        },
+        {
+            "text": "can you help me set up a new shipping address?",
+            "intent": "set_up_shipping_address"
+        },
+        {
+            "text": "what does the press say about the vaccine development",
+            "intent": "news_and_press"
+        },
+        {
+            "text": "send link to sister",
+            "intent": "share"
+        },
+        {
+            "text": "I would like to check my refund status",
+            "intent": "track_refund"
+        },
+        {
+            "text": "I try to check in what cases can I ask to be refunded",
+            "intent": "check_refund_policy"
+        },
+        {
+            "text": "Are stores still opening?",
+            "intent": "store_information"
+        },
+        {
+            "text": "I do not know how I could check the cancellation fee",
+            "intent": "check_cancellation_fee"
+        },
+        {
+            "text": "could you help me to check the invoices?",
+            "intent": "check_invoice"
+        },
+        {
+            "text": "what are today's updates",
+            "intent": "news_and_press"
+        },
+        {
+            "text": "how can I get the invoice from August?",
+            "intent": "get_invoice"
+        },
+        {
+            "text": "how's it going",
+            "intent": "hi"
+        },
+        {
+            "text": "Can you explain to me the coverage called liability",
+            "intent": "info_liab_explan"
+        },
+        {
+            "text": "I LOOKING TO SEE I WE HAVE AN ESTIMATE WRITTENON CLAIMxxxxxxxxxxxx FOR Customer Name ON HER  CHEV SILVERADO",
+            "intent": "info_cl_shop_send_estimate"
+        },
+        {
+            "text": "I want help to subscribe to your company newsletter",
+            "intent": "newsletter_subscription"
+        },
+        {
+            "text": "could I check your allowed payment methods?",
+            "intent": "check_payment_methods"
+        },
+        {
+            "text": "i have placed a order recentlymoney deducted but order not placed",
+            "intent": "payment_and_bill"
+        },
+        {
+            "text": "should i be concerned about the virus",
+            "intent": "how_does_corona_spread"
+        },
+        {
+            "text": "assistance to check what hours customer service available is",
+            "intent": "contact_customer_service"
+        },
+        {
+            "text": "talk to agent",
+            "intent": "contact_human_agent"
+        },
+        {
+            "text": "can you send me the invoice from last month?",
+            "intent": "get_invoice"
+        },
+        {
+            "text": "is having a hard time to breathe a symptom",
+            "intent": "what_are_symptoms"
+        },
+        {
+            "text": "could you help me solving an issue with payments?",
+            "intent": "payment_issue"
+        },
+        {
+            "text": "Can you send me my old insurance card",
+            "intent": "info_poi_old"
+        },
+        {
+            "text": "can i hear an update on the pandemic",
+            "intent": "what_is_corona"
+        },
+        {
+            "text": "My friend was asking for referral code do I will get referral bonus",
+            "intent": "offers_and_referrals"
+        },
+        {
+            "text": "Hi i am looking for diet chart",
+            "intent": "consult_start"
+        },
+        {
+            "text": "Im looking to mail an insurance premium check Can you please confirm if the payee should be American Family Insurance or Homesite Insurance Company The payment address provided is for Homesite",
+            "intent": "info_homesite_contact"
+        },
+        {
+            "text": "Best whey for lean body",
+            "intent": "recommend_product"
+        },
+        {
+            "text": "Difference between Ergo  Ortho Mattress",
+            "intent": "comparison"
+        },
+        {
+            "text": "wanna check the status of my newsletter subscription help me",
+            "intent": "newsletter_subscription"
+        },
+        {
+            "text": "are the charges for services refundable?",
+            "intent": "check_refund_policy"
+        },
+        {
+            "text": "is it possible to set up another shipping address?",
+            "intent": "set_up_shipping_address"
+        },
+        {
+            "text": "assistance setting up a new shipping address",
+            "intent": "set_up_shipping_address"
+        },
+        {
+            "text": "how you will manage your work",
+            "intent": "st_what_can_abby_do"
+        },
+        {
+            "text": "help reporting a registration issue",
+            "intent": "registration_problems"
+        },
+        {
+            "text": "help me to contact someone",
+            "intent": "contact_human_agent"
+        },
+        {
+            "text": "Offers",
+            "intent": "offers"
+        },
+        {
+            "text": "I need help to solve an issue with payments",
+            "intent": "payment_issue"
+        },
+        {
+            "text": "I need to speak to customer assistance can I get some help?",
+            "intent": "contact_customer_service"
+        },
+        {
+            "text": "what's the worst thing to touch",
+            "intent": "can_i_get_from_packages_surfaces"
+        },
+        {
+            "text": "i cannot subscribe to ur company newsletter",
+            "intent": "newsletter_subscription"
+        },
+        {
+            "text": "I am trying to recover the passowrd of my account",
+            "intent": "recover_password"
+        },
+        {
+            "text": "assistance to see the cancellation penalty",
+            "intent": "check_cancellation_fee"
+        },
+        {
+            "text": "Advice a diet chart",
+            "intent": "consult_start"
+        },
+        {
+            "text": "tell me how to cancel online billing",
+            "intent": "info_paperless_docs_stop"
+        },
+        {
+            "text": "I need help with cancelling an order I have made",
+            "intent": "cancel_order"
+        },
+        {
+            "text": "I need to subscribe to the newsletter how do I do it?",
+            "intent": "newsletter_subscription"
+        },
+        {
+            "text": "The General auto insurance",
+            "intent": "info_the_general_contact"
+        },
+        {
+            "text": "When does comp cov apply",
+            "intent": "info_comp_cov_explan"
+        },
+        {
+            "text": "I want assistance leaving a review for your services",
+            "intent": "review"
+        },
+        {
+            "text": "I am looking for information about the options for delivery",
+            "intent": "delivery_options"
+        },
+        {
+            "text": "can you help me checking how long refunds usually take?",
+            "intent": "check_refund_policy"
+        },
+        {
+            "text": "i need assistance seeing the accepted payment options",
+            "intent": "check_payment_methods"
+        },
+        {
+            "text": "what types of businesses are considered high risk",
+            "intent": "what_if_i_visited_high_risk_area"
+        },
+        {
+            "text": "I want to cancel bills online",
+            "intent": "info_paperless_docs_stop"
+        },
+        {
+            "text": "Fake teams",
+            "intent": "fake_teams"
+        },
+        {
+            "text": "is it possible to subscribe to your company newsletter?",
+            "intent": "newsletter_subscription"
+        },
+        {
+            "text": "I was viewing my account online and noticed that the agent listed is not correct",
+            "intent": "info_agent_wrong"
+        },
+        {
+            "text": "help to make a consumer complaint against your business",
+            "intent": "complaint"
+        },
+        {
+            "text": "I do not want to use online billing",
+            "intent": "info_paperless_docs_stop"
+        },
+        {
+            "text": "I need help to switch user",
+            "intent": "switch_account"
+        },
+        {
+            "text": "send a report to this link",
+            "intent": "share"
+        },
+        {
+            "text": "I need to check your money back policy",
+            "intent": "check_refund_policy"
+        },
+        {
+            "text": "help recovering my password",
+            "intent": "recover_password"
+        },
+        {
+            "text": "how to set a different shipping address up?",
+            "intent": "set_up_shipping_address"
+        },
+        {
+            "text": "find information about forgotten passwords",
+            "intent": "recover_password"
+        },
+        {
+            "text": "I try to check in what cases can I ask for my money back",
+            "intent": "check_refund_policy"
+        },
+        {
+            "text": "Do you insure salvaged vehicles",
+            "intent": "info_salvage_vehicle"
+        },
+        {
+            "text": "I don't know how I can get a refund of money",
+            "intent": "get_refund"
+        },
+        {
+            "text": "whassup doc",
+            "intent": "hi"
+        },
+        {
+            "text": "help me lodging a complaint against your organization",
+            "intent": "complaint"
+        },
+        {
+            "text": "do gloves help",
+            "intent": "protect_yourself"
+        },
+        {
+            "text": "I do not know how to edit the details included on my profile",
+            "intent": "edit_account"
+        },
+        {
+            "text": "assistance tracking the refund",
+            "intent": "track_refund"
+        },
+        {
+            "text": "I need help with the registration",
+            "intent": "registration_problems"
+        },
+        {
+            "text": "lodge complaint against your organization",
+            "intent": "complaint"
+        },
+        {
+            "text": "I have to check at what time customer service available is",
+            "intent": "contact_customer_service"
+        },
+        {
+            "text": "flu treatment options viable to fight corona",
+            "intent": "what_are_treatment_options"
+        },
+        {
+            "text": "I need assistance to check your allowed payment methods",
+            "intent": "check_payment_methods"
+        },
+        {
+            "text": "help to check what hours I can contact customer service",
+            "intent": "contact_customer_service"
+        },
+        {
+            "text": "how could I switch to another account?",
+            "intent": "switch_account"
+        },
+        {
+            "text": "what do I need to do to check your allowed payment methods?",
+            "intent": "check_payment_methods"
+        },
+        {
+            "text": "I do not know how to talk with customer assistance",
+            "intent": "contact_customer_service"
+        },
+        {
+            "text": "tell me about covid-19 please",
+            "intent": "what_is_corona"
+        },
+        {
+            "text": "What number do I call for a cracked windshield",
+            "intent": "info_cl_glass_safelite"
+        },
+        {
+            "text": "I need help to play",
+            "intent": "how_to_play"
+        },
+        {
+            "text": "any news from seoul",
+            "intent": "news_and_press"
+        },
+        {
+            "text": "Ill call thank you",
+            "intent": "st_thank_you"
+        },
+        {
+            "text": "edit billing account name",
+            "intent": "info_billing_acct_name_edit"
+        },
+        {
+            "text": "give me information about the termination of a user account",
+            "intent": "delete_account"
+        },
+        {
+            "text": "Order query",
+            "intent": "order_query"
+        },
+        {
+            "text": "can you tell me more about a shipping address change?",
+            "intent": "change_shipping_address"
+        },
+        {
+            "text": "I would like to transfer my existing account from my agent to another nearby agent",
+            "intent": "info_change_agent"
+        },
+        {
+            "text": "I try to close the online account",
+            "intent": "delete_account"
+        },
+        {
+            "text": "Seriously when will my payment come out of my bank account",
+            "intent": "info_pymt_time"
+        },
+        {
+            "text": "Do i need to make payment in cash",
+            "intent": "order_taking"
+        },
+        {
+            "text": "I want help to contact an agent",
+            "intent": "contact_human_agent"
+        },
+        {
+            "text": "I am trying to edit the details included on my user profile",
+            "intent": "edit_account"
+        },
+        {
+            "text": "I would like to know if I can extend my auto payment  days and set it for March th",
+            "intent": "info_change_autopay_date"
+        },
+        {
+            "text": "help updating the data on my user profile",
+            "intent": "edit_account"
+        },
+        {
+            "text": "could you help me check what delivery options I can choose?",
+            "intent": "delivery_options"
+        },
+        {
+            "text": "What is your contact number",
+            "intent": "contact_number"
+        },
+        {
+            "text": "I need customer support",
+            "intent": "chat_with_agent"
+        },
+        {
+            "text": "safelite auto glass windshield chip",
+            "intent": "info_cl_glass_safelite"
+        },
+        {
+            "text": "help to find the invoices from October",
+            "intent": "check_invoice"
+        },
+        {
+            "text": "how can i care for a cat that has contracted the virus",
+            "intent": "can_i_get_from_feces_animal_pets"
+        },
+        {
+            "text": "Yes but they dont print out good so l would like them mailed to me",
+            "intent": "info_ins_card_send"
+        },
+        {
+            "text": "may I cancel online billing",
+            "intent": "info_paperless_docs_stop"
+        },
+        {
+            "text": "check how long refunds take",
+            "intent": "check_refund_policy"
+        },
+        {
+            "text": "what do i need to do to informof sign-up issues",
+            "intent": "registration_problems"
+        },
+        {
+            "text": "Almost 1 month over",
+            "intent": "delay_in_delivery"
+        },
+        {
+            "text": "I need help chatting with a person",
+            "intent": "contact_human_agent"
+        },
+        {
+            "text": "assistance to change the shipping address",
+            "intent": "change_shipping_address"
+        },
+        {
+            "text": "i want helo to make a claim against ur company",
+            "intent": "complaint"
+        },
+        {
+            "text": "share the chat with my friends",
+            "intent": "share"
+        },
+        {
+            "text": "should i wear a mask and gloves on the subway",
+            "intent": "travel"
+        },
+        {
+            "text": "I need help reporting an issue with payments",
+            "intent": "payment_issue"
+        },
+        {
+            "text": "problem with canceling the order I made",
+            "intent": "cancel_order"
+        },
+        {
+            "text": "I have got to check the invoice from last month",
+            "intent": "check_invoice"
+        },
+        {
+            "text": "mail me my bill",
+            "intent": "info_paperless_docs_stop"
+        },
+        {
+            "text": "could I check my order ETA?",
+            "intent": "track_order"
+        },
+        {
+            "text": "information about subscribing to your company newsletter",
+            "intent": "newsletter_subscription"
+        },
+        {
+            "text": "canyou help me file a reclamation?",
+            "intent": "complaint"
+        },
+        {
+            "text": "could you help me to switch to another account?",
+            "intent": "switch_account"
+        },
+        {
+            "text": "help me get my money back",
+            "intent": "get_refund"
+        },
+        {
+            "text": "can i fly to see my son across the country",
+            "intent": "travel"
+        },
+        {
+            "text": "what news should i not listen to",
+            "intent": "myths"
+        },
+        {
+            "text": "assistance to check the cancellation fee",
+            "intent": "check_cancellation_fee"
+        },
+        {
+            "text": "can you help me to track my order?",
+            "intent": "track_order"
+        },
+        {
+            "text": "suggest me beginner diet",
+            "intent": "consult_start"
+        },
+        {
+            "text": "what are the safety measures for a domestic travel",
+            "intent": "travel"
+        },
+        {
+            "text": "can you help me to use another account?",
+            "intent": "switch_account"
+        },
+        {
+            "text": "creating different online account",
+            "intent": "create_account"
+        },
+        {
+            "text": "It appears that some of my billing accounts have been set to paperless I need them to mail out paper bills How can I make that change",
+            "intent": "info_paperless_docs_stop"
+        },
+        {
+            "text": "how could I check what options for delivery are available?",
+            "intent": "delivery_options"
+        },
+        {
+            "text": "I do not know how I can set up a different shipping address",
+            "intent": "set_up_shipping_address"
+        },
+        {
+            "text": "can I get paper copies of my statements",
+            "intent": "info_paperless_docs_stop"
+        },
+        {
+            "text": "I don't know what I need to do to get my money back",
+            "intent": "get_refund"
+        },
+        {
+            "text": "I have got to check what options for delivery are available",
+            "intent": "delivery_options"
+        },
+        {
+            "text": "what do i need to do to check the goddamn payment methods",
+            "intent": "check_payment_methods"
+        },
+        {
+            "text": "EMI",
+            "intent": "emi"
+        },
+        {
+            "text": "I have to report registration issues",
+            "intent": "registration_problems"
+        },
+        {
+            "text": "I have a problem with changing the order I have made",
+            "intent": "change_order"
+        },
+        {
+            "text": "Amy Popp is my agent can I get her direct email address please",
+            "intent": "info_who_is_my_agent"
+        },
+        {
+            "text": "Where can I send my Know Your Drive adapter",
+            "intent": "info_knowyourdrive_device_return"
+        },
+        {
+            "text": "I don't know how to remove some items from an order",
+            "intent": "change_order"
+        },
+        {
+            "text": "can you help  me making a claim against your business?",
+            "intent": "complaint"
+        },
+        {
+            "text": "I want to make a complaint against your company",
+            "intent": "complaint"
+        },
+        {
+            "text": "how do I file a complaint against your business?",
+            "intent": "complaint"
+        },
+        {
+            "text": "can you tell me what payment methods you accept?",
+            "intent": "check_payment_methods"
+        },
+        {
+            "text": "Select another goal",
+            "intent": "recommend_product"
+        },
+        {
+            "text": "where can I buy a few of your item?",
+            "intent": "place_order"
+        },
+        {
+            "text": "help to check your allowed payment methods",
+            "intent": "check_payment_methods"
+        },
+        {
+            "text": "want assistance to modify some of the details on my account",
+            "intent": "edit_account"
+        },
+        {
+            "text": "Can I buy pillows from here",
+            "intent": "pillows"
+        },
+        {
+            "text": "delete account",
+            "intent": "delete_account"
+        },
+        {
+            "text": "I need help to check what payment methods are available",
+            "intent": "check_payment_methods"
+        },
+        {
+            "text": "help to edit my account",
+            "intent": "edit_account"
+        },
+        {
+            "text": "what are myths about coronavirus",
+            "intent": "myths"
+        },
+        {
+            "text": "I need help checking how soon can I expect the item",
+            "intent": "delivery_period"
+        },
+        {
+            "text": "i need support with our account registration",
+            "intent": "registration_problems"
+        },
+        {
+            "text": "can you help me to report payment issues?",
+            "intent": "payment_issue"
+        },
+        {
+            "text": "how do I get the invoice from June?",
+            "intent": "get_invoice"
+        },
+        {
+            "text": "I want to get the invoice from last month",
+            "intent": "get_invoice"
+        },
+        {
+            "text": "Want to know the custom size chart",
+            "intent": "what_size_to_order"
+        },
+        {
+            "text": "collision on my policy details",
+            "intent": "info_coll_cov_explan"
+        },
+        {
+            "text": "i have a sore throat is this a symptom of the covid-19",
+            "intent": "what_are_symptoms"
+        },
+        {
+            "text": "I cannot modify the  shipping address",
+            "intent": "change_shipping_address"
+        },
+        {
+            "text": "how many people total in the world have recovered from the virus",
+            "intent": "latest_numbers"
+        },
+        {
+            "text": "How long is the warranty you offer on your mattresses and what does it cover",
+            "intent": "warranty"
+        },
+        {
+            "text": "I WOULD LIKE TO GET AN UPDATED BILL SHOWING THE POLICY ADJUSTMENTS BILLING ADJUSTMENTS AND CREDITS BEING APPLIED PLEASE",
+            "intent": "info_premium_breakdown"
+        },
+        {
+            "text": "please tell me the symptoms of corona virus",
+            "intent": "what_are_symptoms"
+        },
+        {
+            "text": "where to report registration issues?",
+            "intent": "registration_problems"
+        },
+        {
+            "text": "can you give me information about a password recovery?",
+            "intent": "recover_password"
+        },
+        {
+            "text": "could you help me checking how long refunds usually take?",
+            "intent": "check_refund_policy"
+        },
+        {
+            "text": "is it possible to check your money back policy?",
+            "intent": "check_refund_policy"
+        },
+        {
+            "text": "where can I see the termination fees?",
+            "intent": "check_cancellation_fee"
+        },
+        {
+            "text": "How much time do I have before I need to add my new car to my existing policy and still be covered",
+            "intent": "info_new_vehicle_grace_period"
+        },
+        {
+            "text": "I would like to know more about order cancellations",
+            "intent": "cancel_order"
+        },
+        {
+            "text": "who do I talk to to become a preferred construction company",
+            "intent": "info_cl_hrp_join"
+        },
+        {
+            "text": "Reimburse my towing bill",
+            "intent": "info_ers_reimburse"
+        },
+        {
+            "text": "how do i keep safe from getting virus",
+            "intent": "protect_yourself"
+        },
+        {
+            "text": "I have got to file a complaint",
+            "intent": "complaint"
+        },
+        {
+            "text": "what hours can I contact customer service?",
+            "intent": "contact_customer_service"
+        },
+        {
+            "text": "would it be possible to buy a few of your item?",
+            "intent": "place_order"
+        },
+        {
+            "text": "I need help canceling my newsletter subscription",
+            "intent": "newsletter_subscription"
+        },
+        {
+            "text": "my address has changed help me changing it",
+            "intent": "change_shipping_address"
+        },
+        {
+            "text": "can ya help me checking what paymnent options are accepted",
+            "intent": "check_payment_methods"
+        },
+        {
+            "text": "I need assistance seeing the termination penalties",
+            "intent": "check_cancellation_fee"
+        },
+        {
+            "text": "Diet and Fitness Advice for Lean Muscle Gain",
+            "intent": "consult_start"
+        },
+        {
+            "text": "I don't know what to do to file a complaint",
+            "intent": "complaint"
+        },
+        {
+            "text": "can a dog contract the virus",
+            "intent": "can_i_get_from_feces_animal_pets"
+        },
+        {
+            "text": "How much time it takes to withdraw my amount",
+            "intent": "withdrawal_time"
+        },
+        {
+            "text": "I have a question about a shipping address change",
+            "intent": "change_shipping_address"
+        },
+        {
+            "text": "can i still travel to europe",
+            "intent": "travel"
+        },
+        {
+            "text": "can you tell me the qualifications my car needs to meet to qualify for the gap insurance endorsement on an auto policy",
+            "intent": "info_gap_coverage"
+        },
+        {
+            "text": "I need help canceling the company newsletter subscription",
+            "intent": "newsletter_subscription"
+        },
+        {
+            "text": "is it safe to visit an elderly care center",
+            "intent": "what_if_i_visited_high_risk_area"
+        },
+        {
+            "text": "how do i share this with my family",
+            "intent": "share"
+        },
+        {
+            "text": "I would like to file a complaint against your business",
+            "intent": "complaint"
+        },
+        {
+            "text": "could I file a complaint?",
+            "intent": "complaint"
+        },
+        {
+            "text": "I am not the borrower I am the mortgage company",
+            "intent": "info_mortgage_co_poi"
+        },
+        {
+            "text": "I don't know how to register",
+            "intent": "create_account"
+        },
+        {
+            "text": "billing question",
+            "intent": "st_general_request"
+        },
+        {
+            "text": "I would like information about the delivery options",
+            "intent": "delivery_options"
+        },
+        {
+            "text": "I would like to know about delivery periods",
+            "intent": "delivery_period"
+        },
+        {
+            "text": "want help to open a new account",
+            "intent": "create_account"
+        },
+        {
+            "text": "plz stop online bllng",
+            "intent": "info_paperless_docs_stop"
+        },
+        {
+            "text": "what should i do to prevent",
+            "intent": "protect_yourself"
+        },
+        {
+            "text": "can you help me getting the invoices from my last purchase?",
+            "intent": "get_invoice"
+        },
+        {
+            "text": "I am with Courtesy Collision i am looking to follow up on a Claim for a vehicle that was repaired here at our shop",
+            "intent": "info_cl_drp_assign"
+        },
+        {
+            "text": "how could I cancel the company newsletter subscription?",
+            "intent": "newsletter_subscription"
+        },
+        {
+            "text": "what are some of the symptoms associated with corona virus",
+            "intent": "what_are_symptoms"
+        },
+        {
+            "text": "how to edit my online profile?",
+            "intent": "edit_account"
+        },
+        {
+            "text": "where to buy something?",
+            "intent": "place_order"
+        },
+        {
+            "text": "number of cases in europe",
+            "intent": "latest_numbers"
+        },
+        {
+            "text": "I do not know how I can change my shipping address",
+            "intent": "change_shipping_address"
+        },
+        {
+            "text": "can I check what options for delivery I can choose?",
+            "intent": "delivery_options"
+        },
+        {
+            "text": "thank you for sharing this info with me",
+            "intent": "okay_thanks"
+        },
+        {
+            "text": "I want assistance solving issues with payment",
+            "intent": "payment_issue"
+        },
+        {
+            "text": "problems with a password recovery",
+            "intent": "recover_password"
+        },
+        {
+            "text": "help me to check how soon can I expect the delivery",
+            "intent": "delivery_period"
+        },
+        {
+            "text": "thank you for the info",
+            "intent": "okay_thanks"
+        },
+        {
+            "text": "Shop near by",
+            "intent": "distributors"
+        },
+        {
+            "text": "how do i donate to support washington",
+            "intent": "donate"
+        },
+        {
+            "text": "I need assistance to get refunds",
+            "intent": "get_refund"
+        },
+        {
+            "text": "how long does the delivery take?",
+            "intent": "delivery_period"
+        },
+        {
+            "text": "I would like information about user account deletions",
+            "intent": "delete_account"
+        },
+        {
+            "text": "assistance filing a customer claim against your company",
+            "intent": "complaint"
+        },
+        {
+            "text": "I don't know how to get the invoice",
+            "intent": "get_invoice"
+        },
+        {
+            "text": "why is this virus spreading so fast",
+            "intent": "how_does_corona_spread"
+        },
+        {
+            "text": "stop my online billing",
+            "intent": "info_paperless_docs_stop"
+        },
+        {
+            "text": "how are you functioning",
+            "intent": "work_from_home"
+        },
+        {
+            "text": "Why does a ded exist",
+            "intent": "info_ded_explan"
+        },
+        {
+            "text": "can you help me switching to my new user account?",
+            "intent": "switch_account"
+        },
+        {
+            "text": "is coronavirus dangerous",
+            "intent": "what_is_corona"
+        },
+        {
+            "text": "I call to check what options for delivery I have",
+            "intent": "delivery_options"
+        },
+        {
+            "text": "can you help me to remove an item?",
+            "intent": "change_order"
+        },
+        {
+            "text": "I do not know how I can check the status of the refund",
+            "intent": "track_refund"
+        },
+        {
+            "text": "I need help to cancel an order",
+            "intent": "cancel_order"
+        },
+        {
+            "text": "where can I recover my password?",
+            "intent": "recover_password"
+        },
+        {
+            "text": "how are people being infected with covid-19",
+            "intent": "how_does_corona_spread"
+        },
+        {
+            "text": "how long until I get my money back?",
+            "intent": "get_refund"
+        },
+        {
+            "text": "can the disease spread from touching your eyes",
+            "intent": "how_does_corona_spread"
+        },
+        {
+            "text": "how do I get the invoice?",
+            "intent": "get_invoice"
+        },
+        {
+            "text": "I do not know how I can find the invoice from January",
+            "intent": "check_invoice"
+        },
+        {
+            "text": "where can I leave a review for your company?",
+            "intent": "review"
+        },
+        {
+            "text": "how fast can people get infected if there is a community spread",
+            "intent": "how_does_corona_spread"
+        },
+        {
+            "text": "I do not know what to do to buy some items",
+            "intent": "place_order"
+        },
+        {
+            "text": "more details on covid 19 please",
+            "intent": "what_is_corona"
+        },
+        {
+            "text": "what do I need to do to report issues with payment?",
+            "intent": "payment_issue"
+        },
+        {
+            "text": "i need to get paper bills again",
+            "intent": "info_paperless_docs_stop"
+        },
+        {
+            "text": "problems with a user account deletion",
+            "intent": "delete_account"
+        },
+        {
+            "text": "I need to take a quick look at the invoice from 6 months ago",
+            "intent": "check_invoice"
+        },
+        {
+            "text": "donate to lansing",
+            "intent": "donate"
+        },
+        {
+            "text": "I want help changing the order I made",
+            "intent": "change_order"
+        },
+        {
+            "text": "I would like to get the invoices from February",
+            "intent": "get_invoice"
+        },
+        {
+            "text": "should i be scared since i was around a lot of people",
+            "intent": "what_if_i_visited_high_risk_area"
+        },
+        {
+            "text": "My name is Terry Gaither I have a policy with american family",
+            "intent": "st_general_request"
+        },
+        {
+            "text": "could you show me your allowed payment methods?",
+            "intent": "check_payment_methods"
+        },
+        {
+            "text": "For biceps and tricep muscle growth supplements",
+            "intent": "recommend_product"
+        },
+        {
+            "text": "is it possible to sign up to your corporate newsletter?",
+            "intent": "newsletter_subscription"
+        },
+        {
+            "text": "If I just got a new car how long is the grace period for adding it to my insurance",
+            "intent": "info_new_vehicle_grace_period"
+        },
+        {
+            "text": "tell me more about delivery period",
+            "intent": "delivery_period"
+        },
+        {
+            "text": "i wanna provide money to a fund for nyc food shelters",
+            "intent": "donate"
+        },
+        {
+            "text": "fake news",
+            "intent": "myths"
+        },
+        {
+            "text": "any news about the virus in italy",
+            "intent": "news_and_press"
+        },
+        {
+            "text": "how do i cancel online billing",
+            "intent": "info_paperless_docs_stop"
+        },
+        {
+            "text": "does corona virus spread through farts",
+            "intent": "how_does_corona_spread"
+        },
+        {
+            "text": "where do I check my refund status?",
+            "intent": "track_refund"
+        },
+        {
+            "text": "can you help me report an issue with payments?",
+            "intent": "payment_issue"
+        },
+        {
+            "text": "how to open a new standard account?",
+            "intent": "create_account"
+        },
+        {
+            "text": "I want assistance to get a refund",
+            "intent": "get_refund"
+        },
+        {
+            "text": "i'd like to donate to help italy",
+            "intent": "donate"
+        },
+        {
+            "text": "I am trying to get refunds",
+            "intent": "get_refund"
+        },
+        {
+            "text": "problem with removing some items from an order",
+            "intent": "change_order"
+        },
+        {
+            "text": "I need assistance tracking my order",
+            "intent": "track_order"
+        },
+        {
+            "text": "share this information",
+            "intent": "share"
+        },
+        {
+            "text": "how to start the auto insurance with the quote i received online",
+            "intent": "info_ast_purchase"
+        },
+        {
+            "text": "I am trying to set up a new shipping address",
+            "intent": "set_up_shipping_address"
+        },
+        {
+            "text": "remove PAN card",
+            "intent": "delete_pan_card"
+        },
+        {
+            "text": "what is the latest data. on the corona",
+            "intent": "what_is_corona"
+        },
+        {
+            "text": "what is the customer service mail?",
+            "intent": "contact_customer_service"
+        },
+        {
+            "text": "COD",
+            "intent": "order_taking"
+        },
+        {
+            "text": "help me checking your allowed payment methods",
+            "intent": "check_payment_methods"
+        },
+        {
+            "text": "i do not know what i have to do to switch to my new profile",
+            "intent": "switch_account"
+        },
+        {
+            "text": "I want help changing my shipping address",
+            "intent": "change_shipping_address"
+        },
+        {
+            "text": "Show me the status of deposit",
+            "intent": "check_deposit_status"
+        },
+        {
+            "text": "I don't want an order I have made",
+            "intent": "cancel_order"
+        },
+        {
+            "text": "could you help me to solve payment issues?",
+            "intent": "payment_issue"
+        },
+        {
+            "text": "100 night trial",
+            "intent": "100_night_trial_offer"
+        },
+        {
+            "text": "Joining contest",
+            "intent": "join_contest"
+        },
+        {
+            "text": "I have a problem with removing something",
+            "intent": "change_order"
+        },
+        {
+            "text": "can you tell me more about the delivery period?",
+            "intent": "delivery_period"
+        },
+        {
+            "text": "order change",
+            "intent": "change_order"
+        },
+        {
+            "text": "I do not know what to do to get my money back",
+            "intent": "get_refund"
+        },
+        {
+            "text": "What does ATV insurance cover",
+            "intent": "info_atv_ins_explan"
+        },
+        {
+            "text": "I chose a wrong shipping address",
+            "intent": "change_shipping_address"
+        },
+        {
+            "text": "how many cases are there in india",
+            "intent": "latest_numbers"
+        },
+        {
+            "text": "I have to check the early termination charge",
+            "intent": "check_cancellation_fee"
+        },
+        {
+            "text": "where to switch to a new user account",
+            "intent": "switch_account"
+        },
+        {
+            "text": "how long should i wait to get help if i show signs of corona",
+            "intent": "what_are_symptoms"
+        },
+        {
+            "text": "got it thank you doctor",
+            "intent": "okay_thanks"
+        },
+        {
+            "text": "hi doc how are you",
+            "intent": "hi"
+        },
+        {
+            "text": "need to switch to another account",
+            "intent": "switch_account"
+        },
+        {
+            "text": "can someone spread coronavirus if they don't have symptoms",
+            "intent": "how_does_corona_spread"
+        },
+        {
+            "text": "i want help chatting with a live agent",
+            "intent": "contact_human_agent"
+        },
+        {
+            "text": "i want assistance to lodge a customer claim",
+            "intent": "complaint"
+        },
+        {
+            "text": "help deleting the user account",
+            "intent": "delete_account"
+        },
+        {
+            "text": "help checking in what cases can I ask for refunds",
+            "intent": "check_refund_policy"
+        },
+        {
+            "text": "I want assistance to talk to an agent",
+            "intent": "contact_human_agent"
+        },
+        {
+            "text": "would it be possible to set up a new shipping address?",
+            "intent": "set_up_shipping_address"
+        },
+        {
+            "text": "hi corona",
+            "intent": "hi"
+        },
+        {
+            "text": "could you help me checking the options for delivery?",
+            "intent": "delivery_options"
+        },
+        {
+            "text": "Cash on delivery is available",
+            "intent": "cod"
+        },
+        {
+            "text": "I would like to use another account",
+            "intent": "switch_account"
+        },
+        {
+            "text": "how do I submit some feedback for your company?",
+            "intent": "review"
+        },
+        {
+            "text": "I want help regarding our registration",
+            "intent": "registration_problems"
+        },
+        {
+            "text": "I have to contact customer service",
+            "intent": "contact_customer_service"
+        },
+        {
+            "text": "Who can I talk to about the Dreams Foundation",
+            "intent": "info_dreams_foundation"
+        },
+        {
+            "text": "I don't know how I could cancel an order I have made",
+            "intent": "cancel_order"
+        },
+        {
+            "text": "can ya help me check the withdrawal charge",
+            "intent": "check_cancellation_fee"
+        },
+        {
+            "text": "I cannot sign up  how can I notify of registration issues?",
+            "intent": "registration_problems"
+        },
+        {
+            "text": "how could I get the invoice from my last purchase?",
+            "intent": "get_invoice"
+        },
+        {
+            "text": "Payments and Bills",
+            "intent": "payment_and_bill"
+        },
+        {
+            "text": "leave review for your services",
+            "intent": "review"
+        },
+        {
+            "text": "could you help me check the options for delivery?",
+            "intent": "delivery_options"
+        },
+        {
+            "text": "how can I change several items of an order?",
+            "intent": "change_order"
+        },
+        {
+            "text": "I want to report payment issues",
+            "intent": "payment_issue"
+        },
+        {
+            "text": "My referral amount is incorrect",
+            "intent": "chat_with_an_agent"
+        },
+        {
+            "text": "Cancel my online billing",
+            "intent": "info_paperless_docs_stop"
+        },
+        {
+            "text": "hey doc you there",
+            "intent": "hi"
+        },
+        {
+            "text": "what kind of hand sanitizer should i use",
+            "intent": "protect_yourself"
+        },
+        {
+            "text": "i do not know how i can se the withdrawal fees",
+            "intent": "check_cancellation_fee"
+        },
+        {
+            "text": "100 free Nights",
+            "intent": "100_night_trial_offer"
+        },
+        {
+            "text": "how can I talk with an assistant?",
+            "intent": "contact_human_agent"
+        },
+        {
+            "text": "would it be possible to change the shipping address?",
+            "intent": "change_shipping_address"
+        },
+        {
+            "text": "more repairs needed to finishing fixing the car",
+            "intent": "info_cl_shop_add_work"
+        },
+        {
+            "text": "help to contact customer service",
+            "intent": "contact_customer_service"
+        },
+        {
+            "text": "No longer wish to receive online billing",
+            "intent": "info_paperless_docs_stop"
+        },
+        {
+            "text": "I need assistance modifying thedata included on my profile",
+            "intent": "edit_account"
+        },
+        {
+            "text": "could I cancel the subscription to your company newsletter?",
+            "intent": "newsletter_subscription"
+        },
+        {
+            "text": "I would like to check what payment methods are available",
+            "intent": "check_payment_methods"
+        },
+        {
+            "text": "I need information about a user account deletion",
+            "intent": "delete_account"
+        },
+        {
+            "text": "I have got to check what options for delivery I have",
+            "intent": "delivery_options"
+        },
+        {
+            "text": "i need to print an insurance card for the volkswagon touareg but cannot find a place to do that on the website",
+            "intent": "info_ins_card_print"
+        },
+        {
+            "text": "i have not signed up yet help creating an online account",
+            "intent": "create_account"
+        },
+        {
+            "text": "Start paper billing and cancel online billing",
+            "intent": "info_paperless_docs_stop"
+        },
+        {
+            "text": "where could I find information about the delivery period?",
+            "intent": "delivery_period"
+        },
+        {
+            "text": "could you help me check what payment methods are available?",
+            "intent": "check_payment_methods"
+        },
+        {
+            "text": "I need to call someone for help Im locked out of my car",
+            "intent": "info_ers_contact"
+        },
+        {
+            "text": "I have some questions about my recent payment",
+            "intent": "st_general_request"
+        },
+        {
+            "text": "I need help to report registration issues",
+            "intent": "registration_problems"
+        },
+        {
+            "text": "We have commercial policies through Am Fam and I was wondering what the process is when the policy renews for Certificates of Insurance to be resent to our customers",
+            "intent": "info_cfr_question_general"
+        },
+        {
+            "text": "could you help me to report a payment issue?",
+            "intent": "payment_issue"
+        },
+        {
+            "text": "is covid-19 in the water",
+            "intent": "how_does_corona_spread"
+        },
+        {
+            "text": "question about the delivery options",
+            "intent": "delivery_options"
+        },
+        {
+            "text": "question about the options for delivery",
+            "intent": "delivery_options"
+        },
+        {
+            "text": "I forgot to include some items in my order",
+            "intent": "change_order"
+        },
+        {
+            "text": "I want assistance to check the delivery options",
+            "intent": "delivery_options"
+        },
+        {
+            "text": "I don't know what I need to do to edit my account",
+            "intent": "edit_account"
+        },
+        {
+            "text": "I don't know how I could buy a few of your item",
+            "intent": "place_order"
+        },
+        {
+            "text": "can i see today's news on covid 19",
+            "intent": "news_and_press"
+        },
+        {
+            "text": "Hair Fall",
+            "intent": "recommend_product"
+        },
+        {
+            "text": "how can I buy some items?",
+            "intent": "place_order"
+        },
+        {
+            "text": "please describe what covid is",
+            "intent": "what_is_corona"
+        },
+        {
+            "text": "you're literally a life saver thanks doc",
+            "intent": "okay_thanks"
+        },
+        {
+            "text": "Can i switch my polices to a different agent",
+            "intent": "info_change_agent"
+        },
+        {
+            "text": "I do not know how I can cancel an online account",
+            "intent": "delete_account"
+        },
+        {
+            "text": "where can I get information about delivery periods?",
+            "intent": "delivery_period"
+        },
+        {
+            "text": "I need help to check the status of my refund",
+            "intent": "track_refund"
+        },
+        {
+            "text": "Wts delivery time if i order today",
+            "intent": "resume_delivery"
+        },
+        {
+            "text": "contact customer service",
+            "intent": "contact_customer_service"
+        },
+        {
+            "text": "what should healthcare workers be doing",
+            "intent": "what_if_i_visited_high_risk_area"
+        },
+        {
+            "text": "how many people have been tested in the korea so far",
+            "intent": "latest_numbers"
+        },
+        {
+            "text": "I cannot find the invoice from 3 purchases ago",
+            "intent": "check_invoice"
+        },
+        {
+            "text": "I do not know how to track the refund",
+            "intent": "track_refund"
+        },
+        {
+            "text": "I do not know how to buy several of your item",
+            "intent": "place_order"
+        },
+        {
+            "text": "funding for high-risk locations",
+            "intent": "donate"
+        },
+        {
+            "text": "can i share this link",
+            "intent": "share"
+        },
+        {
+            "text": "I need assistance to report sign-up issues",
+            "intent": "registration_problems"
+        },
+        {
+            "text": "I don't know how I could delete the account",
+            "intent": "delete_account"
+        },
+        {
+            "text": "help checking if there is anything new on my refund",
+            "intent": "track_refund"
+        },
+        {
+            "text": "My car broke down can you help",
+            "intent": "info_ers_contact"
+        },
+        {
+            "text": "I cannott find the early exit penalty I need assistance",
+            "intent": "check_cancellation_fee"
+        },
+        {
+            "text": "I have an issue with my bill can I get a duplicate copy?",
+            "intent": "payment_and_bill"
+        },
+        {
+            "text": "how can i tell if my cat has corona",
+            "intent": "can_i_get_from_feces_animal_pets"
+        },
+        {
+            "text": "how could I cancel the last order I made?",
+            "intent": "cancel_order"
+        },
+        {
+            "text": "do you have an e-mail to submit a review for your company?",
+            "intent": "review"
+        },
+        {
+            "text": "I did not have a question Thank you",
+            "intent": "st_thank_you"
+        },
+        {
+            "text": "need to check the cancllation penalty how do i do it",
+            "intent": "check_cancellation_fee"
+        },
+        {
+            "text": "how could I get my invoices?",
+            "intent": "get_invoice"
+        },
+        {
+            "text": "is it possible to leave a review for your company?",
+            "intent": "review"
+        },
+        {
+            "text": "Where is your showroom",
+            "intent": "distributors"
+        },
+        {
+            "text": "hello corona doctor",
+            "intent": "hi"
+        },
+        {
+            "text": "Open withdrawal status",
+            "intent": "withdrawal_status"
+        },
+        {
+            "text": "what symptoms should i worry about most",
+            "intent": "what_are_symptoms"
+        },
+        {
+            "text": "i want to enroll my self as a seller",
+            "intent": "franchise"
+        },
+        {
+            "text": "I don't know how I can leave a review",
+            "intent": "review"
+        },
+        {
+            "text": "can uhelp me open a new user account",
+            "intent": "create_account"
+        },
+        {
+            "text": "where do i lodge a customer complaint against ur business",
+            "intent": "complaint"
+        },
+        {
+            "text": "where do I set a different shipping address up?",
+            "intent": "set_up_shipping_address"
+        },
+        {
+            "text": "need help editing my online account",
+            "intent": "edit_account"
+        },
+        {
+            "text": "omg so glad someone built this",
+            "intent": "okay_thanks"
+        },
+        {
+            "text": "i dont know how i can check the cancellation charges",
+            "intent": "check_cancellation_fee"
+        },
+        {
+            "text": "I want assistance to buy some of your item",
+            "intent": "place_order"
+        },
+        {
+            "text": "I want assistance to switch to another account",
+            "intent": "switch_account"
+        },
+        {
+            "text": "I have to make an order",
+            "intent": "place_order"
+        },
+        {
+            "text": "help me checking how long the delivery takes",
+            "intent": "delivery_period"
+        },
+        {
+            "text": "help me check if there is anything wrong with my refund",
+            "intent": "track_refund"
+        },
+        {
+            "text": "I try to change several items of an order",
+            "intent": "change_order"
+        },
+        {
+            "text": "I got an online auto quote Can you please help me get this policy started",
+            "intent": "info_ast_purchase"
+        },
+        {
+            "text": "need assistance to see ur accepted payment options",
+            "intent": "check_payment_methods"
+        },
+        {
+            "text": "could I take a quick look at the invoices from last month?",
+            "intent": "check_invoice"
+        },
+        {
+            "text": "How to withdraw amount",
+            "intent": "withdrawal_intro"
+        },
+        {
+            "text": "could you help me add some items?",
+            "intent": "change_order"
+        },
+        {
+            "text": "can you help me recover my password?",
+            "intent": "recover_password"
+        },
+        {
+            "text": "I don't know how to retrieve my user account PIN code",
+            "intent": "recover_password"
+        },
+        {
+            "text": "leaving review for your company",
+            "intent": "review"
+        },
+        {
+            "text": "I cannot subscribe to your company newsletter",
+            "intent": "newsletter_subscription"
+        },
+        {
+            "text": "I want to know your contact number",
+            "intent": "contact_number"
+        },
+        {
+            "text": "Modes of payments",
+            "intent": "modes_of_payments"
+        },
+        {
+            "text": "show me how to share this to my family",
+            "intent": "share"
+        },
+        {
+            "text": "morning corona doc",
+            "intent": "hi"
+        },
+        {
+            "text": "I do not know what to do to delete the account",
+            "intent": "delete_account"
+        },
+        {
+            "text": "help me to check what delivery options are available",
+            "intent": "delivery_options"
+        },
+        {
+            "text": "Recommend me workout schedule diet and protein",
+            "intent": "consult_start"
+        },
+        {
+            "text": "assistance to track my order",
+            "intent": "track_order"
+        },
+        {
+            "text": "i don't wanna die",
+            "intent": "protect_yourself"
+        },
+        {
+            "text": "I want to know more about updating the delivery addresxs",
+            "intent": "change_shipping_address"
+        },
+        {
+            "text": "want to contact your customer care number send me",
+            "intent": "call_center"
+        },
+        {
+            "text": "I try to get a refund of money",
+            "intent": "get_refund"
+        },
+        {
+            "text": "I need assistance to speak with a live agent",
+            "intent": "contact_human_agent"
+        },
+        {
+            "text": "How many all rounder I can select",
+            "intent": "new_team_pattern"
+        },
+        {
+            "text": "filing consumer reclamation against your company",
+            "intent": "complaint"
+        },
+        {
+            "text": "is it possible to recover my password?",
+            "intent": "recover_password"
+        },
+        {
+            "text": "is it true that hot baths kill covid-19",
+            "intent": "myths"
+        },
+        {
+            "text": "help cancelling the last order I have made",
+            "intent": "cancel_order"
+        },
+        {
+            "text": "could you help me track the refund?",
+            "intent": "track_refund"
+        },
+        {
+            "text": "Why should I get ATV coverage",
+            "intent": "info_atv_ins_explan"
+        },
+        {
+            "text": "Need a call from your representative",
+            "intent": "lead_gen"
+        },
+        {
+            "text": "I want to buy",
+            "intent": "recommend_product"
+        },
+        {
+            "text": "help me edit my personal information",
+            "intent": "edit_account"
+        },
+        {
+            "text": "cancel my subscription to your company newsletter",
+            "intent": "newsletter_subscription"
+        },
+        {
+            "text": "I want help filing a complaint",
+            "intent": "complaint"
+        },
+        {
+            "text": "What are the benefits of renters insurance",
+            "intent": "info_renters_cov_explan"
+        },
+        {
+            "text": "share link",
+            "intent": "share"
+        },
+        {
+            "text": "mail paper bills again",
+            "intent": "info_paperless_docs_stop"
+        },
+        {
+            "text": "help me to check the cancellation fees",
+            "intent": "check_cancellation_fee"
+        },
+        {
+            "text": "could you help me to check the invoice from February?",
+            "intent": "check_invoice"
+        },
+        {
+            "text": "King Size",
+            "intent": "what_size_to_order"
+        },
+        {
+            "text": "I want information about a user account deletion",
+            "intent": "delete_account"
+        },
+        {
+            "text": "i do not know how to see the early termination penalties",
+            "intent": "check_cancellation_fee"
+        },
+        {
+            "text": "what is best way to clean any surface carrying virus",
+            "intent": "can_i_get_from_packages_surfaces"
+        },
+        {
+            "text": "Nope Im good Thank you",
+            "intent": "st_thank_you"
+        },
+        {
+            "text": "Friend referral",
+            "intent": "refer_earn"
+        },
+        {
+            "text": "tell me more about the delivery period",
+            "intent": "delivery_period"
+        },
+        {
+            "text": "I don't know how to get the invoices from last month",
+            "intent": "get_invoice"
+        },
+        {
+            "text": "receiving newsletter",
+            "intent": "newsletter_subscription"
+        },
+        {
+            "text": "where can i change to my new profile",
+            "intent": "switch_account"
+        },
+        {
+            "text": "Stores near me",
+            "intent": "store_information"
+        },
+        {
+            "text": "i dont know how i can talk to a live agent",
+            "intent": "contact_human_agent"
+        },
+        {
+            "text": "Can I Change my team name on PowerPlay11?",
+            "intent": "change_profile_team_details"
+        },
+        {
+            "text": "can you help me to report a registration issue?",
+            "intent": "registration_problems"
+        },
+        {
+            "text": "MRP",
+            "intent": "mattress_cost"
+        },
+        {
+            "text": "can i use vinegar to clean my throat",
+            "intent": "what_are_treatment_options"
+        },
+        {
+            "text": "I want help setting up another shipping address",
+            "intent": "set_up_shipping_address"
+        },
+        {
+            "text": "I need help to get the invoice from March",
+            "intent": "get_invoice"
+        },
+        {
+            "text": "Is there a number I can call that I can get roadside assistance",
+            "intent": "info_ers_contact"
+        },
+        {
+            "text": "where can I find information about account deletions?",
+            "intent": "delete_account"
+        },
+        {
+            "text": "I want to purchase the auto insurance I got an online quote for",
+            "intent": "info_ast_purchase"
+        },
+        {
+            "text": "This is the th time I am contacting you regarding this",
+            "intent": "st_general_request"
+        },
+        {
+            "text": "i try to create a user account for my dad",
+            "intent": "create_account"
+        },
+        {
+            "text": "I like your service",
+            "intent": "appreciation"
+        },
+        {
+            "text": "help me switching to another account",
+            "intent": "switch_account"
+        },
+        {
+            "text": "Im signing up for automatic payments Should I choose min due or acct balance",
+            "intent": "info_auto_pymt_min_balance"
+        },
+        {
+            "text": "checking invoice from January",
+            "intent": "check_invoice"
+        },
+        {
+            "text": "I do not know how I could talk to an agent",
+            "intent": "contact_human_agent"
+        },
+        {
+            "text": "help me check what delivery options I can choose",
+            "intent": "delivery_options"
+        },
+        {
+            "text": "Referral",
+            "intent": "offers_and_referrals"
+        },
+        {
+            "text": "I hope you are also working from home during this time",
+            "intent": "work_from_home"
+        },
+        {
+            "text": "is it possible to open a fucking user account for my fiancee",
+            "intent": "create_account"
+        },
+        {
+            "text": "how to apply to be part of your preferred vendor list",
+            "intent": "info_cl_hrp_join"
+        },
+        {
+            "text": "I need help informing of a signup issue",
+            "intent": "registration_problems"
+        },
+        {
+            "text": "when can I expect my money back",
+            "intent": "get_refund"
+        },
+        {
+            "text": "okay",
+            "intent": "okay_thanks"
+        },
+        {
+            "text": "I am trying to locate a summary of all of the medical payments that were made on a closed claim Is there a way to see this online",
+            "intent": "info_billing_acct_name_edit"
+        },
+        {
+            "text": "I want help switching to another account",
+            "intent": "switch_account"
+        },
+        {
+            "text": "assistance seeing the termination penalty",
+            "intent": "check_cancellation_fee"
+        },
+        {
+            "text": "can you help me removing several items from an order?",
+            "intent": "change_order"
+        },
+        {
+            "text": "i do not know what i need to do to make a complaint",
+            "intent": "complaint"
+        },
+        {
+            "text": "Want to verify mobile number",
+            "intent": "verify_mobile"
+        },
+        {
+            "text": "Need to contact your HR to verify someones employment",
+            "intent": "info_employment_verify"
+        },
+        {
+            "text": "can you help me use another account?",
+            "intent": "switch_account"
+        },
+        {
+            "text": "can someone who has been quarantined still spread corona virus",
+            "intent": "how_does_corona_spread"
+        },
+        {
+            "text": "assistance checking what delivery options I have",
+            "intent": "delivery_options"
+        },
+        {
+            "text": "I do not know what to do to file a complaint",
+            "intent": "complaint"
+        },
+        {
+            "text": "travel agents during quarantine",
+            "intent": "travel"
+        },
+        {
+            "text": "I am calling to check the options for delivery",
+            "intent": "delivery_options"
+        },
+        {
+            "text": "Neck pain and back pain",
+            "intent": "ortho_features"
+        },
+        {
+            "text": "I am trying to track the refund",
+            "intent": "track_refund"
+        },
+        {
+            "text": "can I check your refund policy?",
+            "intent": "check_refund_policy"
+        },
+        {
+            "text": "can i travel to go hiking",
+            "intent": "travel"
+        },
+        {
+            "text": "Limit of withdrawal",
+            "intent": "withdrawal_intro"
+        },
+        {
+            "text": "I have an issue setting up a different shipping address",
+            "intent": "set_up_shipping_address"
+        },
+        {
+            "text": "I don't know how I can get refunds of money",
+            "intent": "get_refund"
+        },
+        {
+            "text": "i do not know how i can check the avaqilable payment methods",
+            "intent": "check_payment_methods"
+        },
+        {
+            "text": "I would like information about changing my shipping address",
+            "intent": "change_shipping_address"
+        },
+        {
+            "text": "how do I check how long the delivery takes?",
+            "intent": "delivery_period"
+        },
+        {
+            "text": "I am trying to see what hours customer support available is",
+            "intent": "contact_customer_service"
+        },
+        {
+            "text": "How can I finish a quote that I started",
+            "intent": "info_ast_quote"
+        },
+        {
+            "text": "I want invoice of my product",
+            "intent": "payment_and_bill"
+        },
+        {
+            "text": "help to modify the personal informatoin",
+            "intent": "edit_account"
+        },
+        {
+            "text": "where could I buy several of your item?",
+            "intent": "place_order"
+        },
+        {
+            "text": "making purchase",
+            "intent": "place_order"
+        },
+        {
+            "text": "whats the latest numbers in california",
+            "intent": "latest_numbers"
+        },
+        {
+            "text": "Does boat ins cover my trailer",
+            "intent": "info_boat_cov_explan"
+        },
+        {
+            "text": "I did my quote and signed the documents and when I try to pay it goes blank",
+            "intent": "info_ast_purchase"
+        },
+        {
+            "text": "could you give me information about order cancellations?",
+            "intent": "cancel_order"
+        },
+        {
+            "text": "I can't set another shipping address up",
+            "intent": "set_up_shipping_address"
+        },
+        {
+            "text": "Regarding change of address of my order.",
+            "intent": "modify_address"
+        },
+        {
+            "text": "would it be possible to cancel the last order I have made?",
+            "intent": "cancel_order"
+        },
+        {
+            "text": "what is considered essential travel",
+            "intent": "travel"
+        },
+        {
+            "text": "how to correct my address?",
+            "intent": "change_shipping_address"
+        },
+        {
+            "text": "could you help me track my order?",
+            "intent": "track_order"
+        },
+        {
+            "text": "I want to know about user account deletions",
+            "intent": "delete_account"
+        },
+        {
+            "text": "where could I get my money back?",
+            "intent": "get_refund"
+        },
+        {
+            "text": "what is the most recent new from spain",
+            "intent": "news_and_press"
+        },
+        {
+            "text": "what do i have to do to list urallowed payment methods",
+            "intent": "check_payment_methods"
+        },
+        {
+            "text": "My car is in the shop and I need the rental car extended",
+            "intent": "info_cl_rental"
+        },
+        {
+            "text": "Want to know about warranty",
+            "intent": "warranty"
+        },
+        {
+            "text": "how many new cases are there worldwide today",
+            "intent": "latest_numbers"
+        },
+        {
+            "text": "could you help me leave a review for a service?",
+            "intent": "review"
+        },
+        {
+            "text": "should i keep my summer trips planned",
+            "intent": "travel"
+        },
+        {
+            "text": "I ask a number of question to the bot but the query is not answered can you connect to Agent",
+            "intent": "chat_with_an_agent"
+        },
+        {
+            "text": "help to check how long refunds take",
+            "intent": "check_refund_policy"
+        },
+        {
+            "text": "What about ergo",
+            "intent": "ergo_features"
+        },
+        {
+            "text": "i want assistance to modify the address",
+            "intent": "change_shipping_address"
+        },
+        {
+            "text": "No Email Confirmation",
+            "intent": "no_email_confirmation"
+        },
+        {
+            "text": "help me buy something",
+            "intent": "place_order"
+        },
+        {
+            "text": "what is essential travel",
+            "intent": "travel"
+        },
+        {
+            "text": "when will I get a refund of money?",
+            "intent": "get_refund"
+        },
+        {
+            "text": "I want to transform my lifestyle to be more healthy",
+            "intent": "recommend_product"
+        },
+        {
+            "text": "morning corona bot",
+            "intent": "hi"
+        },
+        {
+            "text": "is there a section to submit a review for your services?",
+            "intent": "review"
+        },
+        {
+            "text": "I don't know what I have to do to get my money back",
+            "intent": "get_refund"
+        },
+        {
+            "text": "ay are not being helpful can i speak with a live agent",
+            "intent": "contact_human_agent"
+        },
+        {
+            "text": "can bleach kill the virus",
+            "intent": "can_i_get_from_packages_surfaces"
+        },
+        {
+            "text": "can i travel to go camping",
+            "intent": "travel"
+        },
+        {
+            "text": "give me information about the delivery period",
+            "intent": "delivery_period"
+        },
+        {
+            "text": "can you get covid from opening a trash can",
+            "intent": "can_i_get_from_packages_surfaces"
+        },
+        {
+            "text": "where to check what delivery options I have?",
+            "intent": "delivery_options"
+        },
+        {
+            "text": "I don't know how I can report a payment issue",
+            "intent": "payment_issue"
+        },
+        {
+            "text": "Can I visit SOF mattress showroom",
+            "intent": "distributors"
+        },
+        {
+            "text": "question about my registration",
+            "intent": "registration_problems"
+        },
+        {
+            "text": "I would like to know more about user account deletions",
+            "intent": "delete_account"
+        },
+        {
+            "text": "I am trying to leave a review",
+            "intent": "review"
+        },
+        {
+            "text": "want help opening a different online account for my husband",
+            "intent": "create_account"
+        },
+        {
+            "text": "how to check how soon can I expect the item?",
+            "intent": "delivery_period"
+        },
+        {
+            "text": "how could I check the options for delivery?",
+            "intent": "delivery_options"
+        },
+        {
+            "text": "Dream Keep rewards",
+            "intent": "info_dreamkeep_rewards"
+        },
+        {
+            "text": "Resume to Deliver",
+            "intent": "resume_delivery"
+        },
+        {
+            "text": "I need help to file a complaint against your business",
+            "intent": "complaint"
+        },
+        {
+            "text": "what precautions can i take to help eliminate spreading of this virus",
+            "intent": "how_does_corona_spread"
+        },
+        {
+            "text": "need help canceling my subscription to your newsletter",
+            "intent": "newsletter_subscription"
+        },
+        {
+            "text": "can you help me check the invoices from five purchases ago?",
+            "intent": "check_invoice"
+        },
+        {
+            "text": "how can i not get coronavirus",
+            "intent": "protect_yourself"
+        },
+        {
+            "text": "I need help checking if there is anything new on my refund",
+            "intent": "track_refund"
+        },
+        {
+            "text": "could you help me remove some items from an order?",
+            "intent": "change_order"
+        },
+        {
+            "text": "want to cancel paper billing",
+            "intent": "info_paperless_docs_stop"
+        },
+        {
+            "text": "I need assistance to create an online account",
+            "intent": "create_account"
+        },
+        {
+            "text": "Check withdrawal status",
+            "intent": "withdrawal_status"
+        },
+        {
+            "text": "I need assistance creating an account",
+            "intent": "create_account"
+        },
+        {
+            "text": "can I use another account?",
+            "intent": "switch_account"
+        },
+        {
+            "text": "Should I have collision coverage",
+            "intent": "info_coll_cov_explan"
+        },
+        {
+            "text": "how to report payment issues?",
+            "intent": "payment_issue"
+        },
+        {
+            "text": "what do I have to do to talk to a human agent?",
+            "intent": "contact_human_agent"
+        },
+        {
+            "text": "help me opening another online account for my mother",
+            "intent": "create_account"
+        },
+        {
+            "text": "why coronavirus affects some animals but not others",
+            "intent": "can_i_get_from_feces_animal_pets"
+        },
+        {
+            "text": "is there a section to submit some feedback for a service?",
+            "intent": "review"
+        },
+        {
+            "text": "I am trying to set another shipping address up",
+            "intent": "set_up_shipping_address"
+        },
+        {
+            "text": "will you show me how long the delivery takes?",
+            "intent": "delivery_period"
+        },
+        {
+            "text": "I don't know what I have to do to switch to another account",
+            "intent": "switch_account"
+        },
+        {
+            "text": "I need to inform of sign-up isuses",
+            "intent": "registration_problems"
+        },
+        {
+            "text": "what can i do to treat myself if i'm sick with coronavirus",
+            "intent": "what_are_treatment_options"
+        },
+        {
+            "text": "updates on covid-19 in the us",
+            "intent": "news_and_press"
+        },
+        {
+            "text": "help me cancel the subscription to your company newsletter",
+            "intent": "newsletter_subscription"
+        },
+        {
+            "text": "does hot weather kill the virus",
+            "intent": "myths"
+        },
+        {
+            "text": "i cannot unsubscribbe from ur company newsletter",
+            "intent": "newsletter_subscription"
+        },
+        {
+            "text": "I do not know how to create an account",
+            "intent": "create_account"
+        },
+        {
+            "text": "could you help me check how long refunds take?",
+            "intent": "check_refund_policy"
+        },
+        {
+            "text": "i want help regarding my user signup",
+            "intent": "registration_problems"
+        },
+        {
+            "text": "how can I leave a review?",
+            "intent": "review"
+        },
+        {
+            "text": "Same score between two players",
+            "intent": "what_if_theres_a_tie"
+        },
+        {
+            "text": "I was told the Corolla was totaled but still have payment due",
+            "intent": "info_cl_check_status"
+        },
+        {
+            "text": "I want assistance to find my invoice",
+            "intent": "check_invoice"
+        },
+        {
+            "text": "Fill my body measures  Goal",
+            "intent": "user_goal_form"
+        },
+        {
+            "text": "is there any evidence that pets other than dogs and cats could be susceptible",
+            "intent": "can_i_get_from_feces_animal_pets"
+        },
+        {
+            "text": "Request to transfer agentes",
+            "intent": "info_change_agent"
+        },
+        {
+            "text": "I am receiving an error when i try to access my DreamKeep rewards",
+            "intent": "info_dreamkeep_rewards_errors"
+        },
+        {
+            "text": "thanks for the info doc",
+            "intent": "okay_thanks"
+        },
+        {
+            "text": "Verify Email",
+            "intent": "verify_email"
+        },
+        {
+            "text": "how can I leave a review for your services?",
+            "intent": "review"
+        },
+        {
+            "text": "I am looking for information about delivery periods",
+            "intent": "delivery_period"
+        },
+        {
+            "text": "should i travel within the u.s during the pandemic",
+            "intent": "what_if_i_visited_high_risk_area"
+        },
+        {
+            "text": "how can I report a registration issue?",
+            "intent": "registration_problems"
+        },
+        {
+            "text": "should i wear a mask",
+            "intent": "how_does_corona_spread"
+        },
+        {
+            "text": "i dont know how i can talk to bloody customer service",
+            "intent": "contact_customer_service"
+        },
+        {
+            "text": "I need help checking how long the delivery takes",
+            "intent": "delivery_period"
+        },
+        {
+            "text": "can you help me tracking the last order?",
+            "intent": "track_order"
+        },
+        {
+            "text": "how can i donate to the red cross",
+            "intent": "donate"
+        },
+        {
+            "text": "I want to track my order",
+            "intent": "track_order"
+        },
+        {
+            "text": "what do i need to do to correct some of my personal details",
+            "intent": "edit_account"
+        },
+        {
+            "text": "is there a vaccine for coronavirus yet",
+            "intent": "what_are_treatment_options"
+        },
+        {
+            "text": "creaitng premium account for fiancee",
+            "intent": "create_account"
+        },
+        {
+            "text": "Whats the difference between minimum and account balance",
+            "intent": "info_auto_pymt_min_balance"
+        },
+        {
+            "text": "I want assistance checking the refund status",
+            "intent": "track_refund"
+        },
+        {
+            "text": "how do I order the master policy with the insured information",
+            "intent": "info_mortgage_co_poi"
+        },
+        {
+            "text": "I want help chatting with someone",
+            "intent": "contact_human_agent"
+        },
+        {
+            "text": "can you help me editing the information on my account?",
+            "intent": "edit_account"
+        },
+        {
+            "text": "could I check at what time I can contact customer service?",
+            "intent": "contact_customer_service"
+        },
+        {
+            "text": "I do not know how I could delete the account",
+            "intent": "delete_account"
+        },
+        {
+            "text": "I do not know what I have to do to track the last order",
+            "intent": "track_order"
+        },
+        {
+            "text": "where to buy a few of your item?",
+            "intent": "place_order"
+        },
+        {
+            "text": "I want to set up another shipping address",
+            "intent": "set_up_shipping_address"
+        },
+        {
+            "text": "what about the sneeze of a tiger",
+            "intent": "can_i_get_from_feces_animal_pets"
+        },
+        {
+            "text": "How I can get refund of my cash",
+            "intent": "refund_of_added_cash"
+        },
+        {
+            "text": "I want to know what an American Star agent is",
+            "intent": "info_american_star"
+        },
+        {
+            "text": "Paisa finance service available",
+            "intent": "emi"
+        },
+        {
+            "text": "should i avoid wearing jewelry when shopping",
+            "intent": "protect_yourself"
+        },
+        {
+            "text": "i want to a product for weight gain",
+            "intent": "recommend_product"
+        },
+        {
+            "text": "help me to report issues with payments",
+            "intent": "payment_issue"
+        },
+        {
+            "text": "i want help to report registration errors",
+            "intent": "registration_problems"
+        },
+        {
+            "text": "check my invoices",
+            "intent": "check_invoice"
+        },
+        {
+            "text": "can you give me information about delivery periods?",
+            "intent": "delivery_period"
+        },
+        {
+            "text": "get invoice from September",
+            "intent": "get_invoice"
+        },
+        {
+            "text": "checking early termination penalties",
+            "intent": "check_cancellation_fee"
+        },
+        {
+            "text": "Im with US Bank Home Mortgage I was curious if you could tell me how to obtain an updated homeowners insurance page for a refinancing customer",
+            "intent": "info_mortgage_co_poi"
+        },
+        {
+            "text": "Get Diet  Fitness Advice",
+            "intent": "consult_start"
+        },
+        {
+            "text": "insurance card printout",
+            "intent": "info_ins_card_print"
+        },
+        {
+            "text": "help me report a payment issue",
+            "intent": "payment_issue"
+        },
+        {
+            "text": "how did you sleep mr. covid",
+            "intent": "hi"
+        },
+        {
+            "text": "I do not know how to change the shipping address",
+            "intent": "change_shipping_address"
+        },
+        {
+            "text": "i do not have an account want help registering",
+            "intent": "create_account"
+        },
+        {
+            "text": "I do not know what to do to check your money back policy",
+            "intent": "check_refund_policy"
+        },
+        {
+            "text": "assistance to get refunds",
+            "intent": "get_refund"
+        },
+        {
+            "text": "thanks for letting me know about high risk areas",
+            "intent": "okay_thanks"
+        },
+        {
+            "text": "I need assistance to check your money back policy",
+            "intent": "check_refund_policy"
+        },
+        {
+            "text": "where does the virus come from",
+            "intent": "what_is_corona"
+        },
+        {
+            "text": "can you help me check how soon can I expect the delivery?",
+            "intent": "delivery_period"
+        },
+        {
+            "text": "can you help me open another account for my fiancee?",
+            "intent": "create_account"
+        },
+        {
+            "text": "check the status of my refund",
+            "intent": "track_refund"
+        },
+        {
+            "text": "what number do I call if I have a flat tire",
+            "intent": "info_ers_contact"
+        },
+        {
+            "text": "I need to call safelight to repair my windshield",
+            "intent": "info_cl_glass_safelite"
+        },
+        {
+            "text": "do you have authentic products",
+            "intent": "original_product"
+        },
+        {
+            "text": "how do I change my shipping address?",
+            "intent": "change_shipping_address"
+        },
+        {
+            "text": "could you help me talking to an agent?",
+            "intent": "contact_human_agent"
+        },
+        {
+            "text": "could you help me subscribing to the corporate newsletter?",
+            "intent": "newsletter_subscription"
+        },
+        {
+            "text": "could you help me buying several of your item?",
+            "intent": "place_order"
+        },
+        {
+            "text": "I do not know how to file a complaint against your business",
+            "intent": "complaint"
+        },
+        {
+            "text": "can ya tell me more about a pin code recovery",
+            "intent": "recover_password"
+        },
+        {
+            "text": "i'd like to donate",
+            "intent": "donate"
+        },
+        {
+            "text": "assistance to subscribe to your company newsletter",
+            "intent": "newsletter_subscription"
+        },
+        {
+            "text": "justfinishedchattingwithanotheragenttobeabletologintomyaccounttoprintoffproofofinsurancecards",
+            "intent": "info_ins_card_print"
+        },
+        {
+            "text": "which cities in the united states are at most risk for coronavirus right now",
+            "intent": "what_if_i_visited_high_risk_area"
+        },
+        {
+            "text": "what kind of face mask helps",
+            "intent": "protect_yourself"
+        },
+        {
+            "text": "i have got to inform of a registration issue",
+            "intent": "registration_problems"
+        },
+        {
+            "text": "can the 19 be spread faster",
+            "intent": "how_does_corona_spread"
+        },
+        {
+            "text": "show me your allowed payment methods",
+            "intent": "check_payment_methods"
+        },
+        {
+            "text": "Ya",
+            "intent": "greetings_day"
+        },
+        {
+            "text": "help me using a different profile",
+            "intent": "switch_account"
+        },
+        {
+            "text": "can you help me update the info on my profile?",
+            "intent": "edit_account"
+        },
+        {
+            "text": "help me subscribing to the corporate newsleter",
+            "intent": "newsletter_subscription"
+        },
+        {
+            "text": "I want to know about new team format",
+            "intent": "new_team_pattern"
+        },
+        {
+            "text": "where can I retrieve the pass of my account?",
+            "intent": "recover_password"
+        },
+        {
+            "text": "I have to cancel my last order",
+            "intent": "cancel_order"
+        },
+        {
+            "text": "what's the total death count in the u.s",
+            "intent": "latest_numbers"
+        },
+        {
+            "text": "I havent received the winning amount",
+            "intent": "withdrawal_time"
+        },
+        {
+            "text": "could I get the invoices from my last purchase?",
+            "intent": "get_invoice"
+        },
+        {
+            "text": "I need assistance to buy some of your item",
+            "intent": "place_order"
+        },
+        {
+            "text": "can I check in what cases can I ask for my money back?",
+            "intent": "check_refund_policy"
+        },
+        {
+            "text": "help me checking the cancellation fees",
+            "intent": "check_cancellation_fee"
+        },
+        {
+            "text": "I need assistance to see your accepted payment options",
+            "intent": "check_payment_methods"
+        },
+        {
+            "text": "which pet is the most at risk for the coronavirus disease",
+            "intent": "can_i_get_from_feces_animal_pets"
+        },
+        {
+            "text": "i dont know what i need to do to list ur payment options",
+            "intent": "check_payment_methods"
+        },
+        {
+            "text": "Please stop billing me online",
+            "intent": "info_paperless_docs_stop"
+        },
+        {
+            "text": "i do not know what i need to do to speak to customer service",
+            "intent": "contact_customer_service"
+        },
+        {
+            "text": "I am trying to edit my address",
+            "intent": "change_shipping_address"
+        },
+        {
+            "text": "help me to cancel my last order",
+            "intent": "cancel_order"
+        },
+        {
+            "text": "can warm weather slow the spread of covid-19",
+            "intent": "how_does_corona_spread"
+        },
+        {
+            "text": "I am looking for information about order cancelations",
+            "intent": "cancel_order"
+        },
+        {
+            "text": "can you help me check what payment methods are available?",
+            "intent": "check_payment_methods"
+        },
+        {
+            "text": "I need help to get my invoice",
+            "intent": "get_invoice"
+        },
+        {
+            "text": "how do i see the cancellation charge",
+            "intent": "check_cancellation_fee"
+        },
+        {
+            "text": "I need to know how much each one costs so I can plan how to pay them",
+            "intent": "info_premium_breakdown"
+        },
+        {
+            "text": "my agent retired and i forgot who my new agent that was assigned to me is",
+            "intent": "info_who_is_my_agent"
+        },
+        {
+            "text": "could you help me to file a complaint against your business?",
+            "intent": "complaint"
+        },
+        {
+            "text": "what's up doc",
+            "intent": "hi"
+        },
+        {
+            "text": "i wanna donate a bit of money",
+            "intent": "donate"
+        },
+        {
+            "text": "help to buy something",
+            "intent": "place_order"
+        },
+        {
+            "text": "I do not know how I can delete the account",
+            "intent": "delete_account"
+        },
+        {
+            "text": "I have a question about a forgotten password",
+            "intent": "recover_password"
+        },
+        {
+            "text": "i have problems with the termination of a user account",
+            "intent": "delete_account"
+        },
+        {
+            "text": "Help required on order",
+            "intent": "order_query"
+        },
+        {
+            "text": "cancelling online billing",
+            "intent": "info_paperless_docs_stop"
+        },
+        {
+            "text": "I have a registration issue",
+            "intent": "registration_problems"
+        },
+        {
+            "text": "could you help me cancel the last order I have made?",
+            "intent": "cancel_order"
+        },
+        {
+            "text": "I need support with my signup",
+            "intent": "registration_problems"
+        },
+        {
+            "text": "I had reported a claim last week I need to sumbit The personal rreport of accident SR form",
+            "intent": "info_cl_docs_send"
+        },
+        {
+            "text": "is it a myth that covid is worse than the regular flu",
+            "intent": "myths"
+        },
+        {
+            "text": "I want to call your call centre",
+            "intent": "call_center"
+        },
+        {
+            "text": "I am trying to find information about order cancelations",
+            "intent": "cancel_order"
+        },
+        {
+            "text": "would it be possible to register?",
+            "intent": "create_account"
+        },
+        {
+            "text": "could you tell me more about delivery periods?",
+            "intent": "delivery_period"
+        },
+        {
+            "text": "problem with a forgotten password",
+            "intent": "recover_password"
+        },
+        {
+            "text": "Im not using my device and want to send it back",
+            "intent": "info_knowyourdrive_device_return"
+        },
+        {
+            "text": "what does the cft about the economic crisis",
+            "intent": "news_and_press"
+        },
+        {
+            "text": "where do I set up a new shipping address?",
+            "intent": "set_up_shipping_address"
+        },
+        {
+            "text": "what are travel restrictions for high risk areas",
+            "intent": "what_if_i_visited_high_risk_area"
+        },
+        {
+            "text": "I would like to set up another shipping address",
+            "intent": "set_up_shipping_address"
+        },
+        {
+            "text": "I do not know how to check the cancellation fees",
+            "intent": "check_cancellation_fee"
+        },
+        {
+            "text": "how to check at what time I can contact customer service?",
+            "intent": "contact_customer_service"
+        },
+        {
+            "text": "What is the meaning of C infront a league",
+            "intent": "cannot_see_joined_contests"
+        },
+        {
+            "text": "Hi My Name is Jennifer Tierno my address is  N Cedar Crest Drive Lake Villa IL  birth date",
+            "intent": "st_hello"
+        },
+        {
+            "text": "where do I buy some items?",
+            "intent": "place_order"
+        },
+        {
+            "text": "I can't track an order",
+            "intent": "track_order"
+        },
+        {
+            "text": "I need assistance to contact customer service",
+            "intent": "contact_customer_service"
+        },
+        {
+            "text": "help me getting the invoices",
+            "intent": "get_invoice"
+        },
+        {
+            "text": "what do i have to do to change to another user account",
+            "intent": "switch_account"
+        },
+        {
+            "text": "I want to change my shipping address",
+            "intent": "change_shipping_address"
+        },
+        {
+            "text": "what's new with coronavirus in florida",
+            "intent": "news_and_press"
+        },
+        {
+            "text": "I do not know what to do to buy a few of your item",
+            "intent": "place_order"
+        },
+        {
+            "text": "I want to delete my account",
+            "intent": "delete_account"
+        },
+        {
+            "text": "I would like to set another shipping address up",
+            "intent": "set_up_shipping_address"
+        },
+        {
+            "text": "I want to active my device",
+            "intent": "info_knowyourdrive_device_activate"
+        },
+        {
+            "text": "I'm not happy wih ur service help me to file a claim",
+            "intent": "complaint"
+        },
+        {
+            "text": "assistance to leave a review",
+            "intent": "review"
+        },
+        {
+            "text": "is there any airline operating these days",
+            "intent": "travel"
+        },
+        {
+            "text": "Skin brightness",
+            "intent": "recommend_product"
+        },
+        {
+            "text": "stop electronic billing",
+            "intent": "info_paperless_docs_stop"
+        },
+        {
+            "text": "I do not know what I have to do to see the cancellatino fees",
+            "intent": "check_cancellation_fee"
+        },
+        {
+            "text": "I am trying to open another online account for my wife",
+            "intent": "create_account"
+        },
+        {
+            "text": "can you help me check what payment methods you accept?",
+            "intent": "check_payment_methods"
+        },
+        {
+            "text": "can horses get the virus",
+            "intent": "can_i_get_from_feces_animal_pets"
+        },
+        {
+            "text": "how to kill the spread of corona virus on surfaces",
+            "intent": "protect_yourself"
+        },
+        {
+            "text": "I want help to report an issue with payments",
+            "intent": "payment_issue"
+        },
+        {
+            "text": "Why I haven't received any email confirmation link",
+            "intent": "no_email_confirmation"
+        },
+        {
+            "text": "I do not know how I could delete my account",
+            "intent": "delete_account"
+        },
+        {
+            "text": "i wanna thank you for your help",
+            "intent": "okay_thanks"
+        },
+        {
+            "text": "how do i prevent my kids from getting the virus",
+            "intent": "protect_yourself"
+        },
+        {
+            "text": "could you help me canceling the order I have made?",
+            "intent": "cancel_order"
+        },
+        {
+            "text": "I don't know what to do to edit my account",
+            "intent": "edit_account"
+        },
+        {
+            "text": "is corona virus spreadable through air filters and/or air conditioning",
+            "intent": "how_does_corona_spread"
+        },
+        {
+            "text": "assistance to check my refund status",
+            "intent": "track_refund"
+        },
+        {
+            "text": "I am aiming to get a lean body can you help me?",
+            "intent": "recommend_product"
+        },
+        {
+            "text": "assistance setting a new shipping address up",
+            "intent": "set_up_shipping_address"
+        },
+        {
+            "text": "i know its lockdown due to coronavirus but can i still place an order?",
+            "intent": "order_taking"
+        },
+        {
+            "text": "information about a user account deletion",
+            "intent": "delete_account"
+        },
+        {
+            "text": "what do I have to do to get refunds?",
+            "intent": "get_refund"
+        },
+        {
+            "text": "could you help me check your allowed payment methods?",
+            "intent": "check_payment_methods"
+        },
+        {
+            "text": "i dont know what i need to do to inform of signup issues",
+            "intent": "registration_problems"
+        },
+        {
+            "text": "how could I edit the information on my account?",
+            "intent": "edit_account"
+        },
+        {
+            "text": "could I change the order I made?",
+            "intent": "change_order"
+        },
+        {
+            "text": "I want to create another online account for my wife",
+            "intent": "create_account"
+        },
+        {
+            "text": "I have problems with adding something",
+            "intent": "change_order"
+        },
+        {
+            "text": "latest stats on cases in africa",
+            "intent": "latest_numbers"
+        },
+        {
+            "text": "could you help me setting up a different shipping address?",
+            "intent": "set_up_shipping_address"
+        },
+        {
+            "text": "my bill has been not publised yet on the website i want a bill for my order",
+            "intent": "payment_and_bill"
+        },
+        {
+            "text": "could you help me to check your money back policy?",
+            "intent": "check_refund_policy"
+        },
+        {
+            "text": "check what payment methods you accept",
+            "intent": "check_payment_methods"
+        },
+        {
+            "text": "where do I check the cancellation fees?",
+            "intent": "check_cancellation_fee"
+        },
+        {
+            "text": "I try to open a different user account",
+            "intent": "create_account"
+        },
+        {
+            "text": "is it possible to open another online account for my mother?",
+            "intent": "create_account"
+        },
+        {
+            "text": "reset user account pass",
+            "intent": "recover_password"
+        },
+        {
+            "text": "can ya help me unsubscribe to the nedwsletter",
+            "intent": "newsletter_subscription"
+        },
+        {
+            "text": "How do I sign up for know your drive",
+            "intent": "info_knowyourdrive"
+        },
+        {
+            "text": "I can't set up another shipping address",
+            "intent": "set_up_shipping_address"
+        },
+        {
+            "text": "could I check how soon can I expect the delivery?",
+            "intent": "delivery_period"
+        },
+        {
+            "text": "share this info over text",
+            "intent": "share"
+        },
+        {
+            "text": "ihave not registered yet i wanna open a user account",
+            "intent": "create_account"
+        },
+        {
+            "text": "i live in a high risk area what are the chances i have contracted or am a carrier of disease",
+            "intent": "what_if_i_visited_high_risk_area"
+        },
+        {
+            "text": "Looking for payment on claim  in the amount of  Supplement amount",
+            "intent": "info_cl_check_status"
+        },
+        {
+            "text": "Hi thereI am wondering if you can give me info on our previous policy with amfam",
+            "intent": "info_poi_old"
+        },
+        {
+            "text": "ty",
+            "intent": "okay_thanks"
+        },
+        {
+            "text": "Wondering how I start my know your driving app",
+            "intent": "info_knowyourdrive_device_activate"
+        },
+        {
+            "text": "I want to recieve bills in the mail",
+            "intent": "info_paperless_docs_stop"
+        },
+        {
+            "text": "Resistance band",
+            "intent": "recommend_product"
+        },
+        {
+            "text": "What are the available offers",
+            "intent": "offers"
+        },
+        {
+            "text": "I try to check what options for delivery you offer",
+            "intent": "delivery_options"
+        },
+        {
+            "text": "i need help now for my car are you sending someone",
+            "intent": "info_ers_contact"
+        },
+        {
+            "text": "No longer do I want online billing",
+            "intent": "info_paperless_docs_stop"
+        },
+        {
+            "text": "is it possible to clsoe a user account?",
+            "intent": "delete_account"
+        },
+        {
+            "text": "can people with masks transmit it to other people",
+            "intent": "how_does_corona_spread"
+        },
+        {
+            "text": "can I check the options for delivery?",
+            "intent": "delivery_options"
+        },
+        {
+            "text": "I have a problem with cancelling an order I made",
+            "intent": "cancel_order"
+        },
+        {
+            "text": "assistance to change my order",
+            "intent": "change_order"
+        },
+        {
+            "text": "When is customer service available",
+            "intent": "info_customer_service_hours"
+        },
+        {
+            "text": "I would like to track the refund",
+            "intent": "track_refund"
+        },
+        {
+            "text": "Waste of my time",
+            "intent": "chat_with_agent"
+        },
+        {
+            "text": "check if there is anything wrong with my refund",
+            "intent": "track_refund"
+        },
+        {
+            "text": "I need to know the amount of the check they are sending to my bank for the loan my claim number is xxxxxxxxxxx dodge caliber",
+            "intent": "info_cl_check_status"
+        },
+        {
+            "text": "help to change the last order I made",
+            "intent": "change_order"
+        },
+        {
+            "text": "yo corona bot what's up",
+            "intent": "hi"
+        },
+        {
+            "text": "can you help me buy several of your item?",
+            "intent": "place_order"
+        },
+        {
+            "text": "I need to take a quick look at my invoices",
+            "intent": "check_invoice"
+        },
+        {
+            "text": "where do I set a new shipping address up?",
+            "intent": "set_up_shipping_address"
+        },
+        {
+            "text": "could you help me checking when my item is going to arrive?",
+            "intent": "delivery_period"
+        },
+        {
+            "text": "thank you for your help corona bot",
+            "intent": "okay_thanks"
+        },
+        {
+            "text": "How to buy?",
+            "intent": "lead_gen"
+        },
+        {
+            "text": "i dont know how i can chat wit a person",
+            "intent": "contact_human_agent"
+        },
+        {
+            "text": "how effective is cleaning with alcohol",
+            "intent": "can_i_get_from_packages_surfaces"
+        },
+        {
+            "text": "I am trying to check the status of my order",
+            "intent": "track_order"
+        },
+        {
+            "text": "help to cancel the company newsletter subscription",
+            "intent": "newsletter_subscription"
+        },
+        {
+            "text": "give out money",
+            "intent": "donate"
+        },
+        {
+            "text": "I want to cancel the online bill",
+            "intent": "info_paperless_docs_stop"
+        },
+        {
+            "text": "can you help me check how long the delivery takes?",
+            "intent": "delivery_period"
+        },
+        {
+            "text": "where can i find information about my account cancellation",
+            "intent": "delete_account"
+        },
+        {
+            "text": "I am trying to get a quote on renters and auto insurance and the website will not let me put in my address it says it is invalid",
+            "intent": "info_ast_quote"
+        },
+        {
+            "text": "how can i speak with an assistant",
+            "intent": "contact_human_agent"
+        },
+        {
+            "text": "Please refund money",
+            "intent": "refund_of_added_cash"
+        },
+        {
+            "text": "I want a refund",
+            "intent": "get_refund"
+        },
+        {
+            "text": "Outlet",
+            "intent": "distributors"
+        },
+        {
+            "text": "i want assistance with our account sign-up",
+            "intent": "registration_problems"
+        },
+        {
+            "text": "I want to know when i will get my order if i place my order today",
+            "intent": "resume_delivery"
+        },
+        {
+            "text": "I am hoping to get a copy of my st couple policy declarations emailed to me as they are not available online",
+            "intent": "info_poi_old"
+        },
+        {
+            "text": "I would want to take re-assessment",
+            "intent": "user_goal_form"
+        },
+        {
+            "text": "I want to buy this",
+            "intent": "lead_gen"
+        },
+        {
+            "text": "Best mass gainer??",
+            "intent": "recommend_product"
+        },
+        {
+            "text": "Print insurance card",
+            "intent": "info_ins_card_print"
+        },
+        {
+            "text": "i want help to file a consumer complaint",
+            "intent": "complaint"
+        },
+        {
+            "text": "help me to check what payment methods are available",
+            "intent": "check_payment_methods"
+        },
+        {
+            "text": "Who do I need to talk to to get a copy of an old insurance ID card",
+            "intent": "info_poi_old"
+        },
+        {
+            "text": "I have got to report an issue with payments",
+            "intent": "payment_issue"
+        },
+        {
+            "text": "help me to check what hours customer service available is",
+            "intent": "contact_customer_service"
+        },
+        {
+            "text": "recovery rate in chicago",
+            "intent": "latest_numbers"
+        },
+        {
+            "text": "where can I get information about a user account deletion?",
+            "intent": "delete_account"
+        },
+        {
+            "text": "i want to become a seller",
+            "intent": "franchise"
+        },
+        {
+            "text": "speak to a person",
+            "intent": "contact_human_agent"
+        },
+        {
+            "text": "question about a shipping address change",
+            "intent": "change_shipping_address"
+        },
+        {
+            "text": "I have got to check the options for delivery",
+            "intent": "delivery_options"
+        },
+        {
+            "text": "how can i check the authenticity of the product",
+            "intent": "original_product"
+        },
+        {
+            "text": "I would like to know more about forgotten passwords",
+            "intent": "recover_password"
+        },
+        {
+            "text": "What do I call to talk to a rep with Homesite",
+            "intent": "info_homesite_contact"
+        },
+        {
+            "text": "I don't know how I can set up another shipping address",
+            "intent": "set_up_shipping_address"
+        },
+        {
+            "text": "I try to get the invoice from last month",
+            "intent": "get_invoice"
+        },
+        {
+            "text": "I need help canceling the order I have made",
+            "intent": "cancel_order"
+        },
+        {
+            "text": "I don't know how I can edit my account",
+            "intent": "edit_account"
+        },
+        {
+            "text": "I would like to know about a password recovery",
+            "intent": "recover_password"
+        },
+        {
+            "text": "can you give me information about delivery period?",
+            "intent": "delivery_period"
+        },
+        {
+            "text": "What is the meaning of M infront a league",
+            "intent": "cannot_see_joined_contests"
+        },
+        {
+            "text": "tell me more about the options for delivery",
+            "intent": "delivery_options"
+        },
+        {
+            "text": "what gloves are best for protection",
+            "intent": "protect_yourself"
+        },
+        {
+            "text": "i do not know what to do to edit the data on my profile",
+            "intent": "edit_account"
+        },
+        {
+            "text": "Office Information",
+            "intent": "work_from_home"
+        },
+        {
+            "text": "am i in a high risk area",
+            "intent": "what_if_i_visited_high_risk_area"
+        },
+        {
+            "text": "thank you for your interest",
+            "intent": "okay_thanks"
+        },
+        {
+            "text": "I need assistance to check the cancellation fees",
+            "intent": "check_cancellation_fee"
+        },
+        {
+            "text": "My contest does not show",
+            "intent": "cannot_see_joined_contests"
+        },
+        {
+            "text": "myths about using mask filters",
+            "intent": "myths"
+        },
+        {
+            "text": "how do I cancel paperless billing",
+            "intent": "info_paperless_docs_stop"
+        },
+        {
+            "text": "are the charges for your services refundable?",
+            "intent": "check_refund_policy"
+        },
+        {
+            "text": "I do not know what I need to do to get refunds of money",
+            "intent": "get_refund"
+        },
+        {
+            "text": "g'day doc",
+            "intent": "hi"
+        },
+        {
+            "text": "what delivery options do I have?",
+            "intent": "delivery_options"
+        },
+        {
+            "text": "I have to switch user",
+            "intent": "switch_account"
+        },
+        {
+            "text": "I want help opening a different gold account for my fiance",
+            "intent": "create_account"
+        },
+        {
+            "text": "where could I check my order ETA?",
+            "intent": "track_order"
+        },
+        {
+            "text": "assistance checking what payment methods you accept",
+            "intent": "check_payment_methods"
+        },
+        {
+            "text": "What is the difference between the Ergo  Ortho variants",
+            "intent": "comparison"
+        },
+        {
+            "text": "I have issues trying to register",
+            "intent": "registration_problems"
+        },
+        {
+            "text": "thank you for everything doctor",
+            "intent": "okay_thanks"
+        },
+        {
+            "text": "can I set up a new shipping address?",
+            "intent": "set_up_shipping_address"
+        },
+        {
+            "text": "I want assistance editing my account",
+            "intent": "edit_account"
+        },
+        {
+            "text": "League joined but not showing",
+            "intent": "cannot_see_joined_contests"
+        },
+        {
+            "text": "How can I see what I pay for each policy",
+            "intent": "info_premium_breakdown"
+        },
+        {
+            "text": "need help regarding our account signup",
+            "intent": "registration_problems"
+        },
+        {
+            "text": "how could I add an item?",
+            "intent": "change_order"
+        },
+        {
+            "text": "could you help me checking the refund status?",
+            "intent": "track_refund"
+        },
+        {
+            "text": "where to recover my password?",
+            "intent": "recover_password"
+        },
+        {
+            "text": "I need to check when my item is going to arrive",
+            "intent": "delivery_period"
+        },
+        {
+            "text": "I want home gym product",
+            "intent": "recommend_product"
+        },
+        {
+            "text": "can i travel out of my city",
+            "intent": "travel"
+        },
+        {
+            "text": "i want assistance checking the early  exit fee",
+            "intent": "check_cancellation_fee"
+        },
+        {
+            "text": "I do not know what I need to do to find the invoice",
+            "intent": "check_invoice"
+        },
+        {
+            "text": "Where can I send claim documents too",
+            "intent": "info_cl_docs_send"
+        },
+        {
+            "text": "is covid fake",
+            "intent": "myths"
+        },
+        {
+            "text": "share this story",
+            "intent": "share"
+        },
+        {
+            "text": "receive ur newsletter",
+            "intent": "newsletter_subscription"
+        },
+        {
+            "text": "Teach me to play",
+            "intent": "how_to_play"
+        },
+        {
+            "text": "could you help me getting my money back?",
+            "intent": "get_refund"
+        },
+        {
+            "text": "can you help me cancel my corporate newsletter subscription?",
+            "intent": "newsletter_subscription"
+        },
+        {
+            "text": "can i use it as soon as it wil be delivered",
+            "intent": "what_are_treatment_options"
+        },
+        {
+            "text": "help me to use another account",
+            "intent": "switch_account"
+        },
+        {
+            "text": "is it possible to report issues with payments?",
+            "intent": "payment_issue"
+        },
+        {
+            "text": "share the article",
+            "intent": "share"
+        },
+        {
+            "text": "interesting thanks",
+            "intent": "okay_thanks"
+        },
+        {
+            "text": "does covid get weaker if stays too long on the surfaces",
+            "intent": "can_i_get_from_packages_surfaces"
+        },
+        {
+            "text": "Which one costs more I need to know the price of each one",
+            "intent": "info_premium_breakdown"
+        },
+        {
+            "text": "I am not an member yet need help to register",
+            "intent": "create_account"
+        },
+        {
+            "text": "where do I track my last order?",
+            "intent": "track_order"
+        },
+        {
+            "text": "Can I buy GAP insurance from you",
+            "intent": "info_gap_coverage"
+        },
+        {
+            "text": "is it possible to talk to a live agent?",
+            "intent": "contact_human_agent"
+        },
+        {
+            "text": "Delivery is showing very late",
+            "intent": "delay_in_parcel"
+        },
+        {
+            "text": "could ya transfer to me someone",
+            "intent": "contact_human_agent"
+        },
+        {
+            "text": "I want to file a complaint",
+            "intent": "complaint"
+        },
+        {
+            "text": "i do not know what i have to do to correct the user data",
+            "intent": "edit_account"
+        },
+        {
+            "text": "I have to check what payment methods are allowed help me",
+            "intent": "check_payment_methods"
+        },
+        {
+            "text": "could you help me getting refunds?",
+            "intent": "get_refund"
+        },
+        {
+            "text": "how do I report payment issues?",
+            "intent": "payment_issue"
+        },
+        {
+            "text": "I need help cancelling the subscription to your newsletter",
+            "intent": "newsletter_subscription"
+        },
+        {
+            "text": "what do I have to do to create an account?",
+            "intent": "create_account"
+        },
+        {
+            "text": "Do you know where I need to send the photos from my accident",
+            "intent": "info_cl_docs_send"
+        },
+        {
+            "text": "are aches and pains a symptom of the corona",
+            "intent": "what_are_symptoms"
+        },
+        {
+            "text": "I have got to delete my account",
+            "intent": "delete_account"
+        },
+        {
+            "text": "I need paper copies of my bills from now on",
+            "intent": "info_paperless_docs_stop"
+        },
+        {
+            "text": "I have to check what hours I can contact customer service",
+            "intent": "contact_customer_service"
+        },
+        {
+            "text": "any news about stay at home orders regarding covid 19",
+            "intent": "news_and_press"
+        },
+        {
+            "text": "how could I get refunds of money?",
+            "intent": "get_refund"
+        },
+        {
+            "text": "how could I get my money back?",
+            "intent": "get_refund"
+        },
+        {
+            "text": "find information about the delivery periods",
+            "intent": "delivery_period"
+        },
+        {
+            "text": "are you as well working from home like I am?",
+            "intent": "work_from_home"
+        },
+        {
+            "text": "I need help to see the early termination charge",
+            "intent": "check_cancellation_fee"
+        },
+        {
+            "text": "how can i check at what time i can reach customer service",
+            "intent": "contact_customer_service"
+        },
+        {
+            "text": "Customise size ",
+            "intent": "size_customization"
+        },
+        {
+            "text": "need to switch to a different account",
+            "intent": "switch_account"
+        },
+        {
+            "text": "is it safe to use glassware",
+            "intent": "can_i_get_from_packages_surfaces"
+        },
+        {
+            "text": "tell me about the myths related to coronavirus",
+            "intent": "myths"
+        },
+        {
+            "text": "Need my money back",
+            "intent": "return_exchange"
+        },
+        {
+            "text": "Does boat insurance include my trailer",
+            "intent": "info_boat_cov_explan"
+        },
+        {
+            "text": "Greetings my name is Darryl and I have some questions about a claim please",
+            "intent": "st_general_request"
+        },
+        {
+            "text": "i wish i could do something about this",
+            "intent": "donate"
+        },
+        {
+            "text": "I would like to change my agent",
+            "intent": "info_change_agent"
+        },
+        {
+            "text": "how can I track my order?",
+            "intent": "track_order"
+        },
+        {
+            "text": "If there is a tie between two users in quiz",
+            "intent": "what_if_theres_a_tie"
+        },
+        {
+            "text": "I have got to cancel the company newsletter subscription",
+            "intent": "newsletter_subscription"
+        },
+        {
+            "text": "subscribe to your company newsletter",
+            "intent": "newsletter_subscription"
+        },
+        {
+            "text": "I cannot remember my account pass where can I restore it?",
+            "intent": "recover_password"
+        },
+        {
+            "text": "I want to know more about a shipping address change",
+            "intent": "change_shipping_address"
+        },
+        {
+            "text": "i cannot find the goddamn earpy exit charges i need help",
+            "intent": "check_cancellation_fee"
+        },
+        {
+            "text": "Need to Verify my account",
+            "intent": "account_not_verified"
+        },
+        {
+            "text": "Yes Im trying roadside assistance because I had ran out of gas",
+            "intent": "info_ers_contact"
+        },
+        {
+            "text": "could you help me check the status of my refund?",
+            "intent": "track_refund"
+        },
+        {
+            "text": "help buying a few of your item",
+            "intent": "place_order"
+        },
+        {
+            "text": "what are the common vectors",
+            "intent": "how_does_corona_spread"
+        },
+        {
+            "text": "I need assistance deleting an account",
+            "intent": "delete_account"
+        },
+        {
+            "text": "what are some early symptoms",
+            "intent": "what_are_symptoms"
+        },
+        {
+            "text": "I am looking for the delivery periods",
+            "intent": "delivery_period"
+        },
+        {
+            "text": "I am not sure if covid is affecting your delivery",
+            "intent": "resume_delivery"
+        },
+        {
+            "text": "Im from a body shop and need a copy of the estimate for claim",
+            "intent": "info_cl_shop_send_estimate"
+        },
+        {
+            "text": "And if there is a tie",
+            "intent": "what_if_theres_a_tie"
+        },
+        {
+            "text": "should i clean delivery packages beforehand",
+            "intent": "can_i_get_from_packages_surfaces"
+        },
+        {
+            "text": "can uhelp me notifying of a registration issue",
+            "intent": "registration_problems"
+        },
+        {
+            "text": "I don't know how to check what options for delivery I have",
+            "intent": "delivery_options"
+        },
+        {
+            "text": "any description on the corona",
+            "intent": "what_is_corona"
+        },
+        {
+            "text": "How do I return It",
+            "intent": "return_exchange"
+        },
+        {
+            "text": "I want to cancel the subscription to your company newsletter",
+            "intent": "newsletter_subscription"
+        },
+        {
+            "text": "Information for return",
+            "intent": "refunds_returns_replacements"
+        },
+        {
+            "text": "I want to gain my weight",
+            "intent": "recommend_product"
+        },
+        {
+            "text": "total deaths as of today",
+            "intent": "latest_numbers"
+        },
+        {
+            "text": "Help required",
+            "intent": "capabilities"
+        },
+        {
+            "text": "would it be possible to report registration issues?",
+            "intent": "registration_problems"
+        },
+        {
+            "text": "need a direct number for a business policy question",
+            "intent": "info_cfr_question_general"
+        },
+        {
+            "text": "I want information about delivery period",
+            "intent": "delivery_period"
+        },
+        {
+            "text": "could you help me track my last order?",
+            "intent": "track_order"
+        },
+        {
+            "text": "assistance to check your money back policy",
+            "intent": "check_refund_policy"
+        },
+        {
+            "text": "Is there orthopedic mattress available",
+            "intent": "ortho_features"
+        },
+        {
+            "text": "I need assistance to change to a new user account",
+            "intent": "switch_account"
+        },
+        {
+            "text": "get a new agent",
+            "intent": "info_change_agent"
+        },
+        {
+            "text": "I need help reporting an issue with payment",
+            "intent": "payment_issue"
+        },
+        {
+            "text": "Withdrawal Time",
+            "intent": "withdrawal_time"
+        },
+        {
+            "text": "I cannot change the shipping address",
+            "intent": "change_shipping_address"
+        },
+        {
+            "text": "assistance to take a quick look at the invoice from July",
+            "intent": "check_invoice"
+        },
+        {
+            "text": "should i be using public hand rails without gloves",
+            "intent": "can_i_get_from_packages_surfaces"
+        },
+        {
+            "text": "help em check at what time I can reach customer support",
+            "intent": "contact_customer_service"
+        },
+        {
+            "text": "can you help me checking what delivery options I can choose?",
+            "intent": "delivery_options"
+        },
+        {
+            "text": "Can you help me",
+            "intent": "st_general_request"
+        },
+        {
+            "text": "I am trying to cancel an order I made",
+            "intent": "cancel_order"
+        },
+        {
+            "text": "My payment is not due until  Can I make my automatic payment early",
+            "intent": "info_change_autopay_date"
+        },
+        {
+            "text": "can you help me reporting payment issues?",
+            "intent": "payment_issue"
+        },
+        {
+            "text": "should i be worried about my pets catching covid 19",
+            "intent": "can_i_get_from_feces_animal_pets"
+        },
+        {
+            "text": "I need help deleting an account",
+            "intent": "delete_account"
+        },
+        {
+            "text": "want help speaking to customer service",
+            "intent": "contact_customer_service"
+        },
+        {
+            "text": "Can you please send me the proof of insurance",
+            "intent": "info_ins_card_send"
+        },
+        {
+            "text": "hi bot",
+            "intent": "hi"
+        },
+        {
+            "text": "I do not know what I have to do to call cutomer support",
+            "intent": "contact_customer_service"
+        },
+        {
+            "text": "I do not know how to check your accepted payment methods",
+            "intent": "check_payment_methods"
+        },
+        {
+            "text": "THANK YOU VERY MUCH FOR YOUR HELP",
+            "intent": "st_thank_you"
+        },
+        {
+            "text": "liability coverage definition",
+            "intent": "info_liab_explan"
+        },
+        {
+            "text": "I don't know how I can make a purchase",
+            "intent": "place_order"
+        },
+        {
+            "text": "number of cases in mexico",
+            "intent": "latest_numbers"
+        },
+        {
+            "text": "I don't know how I could create an account",
+            "intent": "create_account"
+        },
+        {
+            "text": "Refund my cash",
+            "intent": "refund_of_added_cash"
+        },
+        {
+            "text": "can i get original product",
+            "intent": "original_product"
+        },
+        {
+            "text": "I want to add my goals",
+            "intent": "user_goal_form"
+        },
+        {
+            "text": "My deposit statement",
+            "intent": "check_deposit_status"
+        },
+        {
+            "text": "need assistance talking to an operator",
+            "intent": "contact_human_agent"
+        },
+        {
+            "text": "I do not know what I need to do to register",
+            "intent": "create_account"
+        },
+        {
+            "text": "give me information about a password recovery",
+            "intent": "recover_password"
+        },
+        {
+            "text": "help reporting issues with payments",
+            "intent": "payment_issue"
+        },
+        {
+            "text": "If I order now do I get delivery",
+            "intent": "resume_delivery"
+        },
+        {
+            "text": "Im from a body shop and want to be a preferred provider",
+            "intent": "info_cl_drp_join"
+        },
+        {
+            "text": "I want help solving payment issues",
+            "intent": "payment_issue"
+        },
+        {
+            "text": "How to verify my mobile number",
+            "intent": "verify_mobile"
+        },
+        {
+            "text": "Earlier I spoke with a representative about my towing claim and I said I would do the direct deposit for the  I just got the email but now I would prefer to have a check sent if that is ok",
+            "intent": "info_cl_check_status"
+        },
+        {
+            "text": "acn ya help me creating a new online account",
+            "intent": "create_account"
+        },
+        {
+            "text": "I do not know what to do to change to a new profile",
+            "intent": "switch_account"
+        },
+        {
+            "text": "what is the most common way covid is spread",
+            "intent": "how_does_corona_spread"
+        },
+        {
+            "text": "any news about covid",
+            "intent": "news_and_press"
+        },
+        {
+            "text": "the delivery options",
+            "intent": "delivery_options"
+        },
+        {
+            "text": "I don't know what I have to do to contact an agent",
+            "intent": "contact_human_agent"
+        },
+        {
+            "text": "help me track my last order",
+            "intent": "track_order"
+        },
+        {
+            "text": "I try to file a complaint against your business",
+            "intent": "complaint"
+        },
+        {
+            "text": "I have got to change an item of an order",
+            "intent": "change_order"
+        },
+        {
+            "text": "how can I get the invoice from last month?",
+            "intent": "get_invoice"
+        },
+        {
+            "text": "I forgot who my agent is",
+            "intent": "info_who_is_my_agent"
+        },
+        {
+            "text": "I have to cancel the order I made",
+            "intent": "cancel_order"
+        },
+        {
+            "text": "Tell me about SOF Mattress",
+            "intent": "about_sof_mattress"
+        },
+        {
+            "text": "I need assistance contacting an agent",
+            "intent": "contact_human_agent"
+        },
+        {
+            "text": "help talking to an agent",
+            "intent": "contact_human_agent"
+        },
+        {
+            "text": "Shouldnt a payment come out of my account instantly",
+            "intent": "info_pymt_time"
+        },
+        {
+            "text": "how do I sign my teen up for the Teen safe driver program",
+            "intent": "info_teen_safe_driver_signup"
+        },
+        {
+            "text": "can you get coronavirus from borrowing clothes",
+            "intent": "can_i_get_from_packages_surfaces"
+        },
+        {
+            "text": "I want assistance to cancel the last order",
+            "intent": "cancel_order"
+        },
+        {
+            "text": "I cannot report registration issues",
+            "intent": "registration_problems"
+        },
+        {
+            "text": "how can i tell if my pet get sick from coronavirus",
+            "intent": "can_i_get_from_feces_animal_pets"
+        },
+        {
+            "text": "Do not want paper less bills",
+            "intent": "info_paperless_docs_stop"
+        },
+        {
+            "text": "help me solving payment issues",
+            "intent": "payment_issue"
+        },
+        {
+            "text": "Hi AbbyIm from Sierra Credit and need to verify if policy  is active",
+            "intent": "info_mortgage_co_poi"
+        },
+        {
+            "text": "I want assistance deleting the account",
+            "intent": "delete_account"
+        },
+        {
+            "text": "help to open another user account for my mum",
+            "intent": "create_account"
+        },
+        {
+            "text": "how could I track the refund?",
+            "intent": "track_refund"
+        },
+        {
+            "text": "help with changing my order",
+            "intent": "change_order"
+        },
+        {
+            "text": "can you show me in what cases can I ask for refunds?",
+            "intent": "check_refund_policy"
+        },
+        {
+            "text": "what is the safest mode of travel",
+            "intent": "travel"
+        },
+        {
+            "text": "May I have the April th amount due for the Honda the Avenger and the renters insurance I am trying to get a breakdown of each policy",
+            "intent": "info_premium_breakdown"
+        },
+        {
+            "text": "I have got to modify the data on my profile ca you help me?",
+            "intent": "edit_account"
+        },
+        {
+            "text": "i want to return the drive discount device",
+            "intent": "info_knowyourdrive_device_return"
+        },
+        {
+            "text": "help me solve a payment issue",
+            "intent": "payment_issue"
+        },
+        {
+            "text": "I need help cancelling an order I made",
+            "intent": "cancel_order"
+        },
+        {
+            "text": "I need help setting up another shipping address",
+            "intent": "set_up_shipping_address"
+        },
+        {
+            "text": "I am trying to get the invoices from 5 purchases ago",
+            "intent": "get_invoice"
+        },
+        {
+            "text": "Edit team name",
+            "intent": "change_profile_team_details"
+        },
+        {
+            "text": "are there any natural treatments for the coronavirus",
+            "intent": "what_are_treatment_options"
+        },
+        {
+            "text": "how do I check the invoice from two purchases ago?",
+            "intent": "check_invoice"
+        },
+        {
+            "text": "How do I verify mobile number",
+            "intent": "verify_mobile"
+        },
+        {
+            "text": "would you give me information about a forgotten password?",
+            "intent": "recover_password"
+        },
+        {
+            "text": "I am trying to lodge a claim",
+            "intent": "complaint"
+        },
+        {
+            "text": "where to buy an item?",
+            "intent": "place_order"
+        },
+        {
+            "text": "i need help to sign up",
+            "intent": "create_account"
+        },
+        {
+            "text": "need to ask someone about life insurance policy",
+            "intent": "info_life_question_general"
+        },
+        {
+            "text": "Authentication",
+            "intent": "original_product"
+        },
+        {
+            "text": "Change My Team",
+            "intent": "change_profile_team_details"
+        },
+        {
+            "text": "could you help me to check the status of my order?",
+            "intent": "track_order"
+        },
+        {
+            "text": "I was just wondering how to change so my bills get mailed to our house instead of email",
+            "intent": "info_paperless_docs_stop"
+        },
+        {
+            "text": "Trial offer on customisation",
+            "intent": "100_night_trial_offer"
+        },
+        {
+            "text": "Hello I have a question Do you offer compcollision on a vehicle with a rebuilt title Looking to buy a new vehicle and wanted to verify",
+            "intent": "info_salvage_vehicle"
+        },
+        {
+            "text": "can you help me deleting the account?",
+            "intent": "delete_account"
+        },
+        {
+            "text": "show me yesterday's press release from trump",
+            "intent": "news_and_press"
+        },
+        {
+            "text": "what products would you suggest to lose weight?",
+            "intent": "recommend_product"
+        },
+        {
+            "text": "want support changing the shipping address",
+            "intent": "change_shipping_address"
+        },
+        {
+            "text": "Live agent",
+            "intent": "chat_with_agent"
+        },
+        {
+            "text": "where do I submit some feedback for your services?",
+            "intent": "review"
+        },
+        {
+            "text": "how to get my money back?",
+            "intent": "get_refund"
+        },
+        {
+            "text": "Im broken down on the side of the road can you tow me",
+            "intent": "info_ers_contact"
+        },
+        {
+            "text": "I don't know how I can add an item",
+            "intent": "change_order"
+        },
+        {
+            "text": "uare not helpful at all need help to speak with someody",
+            "intent": "contact_human_agent"
+        },
+        {
+            "text": "Instant Withdrawal",
+            "intent": "instant_withdrawal"
+        },
+        {
+            "text": "I have problems with canceling the order I have made",
+            "intent": "cancel_order"
+        },
+        {
+            "text": "Can you help me with something else",
+            "intent": "capabilities"
+        },
+        {
+            "text": "hello robot",
+            "intent": "hi"
+        },
+        {
+            "text": "I need help canceling my order",
+            "intent": "cancel_order"
+        },
+        {
+            "text": "I need to recover my password",
+            "intent": "recover_password"
+        },
+        {
+            "text": "can the virus spread by skin to skin interaction",
+            "intent": "how_does_corona_spread"
+        },
+        {
+            "text": "I want to speak with a human",
+            "intent": "chat_with_agent"
+        },
+        {
+            "text": "help me to check what options for delivery you offer",
+            "intent": "delivery_options"
+        },
+        {
+            "text": "return KnowYourDrive device",
+            "intent": "info_knowyourdrive_device_return"
+        },
+        {
+            "text": "i need assistance to update the user details",
+            "intent": "edit_account"
+        },
+        {
+            "text": "I want information about the delivery period",
+            "intent": "delivery_period"
+        },
+        {
+            "text": "I have got to report a registration issue",
+            "intent": "registration_problems"
+        },
+        {
+            "text": "can uhelp me to open an online account",
+            "intent": "create_account"
+        },
+        {
+            "text": "Good day",
+            "intent": "greetings_day"
+        },
+        {
+            "text": "assistance getting refunds of money",
+            "intent": "get_refund"
+        },
+        {
+            "text": "what do I have to do to speak to a fucking human agent?",
+            "intent": "contact_human_agent"
+        },
+        {
+            "text": "is pneumonia a symptom",
+            "intent": "what_are_symptoms"
+        },
+        {
+            "text": "can i get it from animals",
+            "intent": "can_i_get_from_feces_animal_pets"
+        },
+        {
+            "text": "Help needed",
+            "intent": "capabilities"
+        },
+        {
+            "text": "I need assistance to delete my account",
+            "intent": "delete_account"
+        },
+        {
+            "text": "Good Morning",
+            "intent": "greetings_day"
+        },
+        {
+            "text": "I need assistance listing your accepted payment methods",
+            "intent": "check_payment_methods"
+        },
+        {
+            "text": "I don't know what I need to do to delete the account",
+            "intent": "delete_account"
+        },
+        {
+            "text": "help with a shipping address change",
+            "intent": "change_shipping_address"
+        },
+        {
+            "text": "I want a diet chart prepared for me",
+            "intent": "consult_start"
+        },
+        {
+            "text": "help me set another shipping address up",
+            "intent": "set_up_shipping_address"
+        },
+        {
+            "text": "I want to add some items to an order",
+            "intent": "change_order"
+        },
+        {
+            "text": "Weight gainer",
+            "intent": "recommend_product"
+        },
+        {
+            "text": "how many different symptoms are there",
+            "intent": "what_are_symptoms"
+        },
+        {
+            "text": "where to check what payment methods are available?",
+            "intent": "check_payment_methods"
+        },
+        {
+            "text": "can medicine cure corona",
+            "intent": "what_are_treatment_options"
+        },
+        {
+            "text": "I need help leaving a review for your company",
+            "intent": "review"
+        },
+        {
+            "text": "check what payment options are allowed",
+            "intent": "check_payment_methods"
+        },
+        {
+            "text": "i just visited a high risk area should i get tested",
+            "intent": "what_if_i_visited_high_risk_area"
+        },
+        {
+            "text": "how can I see the early termination penalties?",
+            "intent": "check_cancellation_fee"
+        },
+        {
+            "text": "I do not know how I could report registration issues",
+            "intent": "registration_problems"
+        },
+        {
+            "text": "how do I get the invoice from seven purchases ago?",
+            "intent": "get_invoice"
+        },
+        {
+            "text": "does covid-19 stay on bed sheets",
+            "intent": "can_i_get_from_packages_surfaces"
+        },
+        {
+            "text": "what do I need to do to check the cancellation fees?",
+            "intent": "check_cancellation_fee"
+        },
+        {
+            "text": "what time does the customer service department close",
+            "intent": "info_customer_service_hours"
+        },
+        {
+            "text": "i think i have the flu",
+            "intent": "what_are_symptoms"
+        },
+        {
+            "text": "Show my deposit status",
+            "intent": "check_deposit_status"
+        },
+        {
+            "text": "could I check in what cases can I ask to be refunded?",
+            "intent": "check_refund_policy"
+        },
+        {
+            "text": "I want to unsubscribe from your newsletter I need help",
+            "intent": "newsletter_subscription"
+        },
+        {
+            "text": "could ya help me to speak to a live agent",
+            "intent": "contact_human_agent"
+        },
+        {
+            "text": "would it be possible to contact customer service?",
+            "intent": "contact_customer_service"
+        },
+        {
+            "text": "would it be possible to track my order?",
+            "intent": "track_order"
+        },
+        {
+            "text": "in what ways can i protect my children",
+            "intent": "protect_yourself"
+        },
+        {
+            "text": "can i get a report on what is the corona",
+            "intent": "what_is_corona"
+        },
+        {
+            "text": "Winnings",
+            "intent": "winnings"
+        },
+        {
+            "text": "I need urgent assistance",
+            "intent": "chat_with_agent"
+        },
+        {
+            "text": "I don't know how to take a quick look at my invoices",
+            "intent": "check_invoice"
+        },
+        {
+            "text": "ya have a free phone number to talk to customer assistance",
+            "intent": "contact_customer_service"
+        },
+        {
+            "text": "how can I lodge a complaint?",
+            "intent": "complaint"
+        },
+        {
+            "text": "what are the symptoms",
+            "intent": "what_are_symptoms"
+        },
+        {
+            "text": "help to check your refund policy",
+            "intent": "check_refund_policy"
+        },
+        {
+            "text": "where can I get information about canceling orders?",
+            "intent": "cancel_order"
+        },
+        {
+            "text": "could I check if there is anything wrong with my refund?",
+            "intent": "track_refund"
+        },
+        {
+            "text": "can I make a complaint against your business?",
+            "intent": "complaint"
+        },
+        {
+            "text": "make a donation to dallas' fundraiser for coronavirus",
+            "intent": "donate"
+        },
+        {
+            "text": "I don't want the last order I made",
+            "intent": "cancel_order"
+        },
+        {
+            "text": "I need assistance to check the cancellation fee",
+            "intent": "check_cancellation_fee"
+        },
+        {
+            "text": "i have got to make a reclamation against ur commpany",
+            "intent": "complaint"
+        },
+        {
+            "text": "can covid19 stay on handle bars",
+            "intent": "can_i_get_from_packages_surfaces"
+        },
+        {
+            "text": "can I pay cash later",
+            "intent": "order_taking"
+        },
+        {
+            "text": "could you help me submit some feedback?",
+            "intent": "review"
+        },
+        {
+            "text": "I am Heidi from Stillwater Motors Body Shop I am looking to see if we can start on claim for Charlotte Simonson",
+            "intent": "info_cl_drp_assign"
+        },
+        {
+            "text": "give me more info on covid-19",
+            "intent": "what_is_corona"
+        },
+        {
+            "text": "find information about order cancelations",
+            "intent": "cancel_order"
+        },
+        {
+            "text": "I made a payment yesterday When will it come out of the bank",
+            "intent": "info_pymt_time"
+        },
+        {
+            "text": "I want assistance setting up a new shipping address",
+            "intent": "set_up_shipping_address"
+        },
+        {
+            "text": "I have got to check my refund status",
+            "intent": "track_refund"
+        },
+        {
+            "text": "I can't find the termination charges",
+            "intent": "check_cancellation_fee"
+        },
+        {
+            "text": "hail damaged my car need to file a claim",
+            "intent": "info_cl_fnol_auto_hail"
+        },
+        {
+            "text": "Authenticated",
+            "intent": "original_product"
+        },
+        {
+            "text": "could you help me to get my money back?",
+            "intent": "get_refund"
+        },
+        {
+            "text": "Did not receive my sign up amount",
+            "intent": "chat_with_an_agent"
+        },
+        {
+            "text": "I would like to check what delivery options I can choose",
+            "intent": "delivery_options"
+        },
+        {
+            "text": "okay will do",
+            "intent": "st_thank_you"
+        },
+        {
+            "text": "how can I get my money back?",
+            "intent": "get_refund"
+        },
+        {
+            "text": "I demand a refund",
+            "intent": "get_refund"
+        },
+        {
+            "text": "does wearing gloves help me stay safe from covid-19",
+            "intent": "protect_yourself"
+        },
+        {
+            "text": "We have a car in our shop Can you authorize repairs for claim",
+            "intent": "info_cl_drp_assign"
+        },
+        {
+            "text": "can you help me setting another shipping address up?",
+            "intent": "set_up_shipping_address"
+        },
+        {
+            "text": "What number do I call for a tow company",
+            "intent": "info_ers_contact"
+        },
+        {
+            "text": "I have a problem with removing several items",
+            "intent": "change_order"
+        },
+        {
+            "text": "I need help to chat with an agent",
+            "intent": "contact_human_agent"
+        },
+        {
+            "text": "what do i need to do to use a different account",
+            "intent": "switch_account"
+        },
+        {
+            "text": "can the virus be on doors",
+            "intent": "can_i_get_from_packages_surfaces"
+        },
+        {
+            "text": "how can I change the shipping address?",
+            "intent": "change_shipping_address"
+        },
+        {
+            "text": "thanks doc",
+            "intent": "okay_thanks"
+        },
+        {
+            "text": "I do not know how to leave a review for your company",
+            "intent": "review"
+        },
+        {
+            "text": "I have to submit some feedback for your company",
+            "intent": "review"
+        },
+        {
+            "text": "help me checking what payment methods are available",
+            "intent": "check_payment_methods"
+        },
+        {
+            "text": "how do I edit my account?",
+            "intent": "edit_account"
+        },
+        {
+            "text": "where to track an order?",
+            "intent": "track_order"
+        },
+        {
+            "text": "did they spread corona on purpose",
+            "intent": "myths"
+        },
+        {
+            "text": "can i get covid-19 from insects",
+            "intent": "how_does_corona_spread"
+        },
+        {
+            "text": "I need to get my windshield fixed A dumptruck kicked up a rock and chipped it",
+            "intent": "info_cl_glass_safelite"
+        },
+        {
+            "text": "do cat scratches contain the virus",
+            "intent": "can_i_get_from_feces_animal_pets"
+        },
+        {
+            "text": "Length",
+            "intent": "what_size_to_order"
+        },
+        {
+            "text": "I need to set a different shipping address up",
+            "intent": "set_up_shipping_address"
+        },
+        {
+            "text": "corona myths",
+            "intent": "myths"
+        },
+        {
+            "text": "appreciate the help doc",
+            "intent": "okay_thanks"
+        },
+        {
+            "text": "help to use another account",
+            "intent": "switch_account"
+        },
+        {
+            "text": "help reporting payment issues",
+            "intent": "payment_issue"
+        },
+        {
+            "text": "can you help me check the invoices from 9 months ago?",
+            "intent": "check_invoice"
+        },
+        {
+            "text": "would it be possible to get a refund?",
+            "intent": "get_refund"
+        },
+        {
+            "text": "how to join your home repair program",
+            "intent": "info_cl_hrp_join"
+        },
+        {
+            "text": "what's the most dangerous material",
+            "intent": "can_i_get_from_packages_surfaces"
+        },
+        {
+            "text": "Does ATV insurance cover my trailer",
+            "intent": "info_atv_ins_explan"
+        },
+        {
+            "text": "I have problems with cancelling an order",
+            "intent": "cancel_order"
+        },
+        {
+            "text": "can you help me to check how soon can I expect the delivery?",
+            "intent": "delivery_period"
+        },
+        {
+            "text": "My Refund",
+            "intent": "refunds_returns_replacements"
+        },
+        {
+            "text": "I have problems with the delivery options",
+            "intent": "delivery_options"
+        },
+        {
+            "text": "cancle online billing",
+            "intent": "info_paperless_docs_stop"
+        },
+        {
+            "text": "can you tell me what payment options are accepted?",
+            "intent": "check_payment_methods"
+        },
+        {
+            "text": "I want to check in what cases can I ask for a refund",
+            "intent": "check_refund_policy"
+        },
+        {
+            "text": "Why is my amount not credited",
+            "intent": "winnings"
+        },
+        {
+            "text": "PJ can you please help me get this policy started",
+            "intent": "info_ast_purchase"
+        },
+        {
+            "text": "I want help to check when my item is going to arrive",
+            "intent": "delivery_period"
+        },
+        {
+            "text": "I need assistance solving payment issues",
+            "intent": "payment_issue"
+        },
+        {
+            "text": "I want help to solve issues with payments",
+            "intent": "payment_issue"
+        },
+        {
+            "text": "assistance editing my account",
+            "intent": "edit_account"
+        },
+        {
+            "text": "tell me your allowed payment methods",
+            "intent": "check_payment_methods"
+        },
+        {
+            "text": "I can't see my withdrawal",
+            "intent": "chat_with_an_agent"
+        },
+        {
+            "text": "i need assistance changing to a different user account",
+            "intent": "switch_account"
+        },
+        {
+            "text": "how can i donate",
+            "intent": "donate"
+        },
+        {
+            "text": "Do you have a charitable foundation",
+            "intent": "info_dreams_foundation"
+        },
+        {
+            "text": "help to see the termination penalties",
+            "intent": "check_cancellation_fee"
+        },
+        {
+            "text": "total recoveries from covid",
+            "intent": "latest_numbers"
+        },
+        {
+            "text": "I need assistance reporting an issue with payments",
+            "intent": "payment_issue"
+        },
+        {
+            "text": "How to order",
+            "intent": "lead_gen"
+        },
+        {
+            "text": "i no longer want my secondary acount i have to close it",
+            "intent": "delete_account"
+        },
+        {
+            "text": "what animals carry corona",
+            "intent": "can_i_get_from_feces_animal_pets"
+        },
+        {
+            "text": "your refund policy",
+            "intent": "check_refund_policy"
+        },
+        {
+            "text": "I call to get the invoices from March",
+            "intent": "get_invoice"
+        },
+        {
+            "text": "could you share more information about corona",
+            "intent": "what_is_corona"
+        },
+        {
+            "text": "My deposit is not there",
+            "intent": "chat_with_an_agent"
+        },
+        {
+            "text": "i need help retrieving my user account pin",
+            "intent": "recover_password"
+        },
+        {
+            "text": "How do I start my KnowYourDrive Program My auto insurance started yesterday",
+            "intent": "info_knowyourdrive"
+        },
+        {
+            "text": "I have to delete an account",
+            "intent": "delete_account"
+        },
+        {
+            "text": "I can't check the status of my order",
+            "intent": "track_order"
+        },
+        {
+            "text": "I have problems with canceling the last order I have made",
+            "intent": "cancel_order"
+        },
+        {
+            "text": "help to solve an issue with payment",
+            "intent": "payment_issue"
+        },
+        {
+            "text": "I want help to speak with a live agent",
+            "intent": "contact_human_agent"
+        },
+        {
+            "text": "I want help to create an account",
+            "intent": "create_account"
+        },
+        {
+            "text": "I don't know how I could get a refund of money",
+            "intent": "get_refund"
+        },
+        {
+            "text": "Winnings amount not credited",
+            "intent": "winnings"
+        },
+        {
+            "text": "I need assistance checking the invoice from four months ago",
+            "intent": "check_invoice"
+        },
+        {
+            "text": "good morning doctor corona",
+            "intent": "hi"
+        },
+        {
+            "text": "can i use paper billing instead of online billing",
+            "intent": "info_paperless_docs_stop"
+        },
+        {
+            "text": " What size to order?",
+            "intent": "what_size_to_order"
+        },
+        {
+            "text": "can the virus travel by touching door knobs",
+            "intent": "how_does_corona_spread"
+        },
+        {
+            "text": "can you help me switch user?",
+            "intent": "switch_account"
+        },
+        {
+            "text": "I am trying to check the delivery options",
+            "intent": "delivery_options"
+        },
+        {
+            "text": "question about cancelling my last order",
+            "intent": "cancel_order"
+        },
+        {
+            "text": "can cloth mask be a carrier of virus",
+            "intent": "can_i_get_from_packages_surfaces"
+        },
+        {
+            "text": "could you tell me what hours I can contact customer service?",
+            "intent": "contact_customer_service"
+        },
+        {
+            "text": "Who can I talk to about getting a donation from the Dreams Foundation",
+            "intent": "info_dreams_foundation"
+        },
+        {
+            "text": "this report is so good to publish",
+            "intent": "share"
+        },
+        {
+            "text": "can i get infected with covid through indirect contact",
+            "intent": "how_does_corona_spread"
+        },
+        {
+            "text": "What situations does collision coverage apply",
+            "intent": "info_coll_cov_explan"
+        },
+        {
+            "text": "I am from Abra Auto body Glass in AlgonquinIL I need to check payment status on a few customers",
+            "intent": "info_cl_check_status"
+        },
+        {
+            "text": "issues setting up a different shipping address",
+            "intent": "set_up_shipping_address"
+        },
+        {
+            "text": "how to protect myself in high risk areas",
+            "intent": "what_if_i_visited_high_risk_area"
+        },
+        {
+            "text": "can  i call customer assistance",
+            "intent": "contact_customer_service"
+        },
+        {
+            "text": "where can I submit some feedback?",
+            "intent": "review"
+        },
+        {
+            "text": "gimme the daily corona update",
+            "intent": "news_and_press"
+        },
+        {
+            "text": "help setting a new shipping address up",
+            "intent": "set_up_shipping_address"
+        },
+        {
+            "text": "what surface will have virus for the longest time",
+            "intent": "can_i_get_from_packages_surfaces"
+        },
+        {
+            "text": "how could I find information about the delivery periods?",
+            "intent": "delivery_period"
+        },
+        {
+            "text": "file claim for hail damage to car",
+            "intent": "info_cl_fnol_auto_hail"
+        },
+        {
+            "text": "Can I rent a car until my claim is processed",
+            "intent": "info_cl_rental"
+        },
+        {
+            "text": "help me checking at what time customer service available is",
+            "intent": "contact_customer_service"
+        },
+        {
+            "text": "can you tell me about updating the address?",
+            "intent": "change_shipping_address"
+        },
+        {
+            "text": "What number should I call The General with",
+            "intent": "info_the_general_contact"
+        },
+        {
+            "text": "any news on coronavirus from today",
+            "intent": "news_and_press"
+        },
+        {
+            "text": "help me checking what options for delivery I can choose",
+            "intent": "delivery_options"
+        },
+        {
+            "text": "how to check what hours I can contact customer service?",
+            "intent": "contact_customer_service"
+        },
+        {
+            "text": "help to solve issues with payments",
+            "intent": "payment_issue"
+        },
+        {
+            "text": "How do I become a preferred contractor with American Family",
+            "intent": "info_cl_hrp_join"
+        },
+        {
+            "text": "I don't know how  to inform of sign-up errors",
+            "intent": "registration_problems"
+        },
+        {
+            "text": "give me information about the cancellation of an account",
+            "intent": "delete_account"
+        },
+        {
+            "text": "anything new about new york",
+            "intent": "news_and_press"
+        },
+        {
+            "text": "I try to check the eazrly termination penalty",
+            "intent": "check_cancellation_fee"
+        },
+        {
+            "text": "help with canceling the order I made",
+            "intent": "cancel_order"
+        },
+        {
+            "text": "help me to submit some feedback",
+            "intent": "review"
+        },
+        {
+            "text": "checking invoices from three months ago",
+            "intent": "check_invoice"
+        },
+        {
+            "text": "I JUST NEEDED TO SEE WHO MY INSURANCE AGENT IS",
+            "intent": "info_who_is_my_agent"
+        },
+        {
+            "text": "can you explain in more detail about covid",
+            "intent": "what_is_corona"
+        },
+        {
+            "text": "direct repair program",
+            "intent": "info_cl_drp_join"
+        },
+        {
+            "text": "i do not know what to do to correct the info on my profile",
+            "intent": "edit_account"
+        },
+        {
+            "text": "Contact Details",
+            "intent": "contact_number"
+        },
+        {
+            "text": "I am setting up auto payments and it gives me the choice of minimum due or account balance am I to assume minimum due is the monthly amount",
+            "intent": "info_auto_pymt_min_balance"
+        },
+        {
+            "text": "Why am I receiving errors when I access my DreamKeep rewards",
+            "intent": "info_dreamkeep_rewards_errors"
+        },
+        {
+            "text": "Tax deduction",
+            "intent": "taxes_on_winnings"
+        },
+        {
+            "text": "Please send my bill in the mail from now on",
+            "intent": "info_paperless_docs_stop"
+        },
+        {
+            "text": "Withdrawal amount not received",
+            "intent": "withdrawal_time"
+        },
+        {
+            "text": "could you show me what options for delivery I have?",
+            "intent": "delivery_options"
+        },
+        {
+            "text": "I would like to check in what cases can I ask for a refund",
+            "intent": "check_refund_policy"
+        },
+        {
+            "text": "I want to chat with somebody",
+            "intent": "contact_human_agent"
+        },
+        {
+            "text": "I don't know how to buy something",
+            "intent": "place_order"
+        },
+        {
+            "text": "assistance checking the refund status",
+            "intent": "track_refund"
+        },
+        {
+            "text": "cancellation fee",
+            "intent": "check_cancellation_fee"
+        },
+        {
+            "text": "I want help deleting an account",
+            "intent": "delete_account"
+        },
+        {
+            "text": "i need assistance to switch to a different user profile",
+            "intent": "switch_account"
+        },
+        {
+            "text": "I cannot reset my damn user account pwd",
+            "intent": "recover_password"
+        },
+        {
+            "text": "this is great how do i help you",
+            "intent": "donate"
+        },
+        {
+            "text": "i do not understand anything usay can uirect to me somebody",
+            "intent": "contact_human_agent"
+        },
+        {
+            "text": "are there any travel restrictions in spain",
+            "intent": "what_if_i_visited_high_risk_area"
+        },
+        {
+            "text": "i have a reference mwlg foe a quote i tried getting",
+            "intent": "info_ast_quote"
+        },
+        {
+            "text": "I want assistance to talk to customer service",
+            "intent": "contact_customer_service"
+        },
+        {
+            "text": "Can I buy renters ins through chat",
+            "intent": "info_get_a_quote_renters_purchase"
+        },
+        {
+            "text": "help me remove an item from an order",
+            "intent": "change_order"
+        },
+        {
+            "text": "I need assistance switching user",
+            "intent": "switch_account"
+        },
+        {
+            "text": "I need assistance to set a different shipping address up",
+            "intent": "set_up_shipping_address"
+        },
+        {
+            "text": "Want to know the discount ",
+            "intent": "offers"
+        },
+        {
+            "text": "could you help me get the invoice from September?",
+            "intent": "get_invoice"
+        },
+        {
+            "text": "check the invoice from 9 months ago",
+            "intent": "check_invoice"
+        },
+        {
+            "text": "assistance deleting my account",
+            "intent": "delete_account"
+        },
+        {
+            "text": "is it okay to travel to alaska",
+            "intent": "travel"
+        },
+        {
+            "text": "how could I cancel the last order I have made?",
+            "intent": "cancel_order"
+        },
+        {
+            "text": "could you help me to solve an issue with payment?",
+            "intent": "payment_issue"
+        },
+        {
+            "text": "could I set a different shipping address up?",
+            "intent": "set_up_shipping_address"
+        },
+        {
+            "text": "I'm unhappy with ur work assistance filing a bloody claim",
+            "intent": "complaint"
+        },
+        {
+            "text": "can you let me know exact delivery time",
+            "intent": "resume_delivery"
+        },
+        {
+            "text": "I want help to buy something",
+            "intent": "place_order"
+        },
+        {
+            "text": "can you help me cancel my last order?",
+            "intent": "cancel_order"
+        },
+        {
+            "text": "what are the high risk areas nearby",
+            "intent": "what_if_i_visited_high_risk_area"
+        },
+        {
+            "text": "How to solve tie issue",
+            "intent": "what_if_theres_a_tie"
+        },
+        {
+            "text": "I don't know how I could check the options for delivery",
+            "intent": "delivery_options"
+        },
+        {
+            "text": "Can I place Cash on delivery order",
+            "intent": "order_taking"
+        },
+        {
+            "text": "can you help me to buy a few of your item?",
+            "intent": "place_order"
+        },
+        {
+            "text": "I don't know how I can make a customer claim",
+            "intent": "complaint"
+        },
+        {
+            "text": "Whats so important about an American Star designation",
+            "intent": "info_american_star"
+        },
+        {
+            "text": "I can't change my shipping address",
+            "intent": "change_shipping_address"
+        },
+        {
+            "text": "want to verify someone actually works for American Family insurance",
+            "intent": "info_employment_verify"
+        },
+        {
+            "text": "how long with travel bans be in effect",
+            "intent": "travel"
+        },
+        {
+            "text": "Why should I work with an American star agent",
+            "intent": "info_american_star"
+        },
+        {
+            "text": "I am trying to edit my personal information",
+            "intent": "edit_account"
+        },
+        {
+            "text": "I want help listing your accepted payment methods",
+            "intent": "check_payment_methods"
+        },
+        {
+            "text": "use another account",
+            "intent": "switch_account"
+        },
+        {
+            "text": "I am trying to submit some feedback for your company",
+            "intent": "review"
+        },
+        {
+            "text": "I have to find the invoice from my last purchase",
+            "intent": "check_invoice"
+        },
+        {
+            "text": "share this report",
+            "intent": "share"
+        },
+        {
+            "text": "I want assistance to talk to a human agent",
+            "intent": "contact_human_agent"
+        },
+        {
+            "text": "how to switch user?",
+            "intent": "switch_account"
+        },
+        {
+            "text": "is the hospital considered a high risk area",
+            "intent": "what_if_i_visited_high_risk_area"
+        },
+        {
+            "text": "can i use my new fucking account",
+            "intent": "switch_account"
+        },
+        {
+            "text": "where to check the status of my order?",
+            "intent": "track_order"
+        },
+        {
+            "text": "could you tell me more about the options for delivery?",
+            "intent": "delivery_options"
+        },
+        {
+            "text": "check options for delivery",
+            "intent": "delivery_options"
+        },
+        {
+            "text": "are there any news about coronavirus in my area",
+            "intent": "news_and_press"
+        },
+        {
+            "text": "i am helping someone who is sick by walking their dog. how do i stay safe",
+            "intent": "can_i_get_from_feces_animal_pets"
+        },
+        {
+            "text": "cool thanks",
+            "intent": "okay_thanks"
+        },
+        {
+            "text": "I am trying to find information about a forgotten password",
+            "intent": "recover_password"
+        },
+        {
+            "text": "I need help to edit my personal information",
+            "intent": "edit_account"
+        },
+        {
+            "text": "Products",
+            "intent": "product_variants"
+        },
+        {
+            "text": "covid-19 fox news liberal hoax myth",
+            "intent": "myths"
+        },
+        {
+            "text": "could you help me to set up another shipping address?",
+            "intent": "set_up_shipping_address"
+        },
+        {
+            "text": "will you give me information about forgotten passwords?",
+            "intent": "recover_password"
+        },
+        {
+            "text": "thnx bro",
+            "intent": "okay_thanks"
+        },
+        {
+            "text": "new updates from new york",
+            "intent": "news_and_press"
+        },
+        {
+            "text": "I screwed up and mislabeled my billing account names How do I fix them",
+            "intent": "info_billing_acct_name_edit"
+        },
+        {
+            "text": "myth about half the population dying from covid 19",
+            "intent": "myths"
+        },
+        {
+            "text": "Is there a way to print insurancecards online",
+            "intent": "info_ins_card_print"
+        },
+        {
+            "text": "i do not understand a word ya say speak with an agent",
+            "intent": "contact_human_agent"
+        },
+        {
+            "text": "How on earth does one figure out how to get the darn system to start sending me paper bills again",
+            "intent": "info_paperless_docs_stop"
+        },
+        {
+            "text": "I want help to track an order",
+            "intent": "track_order"
+        },
+        {
+            "text": "I need assistance to check what payment methods you accept",
+            "intent": "check_payment_methods"
+        },
+        {
+            "text": "reporting issue with payments",
+            "intent": "payment_issue"
+        },
+        {
+            "text": "tell me about corona virus",
+            "intent": "what_is_corona"
+        },
+        {
+            "text": "Please send me paper billing",
+            "intent": "info_paperless_docs_stop"
+        },
+        {
+            "text": "I want assistance to get the invoices",
+            "intent": "get_invoice"
+        },
+        {
+            "text": "I try to find my invoices",
+            "intent": "check_invoice"
+        },
+        {
+            "text": "I made a payment yesterday When will it show in my account",
+            "intent": "info_pymt_time"
+        },
+        {
+            "text": "I have a question about changing my orders",
+            "intent": "change_order"
+        },
+        {
+            "text": "help me filing a complaint",
+            "intent": "complaint"
+        },
+        {
+            "text": "I can't see my transaction",
+            "intent": "chat_with_an_agent"
+        },
+        {
+            "text": "I wang assistance to get in touch with customer service",
+            "intent": "contact_customer_service"
+        },
+        {
+            "text": "I would like to know the process on how to change agents",
+            "intent": "info_change_agent"
+        },
+        {
+            "text": "Mattress cost",
+            "intent": "mattress_cost"
+        },
+        {
+            "text": "I have a sort of general question that Im hoping you can assist",
+            "intent": "st_general_request"
+        },
+        {
+            "text": "I need some product suggestion depending on my health goal",
+            "intent": "recommend_product"
+        },
+        {
+            "text": "i want assistance to sign up to ur company newsletter",
+            "intent": "newsletter_subscription"
+        },
+        {
+            "text": "will you show me the status of my refund?",
+            "intent": "track_refund"
+        },
+        {
+            "text": "would you give me information about delivery periods?",
+            "intent": "delivery_period"
+        },
+        {
+            "text": "assistance canceling the order I have made",
+            "intent": "cancel_order"
+        },
+        {
+            "text": "I have problems with a forgotten password",
+            "intent": "recover_password"
+        },
+        {
+            "text": "where to subscribe to your company newsletter?",
+            "intent": "newsletter_subscription"
+        },
+        {
+            "text": "information about the delivery options",
+            "intent": "delivery_options"
+        },
+        {
+            "text": "can you help me to sign up to your company newsletter?",
+            "intent": "newsletter_subscription"
+        },
+        {
+            "text": "I would like to get a quote on renters insurance",
+            "intent": "info_get_a_quote_renters"
+        },
+        {
+            "text": "help me canceling the last order I have made",
+            "intent": "cancel_order"
+        },
+        {
+            "text": "is lysol the best option to clean surfaces",
+            "intent": "can_i_get_from_packages_surfaces"
+        },
+        {
+            "text": "which bag to use for groceries",
+            "intent": "can_i_get_from_packages_surfaces"
+        },
+        {
+            "text": "is my dog immune to covid 19",
+            "intent": "can_i_get_from_feces_animal_pets"
+        },
+        {
+            "text": "I want help to report payment issues",
+            "intent": "payment_issue"
+        },
+        {
+            "text": "can i donate to hospitals near me",
+            "intent": "donate"
+        },
+        {
+            "text": "I'm not happy with ur services i try to lodge an claim",
+            "intent": "complaint"
+        },
+        {
+            "text": "covid myths",
+            "intent": "myths"
+        },
+        {
+            "text": "I do not know what to do to buy several items",
+            "intent": "place_order"
+        },
+        {
+            "text": "I have back pain issue",
+            "intent": "ortho_features"
+        },
+        {
+            "text": "help to file an customer claim against your organization",
+            "intent": "complaint"
+        },
+        {
+            "text": "I have to check the options for delivery",
+            "intent": "delivery_options"
+        },
+        {
+            "text": "where do I submit some feedback for a service?",
+            "intent": "review"
+        },
+        {
+            "text": "are body aches symptoms",
+            "intent": "what_are_symptoms"
+        },
+        {
+            "text": "Send me proof of insurance",
+            "intent": "info_ins_card_send"
+        },
+        {
+            "text": "How can I start getting bills in the mail again",
+            "intent": "info_paperless_docs_stop"
+        },
+        {
+            "text": "BCAA",
+            "intent": "recommend_product"
+        },
+        {
+            "text": "Denver collision repair shop needing approval for supplemental repair work for claim",
+            "intent": "info_cl_shop_add_work"
+        },
+        {
+            "text": "Offers and Referrals",
+            "intent": "offers_and_referrals"
+        },
+        {
+            "text": "I have got to check how long refunds usually take",
+            "intent": "check_refund_policy"
+        },
+        {
+            "text": "I need help trying to change my shipping address",
+            "intent": "change_shipping_address"
+        },
+        {
+            "text": "thanks for checking that up doctor bot",
+            "intent": "okay_thanks"
+        },
+        {
+            "text": "We are trying to get ahold of someone who can assist us with updating the mortgagee clause and information we need for an existing policy through your Homesite Insurance Partnership",
+            "intent": "info_homesite_contact"
+        },
+        {
+            "text": "are there cancellation fees?",
+            "intent": "check_cancellation_fee"
+        },
+        {
+            "text": "can you help me report registration issues?",
+            "intent": "registration_problems"
+        },
+        {
+            "text": "help me to cancel an order I have made",
+            "intent": "cancel_order"
+        },
+        {
+            "text": "I am facing issue connect to agent",
+            "intent": "chat_with_an_agent"
+        },
+        {
+            "text": "I want help to open another accouint",
+            "intent": "create_account"
+        },
+        {
+            "text": "assistance canceling the company newsletter subscription",
+            "intent": "newsletter_subscription"
+        },
+        {
+            "text": "I don't know how to open a different account for my dad",
+            "intent": "create_account"
+        },
+        {
+            "text": "is plasma donation good to treat coronavirus",
+            "intent": "what_are_treatment_options"
+        },
+        {
+            "text": "get a different agent",
+            "intent": "info_change_agent"
+        },
+        {
+            "text": "great info thanks doctor bot",
+            "intent": "okay_thanks"
+        },
+        {
+            "text": "can you help me take a quick look at the invoices from May?",
+            "intent": "check_invoice"
+        },
+        {
+            "text": "should i avoid touching my face",
+            "intent": "protect_yourself"
+        },
+        {
+            "text": "The agent I see isnt the right one",
+            "intent": "info_agent_wrong"
+        },
+        {
+            "text": "where do I switch to another account?",
+            "intent": "switch_account"
+        },
+        {
+            "text": "Ergo features",
+            "intent": "ergo_features"
+        },
+        {
+            "text": "thanks for helping",
+            "intent": "okay_thanks"
+        },
+        {
+            "text": "Id like my bills mailed from now on",
+            "intent": "info_paperless_docs_stop"
+        },
+        {
+            "text": "I'm looking for inforation about lost passwords help me",
+            "intent": "recover_password"
+        },
+        {
+            "text": "most recent news from south korea",
+            "intent": "news_and_press"
+        },
+        {
+            "text": "I am looking for information about forgotten passwords",
+            "intent": "recover_password"
+        },
+        {
+            "text": "I need help to add several items",
+            "intent": "change_order"
+        },
+        {
+            "text": "Hi Is there any way a copy of my proof of insurance for auto can be sent to my phone",
+            "intent": "info_ins_card_send"
+        },
+        {
+            "text": "Why do I have to pay a deductible",
+            "intent": "info_ded_explan"
+        },
+        {
+            "text": "is air travel safe yet",
+            "intent": "travel"
+        },
+        {
+            "text": "can you show me how soon can I expect the delivery?",
+            "intent": "delivery_period"
+        },
+        {
+            "text": "I want help solving an issue with payments",
+            "intent": "payment_issue"
+        },
+        {
+            "text": "assistance to check what payment methods are available",
+            "intent": "check_payment_methods"
+        },
+        {
+            "text": "i have a question about the termination of an account",
+            "intent": "delete_account"
+        },
+        {
+            "text": "order cancelation",
+            "intent": "cancel_order"
+        }
+    ]
+}

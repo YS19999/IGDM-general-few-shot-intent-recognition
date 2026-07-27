@@ -1,0 +1,140 @@
+{
+    "data": [
+        {
+            "text": "what types of meals are available",
+            "intent": "meal"
+        },
+        {
+            "text": "what type of aircraft are used on flights from cleveland to dallas that leave before noon",
+            "intent": "aircraft"
+        },
+        {
+            "text": "find me the cheapest one way fare i can get from boston to denver",
+            "intent": "airfare"
+        },
+        {
+            "text": "flight numbers on american airlines from phoenix to milwaukee",
+            "intent": "flight_no"
+        },
+        {
+            "text": "what flights are available friday afternoon from pittsburgh to san francisco",
+            "intent": "flight"
+        },
+        {
+            "text": "show me all the information about the flight from baltimore to dallas which is listed dl 1055 dl 405",
+            "intent": "flight"
+        },
+        {
+            "text": "is there a limousine service available from the pittsburgh airport",
+            "intent": "ground_service"
+        },
+        {
+            "text": "what are the rental car rates in san francisco",
+            "intent": "ground_fare"
+        },
+        {
+            "text": "what airlines go from atlanta to baltimore",
+            "intent": "airline"
+        },
+        {
+            "text": "what meals are served on american flight 665 673 from milwaukee to seattle",
+            "intent": "meal"
+        },
+        {
+            "text": "how many airlines have flights with service class yn",
+            "intent": "quantity"
+        },
+        {
+            "text": "how many cities are served by lufthansa with first class flights",
+            "intent": "quantity"
+        },
+        {
+            "text": "what 's restriction ap68",
+            "intent": "restriction"
+        },
+        {
+            "text": "what kind of aircraft does delta use before 8 am on august second from boston to denver",
+            "intent": "aircraft"
+        },
+        {
+            "text": "what time is the last flight from washington to san francisco",
+            "intent": "flight_time"
+        },
+        {
+            "text": "how many seats in a 100",
+            "intent": "capacity"
+        },
+        {
+            "text": "where is general mitchell international located",
+            "intent": "city"
+        },
+        {
+            "text": "how many people fit on a 72s airplane",
+            "intent": "capacity"
+        },
+        {
+            "text": "i would like information on ground transportation in atlanta from the airport to the city in the morning around 9 am",
+            "intent": "ground_service"
+        },
+        {
+            "text": "what are the schedule of flights from boston to san francisco for august first",
+            "intent": "flight_time"
+        },
+        {
+            "text": "how expensive is the san francisco limousine service",
+            "intent": "ground_fare"
+        },
+        {
+            "text": "what city is mco",
+            "intent": "city"
+        },
+        {
+            "text": "what is the flight number of the earliest flight between boston and washington dc",
+            "intent": "flight_no"
+        },
+        {
+            "text": "show me airports near washington dc",
+            "intent": "airport"
+        },
+        {
+            "text": "what airline is as",
+            "intent": "airline"
+        },
+        {
+            "text": "how far is oakland airport from downtown",
+            "intent": "distance"
+        },
+        {
+            "text": "what is a d9s",
+            "intent": "abbreviation"
+        },
+        {
+            "text": "what is the price of american airlines flight 19 from new york to los angeles",
+            "intent": "airfare"
+        },
+        {
+            "text": "what is restriction ap57",
+            "intent": "restriction"
+        },
+        {
+            "text": "where do the flights from boston to oakland stop",
+            "intent": "airport"
+        },
+        {
+            "text": "all flights and fares from pittsburgh to dallas round trip after 12 pm less than 1100 dollars",
+            "intent": "flight_airfare"
+        },
+        {
+            "text": "i need a round trip from phoenix to washington dc and the fare leaving in the morning",
+            "intent": "flight_airfare"
+        },
+        {
+            "text": "how long is the flight from atlanta to san francisco at noon on november seventh",
+            "intent": "distance"
+        },
+        {
+            "text": "what does ord mean",
+            "intent": "abbreviation"
+        }
+    ]
+}

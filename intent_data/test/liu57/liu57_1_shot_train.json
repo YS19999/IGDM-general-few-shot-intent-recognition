@@ -1,0 +1,220 @@
+{
+    "data": [
+        {
+            "text": "hey siri what's the time",
+            "intent": "query"
+        },
+        {
+            "text": "Will you dim all the lights.",
+            "intent": "hue_lightdim"
+        },
+        {
+            "text": "Crockpot recipe for chicken alfredo",
+            "intent": "recipe"
+        },
+        {
+            "text": "Please brighten the lights",
+            "intent": "hue_lightup"
+        },
+        {
+            "text": "no i think you did this all in wrong manner.",
+            "intent": "negate"
+        },
+        {
+            "text": "I cup of Joe would be nice right now Olly",
+            "intent": "coffee"
+        },
+        {
+            "text": "Overhead lights on please.",
+            "intent": "hue_lighton"
+        },
+        {
+            "text": "I need a gold class ticket on train no XXX using my credit card",
+            "intent": "ticket"
+        },
+        {
+            "text": "what playlists do you have for pop music",
+            "intent": "music"
+        },
+        {
+            "text": "Is there any new jobs are relate to my qualifications",
+            "intent": "quirky"
+        },
+        {
+            "text": "What kind of shops are near my locality?",
+            "intent": "locations"
+        },
+        {
+            "text": "Where is volume setting",
+            "intent": "volume_other"
+        },
+        {
+            "text": "How long will it take to get home?",
+            "intent": "traffic"
+        },
+        {
+            "text": "What's going on",
+            "intent": "events"
+        },
+        {
+            "text": "Give me options for Indian carryout under 30.",
+            "intent": "order"
+        },
+        {
+            "text": "what's up olly",
+            "intent": "greet"
+        },
+        {
+            "text": "Remind me to call mom every Tuesday at 10 AM.",
+            "intent": "set"
+        },
+        {
+            "text": "Who is the contact that last called me.",
+            "intent": "querycontact"
+        },
+        {
+            "text": "Video Games",
+            "intent": "game"
+        },
+        {
+            "text": "PDA I like electronic music",
+            "intent": "likeness"
+        },
+        {
+            "text": "set to mute",
+            "intent": "volume_mute"
+        },
+        {
+            "text": "Add pick up kids from school to my to-do list for today",
+            "intent": "createoradd"
+        },
+        {
+            "text": "check the details.",
+            "intent": "confirm"
+        },
+        {
+            "text": "What does insert mean ?",
+            "intent": "definition"
+        },
+        {
+            "text": "Music change",
+            "intent": "settings"
+        },
+        {
+            "text": "Change the station to 82.4",
+            "intent": "radio"
+        },
+        {
+            "text": "Can you open the reply box?",
+            "intent": "sendemail"
+        },
+        {
+            "text": "Find an uber driver available for tonight after 10 pm.",
+            "intent": "taxi"
+        },
+        {
+            "text": "post pic on my phone on facebook alexa",
+            "intent": "post"
+        },
+        {
+            "text": "how is the stock for compaq doing?",
+            "intent": "stock"
+        },
+        {
+            "text": "Turn off the bedroom lamp",
+            "intent": "hue_lightoff"
+        },
+        {
+            "text": "Tell a joke that puts smile on my face",
+            "intent": "joke"
+        },
+        {
+            "text": "How do you activate the robot vacuum cleaner?",
+            "intent": "cleaning"
+        },
+        {
+            "text": "would not really mind.",
+            "intent": "dontcare"
+        },
+        {
+            "text": "what is the coldest place on earth",
+            "intent": "factoid"
+        },
+        {
+            "text": "please play back some important points summary.",
+            "intent": "audiobook"
+        },
+        {
+            "text": "olly will you shut up please.",
+            "intent": "commandstop"
+        },
+        {
+            "text": "Light color change",
+            "intent": "hue_lightchange"
+        },
+        {
+            "text": "I don't want to hear any more songs of that type",
+            "intent": "dislikeness"
+        },
+        {
+            "text": "you've done it right i appreciate it.",
+            "intent": "praise"
+        },
+        {
+            "text": "Olly can you convert my time zone to the timezone I'm currently in?",
+            "intent": "convert"
+        },
+        {
+            "text": "Play most recent podcast upload.",
+            "intent": "podcasts"
+        },
+        {
+            "text": "Turn wemo on",
+            "intent": "wemo_on"
+        },
+        {
+            "text": "shut down SPS smart plug socket",
+            "intent": "wemo_off"
+        },
+        {
+            "text": "i need to hear that sentence again.",
+            "intent": "repeat"
+        },
+        {
+            "text": "PDA Can u increase the volume of the speakers?",
+            "intent": "volume_up"
+        },
+        {
+            "text": "Clear my schedule for the month.",
+            "intent": "remove"
+        },
+        {
+            "text": "What is 4  5",
+            "intent": "maths"
+        },
+        {
+            "text": "s1 explain me more on what you have said.",
+            "intent": "explain"
+        },
+        {
+            "text": "the command was confirmed.",
+            "intent": "affirm"
+        },
+        {
+            "text": "What is the price of EUR To USD",
+            "intent": "currency"
+        },
+        {
+            "text": "Lower the speak volume",
+            "intent": "volume_down"
+        },
+        {
+            "text": "Can you add a new email to my contacts?",
+            "intent": "addcontact"
+        },
+        {
+            "text": "Find an Oscar nominee movie",
+            "intent": "movies"
+        }
+    ]
+}
