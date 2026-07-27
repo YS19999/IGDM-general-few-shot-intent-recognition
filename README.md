@@ -8,7 +8,7 @@ Feature distribution differences. Red points represent target datasets (ATIS, SN
 <p style="text-align: center;">
   <img src="https://github.com/YS19999/IGDM-general-few-shot-intent-recognition/blob/main/images/distribution_g_atis_page-0001.jpg" width="300" />
   <img src="https://github.com/YS19999/IGDM-general-few-shot-intent-recognition/blob/main/images/distribution_g_snips_page-0001.jpg" width="300" />
-  <img src="[image3.gif](https://github.com/YS19999/IGDM-general-few-shot-intent-recognition/blob/main/images/distribution_g_banking_page-0001.jpg)" width="300" />
+  <img src="https://github.com/YS19999/IGDM-general-few-shot-intent-recognition/blob/main/images/distribution_g_banking_page-0001.jpg" width="300" />
 </p>
 
 ## Framework
@@ -19,14 +19,14 @@ Feature distribution differences. Red points represent target datasets (ATIS, SN
 <p style="text-align: center;">
   <img src="https://github.com/YS19999/IGDM-general-few-shot-intent-recognition/blob/main/images/single_cosine_page-0001.jpg" width="300" />
   <img src="https://github.com/YS19999/IGDM-general-few-shot-intent-recognition/blob/main/images/single_jaccard_page-0001.jpg" width="300" />
-  <img src="[image3.gif](https://github.com/YS19999/IGDM-general-few-shot-intent-recognition/blob/main/images/single_level_page-0001.jpg)" width="300" />
+  <img src="https://github.com/YS19999/IGDM-general-few-shot-intent-recognition/blob/main/images/single_level_page-0001.jpg" width="300" />
 </p>
 
 ### Multi-label fuzzy matching
 <p style="text-align: center;">
   <img src="https://github.com/YS19999/IGDM-general-few-shot-intent-recognition/blob/main/images/multi_cosine_page-0001.jpg" width="300" />
   <img src="https://github.com/YS19999/IGDM-general-few-shot-intent-recognition/blob/main/images/multi_jaccard_page-0001.jpg" width="300" />
-  <img src="[image3.gif](https://github.com/YS19999/IGDM-general-few-shot-intent-recognition/blob/main/images/multi_level_page-0001.jpg)" width="300" />
+  <img src="https://github.com/YS19999/IGDM-general-few-shot-intent-recognition/blob/main/images/multi_level_page-0001.jpg" width="300" />
 </p>
 
 ### Cosine accuracy of new intent recognition
