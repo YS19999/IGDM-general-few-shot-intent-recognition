@@ -30,6 +30,7 @@ Feature distribution differences. Red points represent target datasets (ATIS, SN
 </p>
 
 ### Cosine accuracy of new intent recognition
+Left is IGDM, and Right is GenPINT.
 <p style="text-align: center;">
   <img src="https://github.com/YS19999/IGDM-general-few-shot-intent-recognition/blob/main/images/new_intent_igdm_page-0001.jpg" width="450" />
   <img src="https://github.com/YS19999/IGDM-general-few-shot-intent-recognition/blob/main/images/new_intent_genpint_page-0001.jpg" width="450" />
