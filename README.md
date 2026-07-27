@@ -5,11 +5,11 @@ Intent recognition captures the deep needs of users from natural language, and f
 
 ## Distributional Difference
 Feature distribution differences. Red points represent target datasets (ATIS, SNIPS, Bank77) and blue points represent general datasets (ACID, BCS, HINT3, MCID, XSID). The T-SNE tool is used to visualize the distribution deviation, and the convex hull contour is drawn and the contour line based on Gaussian kernel density estimation is added to describe the distribution boundary of the data more clearly. This significant distribution divergence poses a major challenge to generalization on new tasks.
-<p style="text-align: center;">
+<div align="center">
   <img src="https://github.com/YS19999/IGDM-general-few-shot-intent-recognition/blob/main/images/distribution_g_atis_page-0001.jpg" width="200" />
   <img src="https://github.com/YS19999/IGDM-general-few-shot-intent-recognition/blob/main/images/distribution_g_snips_page-0001.jpg" width="200" />
   <img src="https://github.com/YS19999/IGDM-general-few-shot-intent-recognition/blob/main/images/distribution_g_banking_page-0001.jpg" width="200" />
-</p>
+</div>
 
 ## Framework
 ![image](https://github.com/YS19999/IGDM-general-few-shot-intent-recognition/blob/main/images/method_page-0001.jpg)
