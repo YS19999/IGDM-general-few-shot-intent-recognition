@@ -1,0 +1,290 @@
+{
+    "data": [
+        {
+            "text": "i need to move the meeting i have in 3 minutes to half past 15 afternoon",
+            "intent": [
+                "change",
+                "appointment"
+            ]
+        },
+        {
+            "text": "does the gym have an exercise bike",
+            "intent": [
+                "request_info",
+                "gym"
+            ]
+        },
+        {
+            "text": "i cant make it to my restaurant booking at 2:10 night",
+            "intent": [
+                "cancel_close_leave_freeze",
+                "restaurant",
+                "booking"
+            ]
+        },
+        {
+            "text": "I was trying to top up my card but it was reverted",
+            "intent": [
+                "wrong_notworking_notshowing",
+                "card",
+                "transfer_payment_deposit"
+            ]
+        },
+        {
+            "text": "how long does a foot massage take?",
+            "intent": [
+                "how_long",
+                "spa"
+            ]
+        },
+        {
+            "text": "why am I paying less interests than last year",
+            "intent": [
+                "why",
+                "fees_interests",
+                "less_lower_before"
+            ]
+        },
+        {
+            "text": "I forgot my pin, can you help me?",
+            "intent": [
+                "pin",
+                "dont_know"
+            ]
+        },
+        {
+            "text": "late check-out",
+            "intent": [
+                "check_out",
+                "more_higher_after"
+            ]
+        },
+        {
+            "text": "Yes, it's about a cheque",
+            "intent": [
+                "cheque",
+                "affirm"
+            ]
+        },
+        {
+            "text": "No, you don't transfer me to operator",
+            "intent": [
+                "deny",
+                "handoff"
+            ]
+        },
+        {
+            "text": "That will be all, thank you",
+            "intent": [
+                "thank",
+                "end_call"
+            ]
+        },
+        {
+            "text": "when do i get it at home?",
+            "intent": [
+                "arrival",
+                "when"
+            ]
+        },
+        {
+            "text": "How do i look with my overdraft",
+            "intent": [
+                "how_much",
+                "overdraft"
+            ]
+        },
+        {
+            "text": "both balances please",
+            "intent": [
+                "balance"
+            ]
+        },
+        {
+            "text": "It's about an existing payee",
+            "intent": [
+                "existing"
+            ]
+        },
+        {
+            "text": "I want faster WiFi.",
+            "intent": [
+                "wifi"
+            ]
+        },
+        {
+            "text": "please send housekeeping",
+            "intent": [
+                "housekeeping"
+            ]
+        },
+        {
+            "text": "having a jacuzzi is definitely more than what I expected",
+            "intent": [
+                "room_ammenities"
+            ]
+        },
+        {
+            "text": "please say that one more time now",
+            "intent": [
+                "repeat"
+            ]
+        },
+        {
+            "text": "ok, the 18 July then",
+            "intent": [
+                "acknowledge"
+            ]
+        },
+        {
+            "text": "I need to leave my car at the hotel for 45 minutes.",
+            "intent": [
+                "parking"
+            ]
+        },
+        {
+            "text": "It's a savings one",
+            "intent": [
+                "savings"
+            ]
+        },
+        {
+            "text": "in another country",
+            "intent": [
+                "international"
+            ]
+        },
+        {
+            "text": "I want to order something",
+            "intent": [
+                "room_service"
+            ]
+        },
+        {
+            "text": "It is new",
+            "intent": [
+                "new"
+            ]
+        },
+        {
+            "text": "i think its the business one",
+            "intent": [
+                "business"
+            ]
+        },
+        {
+            "text": "i want to go swimming",
+            "intent": [
+                "swimming_pool"
+            ]
+        },
+        {
+            "text": "hello there!",
+            "intent": [
+                "greet"
+            ]
+        },
+        {
+            "text": "This is my account",
+            "intent": [
+                "account"
+            ]
+        },
+        {
+            "text": "It's done through direct debit",
+            "intent": [
+                "direct_debit"
+            ]
+        },
+        {
+            "text": "It's about a loan",
+            "intent": [
+                "loan"
+            ]
+        },
+        {
+            "text": "I want a refund",
+            "intent": [
+                "refund"
+            ]
+        },
+        {
+            "text": "Do it",
+            "intent": [
+                "make_open_apply_setup_get_activate"
+            ]
+        },
+        {
+            "text": "I lost it some days ago",
+            "intent": [
+                "lost_stolen"
+            ]
+        },
+        {
+            "text": "my wife is disabled, so I hope there won't be any problems with that.",
+            "intent": [
+                "accesibility"
+            ]
+        },
+        {
+            "text": "retire cash from an ATM",
+            "intent": [
+                "withdrawal"
+            ]
+        },
+        {
+            "text": "omg how do I do that?",
+            "intent": [
+                "how"
+            ]
+        },
+        {
+            "text": "it is credit if i recall well",
+            "intent": [
+                "credit"
+            ]
+        },
+        {
+            "text": "It was with contactless",
+            "intent": [
+                "contactless"
+            ]
+        },
+        {
+            "text": "It's a debit one",
+            "intent": [
+                "debit"
+            ]
+        },
+        {
+            "text": "about those standing orders I set",
+            "intent": [
+                "standing_order"
+            ]
+        },
+        {
+            "text": "We'll be checking in at different times on Tuesday.",
+            "intent": [
+                "check_in"
+            ]
+        },
+        {
+            "text": "current please",
+            "intent": [
+                "current"
+            ]
+        },
+        {
+            "text": "any upper bar or cap?",
+            "intent": [
+                "limits"
+            ]
+        },
+        {
+            "text": "I think she called about mortgages only.",
+            "intent": [
+                "mortgage"
+            ]
+        }
+    ]
+}

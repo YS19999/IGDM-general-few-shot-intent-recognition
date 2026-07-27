@@ -1,0 +1,416 @@
+{
+    "data": [
+        {
+            "text": "I need you to tell me where this event is at?",
+            "intent": "GET_LOCATION"
+        },
+        {
+            "text": "Ignore calls from my daddies Chuck",
+            "intent": "IGNORE_CALL"
+        },
+        {
+            "text": "can you pick up dane Madison's call",
+            "intent": "ANSWER_CALL"
+        },
+        {
+            "text": "Please delete the first five tracks.",
+            "intent": "REMOVE_FROM_PLAYLIST_MUSIC"
+        },
+        {
+            "text": "I need to call my grandma on Sunday set reminder for 9am",
+            "intent": "CREATE_REMINDER"
+        },
+        {
+            "text": "What's trending in local news?",
+            "intent": "GET_STORIES_NEWS"
+        },
+        {
+            "text": "Share that comedy event with Gregory",
+            "intent": "SHARE_EVENT"
+        },
+        {
+            "text": "what time does the sun set in New Orleans",
+            "intent": "GET_SUNSET"
+        },
+        {
+            "text": "Play the top songs from 2002.",
+            "intent": "PLAY_MUSIC"
+        },
+        {
+            "text": "tell me about things going on in Atlanta tonight",
+            "intent": "GET_EVENT"
+        },
+        {
+            "text": "find I Like It by Josh Gudwin",
+            "intent": "PLAY_MEDIA"
+        },
+        {
+            "text": "Delete all timers.",
+            "intent": "DELETE_TIMER"
+        },
+        {
+            "text": "How many reminders for dinner are set for the next month?",
+            "intent": "GET_REMINDER_AMOUNT"
+        },
+        {
+            "text": "Show me who is ready",
+            "intent": "GET_AVAILABILITY"
+        },
+        {
+            "text": "when is my next rottweiler group reminder",
+            "intent": "GET_REMINDER_DATE_TIME"
+        },
+        {
+            "text": "what was Lily's major in College?",
+            "intent": "GET_MAJOR"
+        },
+        {
+            "text": "how old is jo anne",
+            "intent": "GET_AGE"
+        },
+        {
+            "text": "I like shopping",
+            "intent": "PREFER"
+        },
+        {
+            "text": "Change my status to can't go for this event",
+            "intent": "SET_RSVP_NO"
+        },
+        {
+            "text": "Move to the next song on the album",
+            "intent": "SKIP_TRACK_MUSIC"
+        },
+        {
+            "text": "cancel track loop",
+            "intent": "UNLOOP_MUSIC"
+        },
+        {
+            "text": "Adjust the timer for 30 extra minutes",
+            "intent": "ADD_TIME_TIMER"
+        },
+        {
+            "text": "Lets record a video  message.",
+            "intent": "SEND_MESSAGE"
+        },
+        {
+            "text": "Is becky at WSU",
+            "intent": "GET_UNDERGRAD"
+        },
+        {
+            "text": "Please resume the call with Sam.",
+            "intent": "RESUME_CALL"
+        },
+        {
+            "text": "when will the dawn be",
+            "intent": "GET_SUNRISE"
+        },
+        {
+            "text": "Who sung the last song?",
+            "intent": "GET_TRACK_INFO_MUSIC"
+        },
+        {
+            "text": "Do I have any alarms for tonight?",
+            "intent": "GET_ALARM"
+        },
+        {
+            "text": "Create a playlist of Michael Jackson songs",
+            "intent": "CREATE_PLAYLIST_MUSIC"
+        },
+        {
+            "text": "bring Jason on the line too",
+            "intent": "UPDATE_CALL"
+        },
+        {
+            "text": "What is the location of the reminders for my sister for her birthday party?",
+            "intent": "GET_REMINDER_LOCATION"
+        },
+        {
+            "text": "has michelle always worked for amazon?",
+            "intent": "GET_EMPLOYER"
+        },
+        {
+            "text": "cancel that alarm actually",
+            "intent": "DELETE_ALARM"
+        },
+        {
+            "text": "Show me the friends that mini and I are both friends with",
+            "intent": "GET_MUTUAL_FRIENDS"
+        },
+        {
+            "text": "Play Friends in Low Places on repeat",
+            "intent": "LOOP_MUSIC"
+        },
+        {
+            "text": "DId anyone text me via Facebook",
+            "intent": "GET_MESSAGE_CONTACT"
+        },
+        {
+            "text": "Resume the music.",
+            "intent": "RESUME_MUSIC"
+        },
+        {
+            "text": "can you stop repeat all of my music?",
+            "intent": "REPEAT_ALL_OFF_MUSIC"
+        },
+        {
+            "text": "Repeat the last song",
+            "intent": "PREVIOUS_TRACK_MUSIC"
+        },
+        {
+            "text": "Any unread messages from the last 5 hours?",
+            "intent": "GET_MESSAGE"
+        },
+        {
+            "text": "Delete my reminder for Natalie's wedding",
+            "intent": "DELETE_REMINDER"
+        },
+        {
+            "text": "Is there any progress in negotiations among Canada the US and Mexico?",
+            "intent": "GET_DETAILS_NEWS"
+        },
+        {
+            "text": "Change my availability to online",
+            "intent": "SET_AVAILABLE"
+        },
+        {
+            "text": "Did John finish high school?",
+            "intent": "GET_LIFE_EVENT"
+        },
+        {
+            "text": "when did amanda go to wneu",
+            "intent": "GET_EDUCATION_TIME"
+        },
+        {
+            "text": "can you reschedule all my house reminders",
+            "intent": "UPDATE_REMINDER"
+        },
+        {
+            "text": "what time is the school concert",
+            "intent": "GET_DATE_TIME_EVENT"
+        },
+        {
+            "text": "where do I know Augie from?",
+            "intent": "GET_INFO_CONTACT"
+        },
+        {
+            "text": "I wanna snooze the alarm to give me 15 more minutes sleep",
+            "intent": "SNOOZE_ALARM"
+        },
+        {
+            "text": "Stop the song",
+            "intent": "STOP_MUSIC"
+        },
+        {
+            "text": "switch call to video",
+            "intent": "UPDATE_METHOD_CALL"
+        },
+        {
+            "text": "When did Prince die?",
+            "intent": "GET_LIFE_EVENT_TIME"
+        },
+        {
+            "text": "friends of my son",
+            "intent": "GET_CONTACT"
+        },
+        {
+            "text": "I want to hear that song again.",
+            "intent": "REPLAY_MUSIC"
+        },
+        {
+            "text": "What is Steven's number?",
+            "intent": "GET_CONTACT_METHOD"
+        },
+        {
+            "text": "Favorite this track.",
+            "intent": "LIKE_MUSIC"
+        },
+        {
+            "text": "When did my mother call me?",
+            "intent": "GET_CALL_TIME"
+        },
+        {
+            "text": "Replay last 10 seconds of song",
+            "intent": "REWIND_MUSIC"
+        },
+        {
+            "text": "Update my reminder to cook Chicken BIriyani and raita for Mona's birthday party instead of Chappatis and Chicken Kurma.",
+            "intent": "UPDATE_REMINDER_TODO"
+        },
+        {
+            "text": "Which person won the big race yesterday?",
+            "intent": "QUESTION_NEWS"
+        },
+        {
+            "text": "set up Messenger as my default for making calls",
+            "intent": "SET_DEFAULT_PROVIDER_CALLING"
+        },
+        {
+            "text": "Tell me what Lora does for work",
+            "intent": "GET_JOB"
+        },
+        {
+            "text": "What kind of event is Healing Spirit: An Interactive Event?",
+            "intent": "GET_CATEGORY_EVENT"
+        },
+        {
+            "text": "Does briyani need ginger garlic paste",
+            "intent": "IS_TRUE_RECIPES"
+        },
+        {
+            "text": "switch over call",
+            "intent": "SWITCH_CALL"
+        },
+        {
+            "text": "What degree did Megan get at college?",
+            "intent": "GET_EDUCATION_DEGREE"
+        },
+        {
+            "text": "Who sings Smells Like Teen Spirit?",
+            "intent": "QUESTION_MUSIC"
+        },
+        {
+            "text": "message cancel",
+            "intent": "CANCEL_MESSAGE"
+        },
+        {
+            "text": "Add 5 minutes to the alarm.",
+            "intent": "UPDATE_ALARM"
+        },
+        {
+            "text": "use tidal only for music",
+            "intent": "SET_DEFAULT_PROVIDER_MUSIC"
+        },
+        {
+            "text": "How much time is left on the timer that is going right now?",
+            "intent": "GET_TIMER"
+        },
+        {
+            "text": "Edit the reminder for the baby shower on the 17th to include the location 45 baker street.",
+            "intent": "UPDATE_REMINDER_LOCATION"
+        },
+        {
+            "text": "bring up some of my past calls with riley please",
+            "intent": "GET_CALL"
+        },
+        {
+            "text": "add the singer of this song to my favorite",
+            "intent": "ADD_TO_PLAYLIST_MUSIC"
+        },
+        {
+            "text": "would you resume my Pasta timer",
+            "intent": "RESUME_TIMER"
+        },
+        {
+            "text": "unlike this music",
+            "intent": "DISLIKE_MUSIC"
+        },
+        {
+            "text": "Skip to two minutes into this song.",
+            "intent": "FAST_FORWARD_MUSIC"
+        },
+        {
+            "text": "calories in veg. burger",
+            "intent": "GET_INFO_RECIPES"
+        },
+        {
+            "text": "AROUND WHAT TIME WILL IT START RAINING?",
+            "intent": "GET_WEATHER"
+        },
+        {
+            "text": "i need a recipe for pulled pork",
+            "intent": "GET_RECIPES"
+        },
+        {
+            "text": "Make alarm called work",
+            "intent": "CREATE_ALARM"
+        },
+        {
+            "text": "How do I delete my reminders",
+            "intent": "HELP_REMINDER"
+        },
+        {
+            "text": "Change Lila's doctor appointment reminder to 11am Thursday.",
+            "intent": "UPDATE_REMINDER_DATE_TIME"
+        },
+        {
+            "text": "Shuffle my favorites.",
+            "intent": "START_SHUFFLE_MUSIC"
+        },
+        {
+            "text": "Call my mother",
+            "intent": "CREATE_CALL"
+        },
+        {
+            "text": "set a timer for 20 minutes",
+            "intent": "CREATE_TIMER"
+        },
+        {
+            "text": "I don't want to listen to this playlist anymore",
+            "intent": "DELETE_PLAYLIST_MUSIC"
+        },
+        {
+            "text": "could you find the words to this song",
+            "intent": "GET_LYRICS_MUSIC"
+        },
+        {
+            "text": "Pause this call",
+            "intent": "HOLD_CALL"
+        },
+        {
+            "text": "mark me as interested for the fourth event",
+            "intent": "SET_RSVP_INTERESTED"
+        },
+        {
+            "text": "Take 30 seconds off my timer",
+            "intent": "SUBTRACT_TIME_TIMER"
+        },
+        {
+            "text": "rsvp yes to Demonology 101",
+            "intent": "SET_RSVP_YES"
+        },
+        {
+            "text": "How long did Debbie work at Walmart?",
+            "intent": "GET_EMPLOYMENT_TIME"
+        },
+        {
+            "text": "Hang up the call with John",
+            "intent": "END_CALL"
+        },
+        {
+            "text": "Who is calling me",
+            "intent": "GET_CALL_CONTACT"
+        },
+        {
+            "text": "Pause this song for a bit",
+            "intent": "PAUSE_MUSIC"
+        },
+        {
+            "text": "RESTART THE TIMER",
+            "intent": "RESTART_TIMER"
+        },
+        {
+            "text": "Ok ok I'm up",
+            "intent": "SILENCE_ALARM"
+        },
+        {
+            "text": "Get all my reminders for grocery shopping",
+            "intent": "GET_REMINDER"
+        },
+        {
+            "text": "can you mute the timer",
+            "intent": "PAUSE_TIMER"
+        },
+        {
+            "text": "please change my Interval training timer",
+            "intent": "UPDATE_TIMER"
+        },
+        {
+            "text": "Do I know anyone going to Brexit: What's Next??",
+            "intent": "GET_ATTENDEE_EVENT"
+        },
+        {
+            "text": "Can you set me as unavailable?",
+            "intent": "SET_UNAVAILABLE"
+        }
+    ]
+}

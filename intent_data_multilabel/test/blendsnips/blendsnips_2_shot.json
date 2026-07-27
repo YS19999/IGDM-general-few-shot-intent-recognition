@@ -1,0 +1,48 @@
+{
+    "data": [
+        {
+            "text": "can you put this tune onto latin dance cardio additionally will it be overcast at 18 o clock in id ; play dj cameo on itunes",
+            "intent": [
+                "AddToPlaylist",
+                "GetWeather",
+                "PlayMusic"
+            ]
+        },
+        {
+            "text": "add koichi sugiyama to whm and also will there be a cloud in the sky in 175 days from now in golconda in vt , i want to hear symphony songs from rebecca cartwright on last fm",
+            "intent": [
+                "AddToPlaylist",
+                "GetWeather",
+                "PlayMusic"
+            ]
+        },
+        {
+            "text": "book a table over the internet for six at a food truck in vanuatu for two pm or rate the book whit a zero and then whats the movie schedules for general cinema corporation",
+            "intent": [
+                "BookRestaurant",
+                "RateBook",
+                "SearchScreeningEvent"
+            ]
+        },
+        {
+            "text": "while booking a restaurant in french southern territories on dec the fifth 2026 for two i rate american history: a survey a 5 ; when can i see red hot tires",
+            "intent": [
+                "BookRestaurant",
+                "RateBook",
+                "SearchScreeningEvent"
+            ]
+        },
+        {
+            "text": "where can i buy the soundtrack bridge of souls",
+            "intent": [
+                "SearchCreativeWork"
+            ]
+        },
+        {
+            "text": "help me find the saga titled the eternal return",
+            "intent": [
+                "SearchCreativeWork"
+            ]
+        }
+    ]
+}

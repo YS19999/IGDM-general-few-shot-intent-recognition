@@ -1,0 +1,72 @@
+{
+    "data": [
+        {
+            "text": "where is general mitchell international located",
+            "intent": "city"
+        },
+        {
+            "text": "what 's restriction ap68",
+            "intent": "restriction"
+        },
+        {
+            "text": "how expensive is the san francisco limousine service",
+            "intent": "ground_fare"
+        },
+        {
+            "text": "find me the cheapest one way fare i can get from boston to denver",
+            "intent": "airfare"
+        },
+        {
+            "text": "how many cities are served by lufthansa with first class flights",
+            "intent": "quantity"
+        },
+        {
+            "text": "what airline is as",
+            "intent": "airline"
+        },
+        {
+            "text": "how many seats in a 100",
+            "intent": "capacity"
+        },
+        {
+            "text": "what types of meals are available",
+            "intent": "meal"
+        },
+        {
+            "text": "what time is the last flight from washington to san francisco",
+            "intent": "flight_time"
+        },
+        {
+            "text": "i would like information on ground transportation in atlanta from the airport to the city in the morning around 9 am",
+            "intent": "ground_service"
+        },
+        {
+            "text": "flight numbers on american airlines from phoenix to milwaukee",
+            "intent": "flight_no"
+        },
+        {
+            "text": "show me all the information about the flight from baltimore to dallas which is listed dl 1055 dl 405",
+            "intent": "flight"
+        },
+        {
+            "text": "show me airports near washington dc",
+            "intent": "airport"
+        },
+        {
+            "text": "how long is the flight from atlanta to san francisco at noon on november seventh",
+            "intent": "distance"
+        },
+        {
+            "text": "what type of aircraft are used on flights from cleveland to dallas that leave before noon",
+            "intent": "aircraft"
+        },
+        {
+            "text": "what does ord mean",
+            "intent": "abbreviation"
+        },
+        {
+            "text": "i need a round trip from phoenix to washington dc and the fare leaving in the morning",
+            "intent": "flight_airfare"
+        }
+    ]
+}

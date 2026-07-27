@@ -1,0 +1,232 @@
+{
+    "data": [
+        {
+            "text": "Could you please send on my screen the fastest route to get there ?",
+            "intent": [
+                "show_in_screen",
+                "request_route"
+            ]
+        },
+        {
+            "text": "Sure , please send me its address on screen and pick a route to avoid all heavy traffic",
+            "intent": [
+                "show_in_screen",
+                "request_route"
+            ]
+        },
+        {
+            "text": "I need to know when my football activity is and with whom .",
+            "intent": [
+                "request_time",
+                "request_date",
+                "request_party"
+            ]
+        },
+        {
+            "text": "When is my dentist appointment and who is coming ?",
+            "intent": [
+                "request_time",
+                "request_date",
+                "request_party"
+            ]
+        },
+        {
+            "text": "Let 's try Travelers Lodge what 's the address and how 's the traffic ?",
+            "intent": [
+                "request_address",
+                "request_traffic"
+            ]
+        },
+        {
+            "text": "Where is Valero and is there any traffic on the way ?",
+            "intent": [
+                "request_address",
+                "request_traffic"
+            ]
+        },
+        {
+            "text": "I am guessing Ravenswood would be faster . Let 's go there .",
+            "intent": [
+                "navigate",
+                "inform"
+            ]
+        },
+        {
+            "text": "Their coffee is n't that good but patience . . Please avoid all heavy traffic and let 's go there !",
+            "intent": [
+                "navigate",
+                "inform"
+            ]
+        },
+        {
+            "text": "Look up san francisco 's two day weather info to see if it will be warm",
+            "intent": [
+                "request_weather",
+                "query"
+            ]
+        },
+        {
+            "text": "I need the weather for Compton , specifically if it will be overcast .",
+            "intent": [
+                "request_weather",
+                "query"
+            ]
+        },
+        {
+            "text": "on my calendar set a time for tennis at 12 pm",
+            "intent": [
+                "schedule"
+            ]
+        },
+        {
+            "text": "Schedule a reminder for me to take my medicine today with my father at 1pm .",
+            "intent": [
+                "schedule"
+            ]
+        },
+        {
+            "text": "Find me a place where i can enjoy some chinese food around here .",
+            "intent": [
+                "request_poi"
+            ]
+        },
+        {
+            "text": "show me the nearby hospital",
+            "intent": [
+                "request_poi"
+            ]
+        },
+        {
+            "text": "Info about football please .",
+            "intent": [
+                "request_information"
+            ]
+        },
+        {
+            "text": "confirm meeting for 4:50 pm on the 12th",
+            "intent": [
+                "request_information"
+            ]
+        },
+        {
+            "text": "Yes , please do .",
+            "intent": [
+                "confirm"
+            ]
+        },
+        {
+            "text": "No , that 's all !",
+            "intent": [
+                "confirm"
+            ]
+        },
+        {
+            "text": "I need the current temperature for Atherton , please .",
+            "intent": [
+                "request_temperature"
+            ]
+        },
+        {
+            "text": "what will the temperature be this weekend",
+            "intent": [
+                "request_temperature"
+            ]
+        },
+        {
+            "text": "What is my agenda today ?",
+            "intent": [
+                "request_agenda"
+            ]
+        },
+        {
+            "text": "what 's on the agenda for today 's meeting",
+            "intent": [
+                "request_agenda"
+            ]
+        },
+        {
+            "text": "Where is the location of the meeting ?",
+            "intent": [
+                "request_location"
+            ]
+        },
+        {
+            "text": "okay and where is the meeting ?",
+            "intent": [
+                "request_location"
+            ]
+        },
+        {
+            "text": "Perfect . Nothing else for now .",
+            "intent": [
+                "appreciate"
+            ]
+        },
+        {
+            "text": "Thank you for that Car .",
+            "intent": [
+                "appreciate"
+            ]
+        },
+        {
+            "text": "List my current reminders .",
+            "intent": [
+                "list_schedule"
+            ]
+        },
+        {
+            "text": "tell me all the events and meetings scheduled on my calendar for today",
+            "intent": [
+                "list_schedule"
+            ]
+        },
+        {
+            "text": "Please remind me I 'm going to a swimming party at 5 pm on July 7th with Martha",
+            "intent": [
+                "remind"
+            ]
+        },
+        {
+            "text": "Please set a reminder for my lab appointment",
+            "intent": [
+                "remind"
+            ]
+        },
+        {
+            "text": "doctor 's appointment at 10 am on monday august 8th",
+            "intent": [
+                "command_appointment"
+            ]
+        },
+        {
+            "text": "please make an appointment on tuesday for me to see the doctor",
+            "intent": [
+                "command_appointment"
+            ]
+        },
+        {
+            "text": "Which one will be the lowest temperature in Danville during the next week ?",
+            "intent": [
+                "request_low_temperature"
+            ]
+        },
+        {
+            "text": "What is the lowest temperature in Compton on Wednesday ?",
+            "intent": [
+                "request_low_temperature"
+            ]
+        },
+        {
+            "text": "What is the highest temperature in New York right now",
+            "intent": [
+                "request_high_temperature"
+            ]
+        },
+        {
+            "text": "What will the highest temperature in San Jose be in the next 7 days ?",
+            "intent": [
+                "request_high_temperature"
+            ]
+        }
+    ]
+}

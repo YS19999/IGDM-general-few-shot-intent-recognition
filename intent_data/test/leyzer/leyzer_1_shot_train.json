@@ -1,0 +1,568 @@
+{
+    "data": [
+        {
+            "text": "play youtube channel justin bieber",
+            "intent": "ShowChannelWithName"
+        },
+        {
+            "text": "send a dm on twitter saying is in a good mood",
+            "intent": "SendMessage"
+        },
+        {
+            "text": "email to lorrinchase.com with subject re gspp on the forefront",
+            "intent": "SendEmailToAddressWithSubject"
+        },
+        {
+            "text": "the time magazine sport section",
+            "intent": "ShowNewsFromSection"
+        },
+        {
+            "text": "add an event called meeting - council to calendar on 15th may",
+            "intent": "AddEventOnDateWithDate"
+        },
+        {
+            "text": "show my google drive files of type mp3",
+            "intent": "ShowFilesWithType"
+        },
+        {
+            "text": "translation of strada to french from italian",
+            "intent": "TranslateTextFromLanguageToLanguage"
+        },
+        {
+            "text": "restaurants around ralls reviewed by more than 100 people",
+            "intent": "SearchByReviewCountInLocation"
+        },
+        {
+            "text": "my weight from fitbit",
+            "intent": "ShowBMI"
+        },
+        {
+            "text": "pub at hoskinston",
+            "intent": "SearchByQueryInLocation"
+        },
+        {
+            "text": "do not notify me when an event on my calendar at location home begins",
+            "intent": "NotNotifyOnEventInLocation"
+        },
+        {
+            "text": "show my google drive files created this month",
+            "intent": "ShowFilesFromTime"
+        },
+        {
+            "text": "restaurant around here",
+            "intent": "SearchRestaurant"
+        },
+        {
+            "text": "restaurants near wildwood",
+            "intent": "SearchInLocation"
+        },
+        {
+            "text": "send a text to carlene",
+            "intent": "SMSToContact"
+        },
+        {
+            "text": "show me a videos published by niki and gabi matching joker on youtube",
+            "intent": "FindQueryOnChannel"
+        },
+        {
+            "text": "play a song glue",
+            "intent": "PlaySong"
+        },
+        {
+            "text": "the current weather in ninety six",
+            "intent": "WeatherInLocation"
+        },
+        {
+            "text": "sunrise and sunset times at fairlee",
+            "intent": "SunriseAndSunsetInLocation"
+        },
+        {
+            "text": "search images on duckduckgo",
+            "intent": "SearchImagesOnEngine"
+        },
+        {
+            "text": "set temperature on my thermostat to 78 degrees fahrenheit",
+            "intent": "SetTemperatureToValue"
+        },
+        {
+            "text": "answer pega",
+            "intent": "ReplyToEmailFromAddress"
+        },
+        {
+            "text": "find facts about conjoined twins. channels on youtube",
+            "intent": "FindChannelWithQuery"
+        },
+        {
+            "text": "create a new contact using a name martha and add the number 615 555 0196",
+            "intent": "ShowContactWithNameAndWithNumberAndWithType"
+        },
+        {
+            "text": "forward an email to jelenegmail.com with subject fw org chart with message meeting moved again today using my gmail",
+            "intent": "SendEmailToAddressWithSubjectAndWithMessage"
+        },
+        {
+            "text": "add the song the city of roses to underground hits playlist on spotify",
+            "intent": "AddSongWithNameToPlaylistWithName"
+        },
+        {
+            "text": "whats on my schedule on 13th march",
+            "intent": "CheckCalendarOnDate"
+        },
+        {
+            "text": "save that remind me tomorrow to music box on spotify",
+            "intent": "AddAlbumToPlaylist"
+        },
+        {
+            "text": "put a picture to my facebook",
+            "intent": "PostPicture"
+        },
+        {
+            "text": "list my post from March",
+            "intent": "ShowPicturesFromDate"
+        },
+        {
+            "text": "find jennifer lopez on wikipedia",
+            "intent": "SearchQuery"
+        },
+        {
+            "text": "show my oldest google drive files",
+            "intent": "ShowOldestFiles"
+        },
+        {
+            "text": "check whether shaun oldridge is away on slack",
+            "intent": "CheckUserStatus"
+        },
+        {
+            "text": "show this article in polish",
+            "intent": "ChangeLanguageToLanguage"
+        },
+        {
+            "text": "pages matching crosssite",
+            "intent": "SearchText"
+        },
+        {
+            "text": "save this to my playlist garage rock revival on spotify",
+            "intent": "AddSongToPlaylistWithName"
+        },
+        {
+            "text": "display important emails",
+            "intent": "ShowEmailWithPriority"
+        },
+        {
+            "text": "check what the kitchen home temperature sensor says",
+            "intent": "GetTemperatureFromDevice"
+        },
+        {
+            "text": "restaurants nearby reviewed by at least 1000 people",
+            "intent": "SearchByReviewCount"
+        },
+        {
+            "text": "open spotify",
+            "intent": "OpenSpotify"
+        },
+        {
+            "text": "resume this song",
+            "intent": "Pause"
+        },
+        {
+            "text": "get my email inbox",
+            "intent": "OpenEmail"
+        },
+        {
+            "text": "translation of une salade to italian from french with microsoft",
+            "intent": "TranslateTextFromLanguageToLanguageWithEngine"
+        },
+        {
+            "text": "thai restaurants nearby",
+            "intent": "SearchByCategory"
+        },
+        {
+            "text": "launch slack app",
+            "intent": "OpenSlack"
+        },
+        {
+            "text": "get my fitbit step count on 1st January",
+            "intent": "ShowStepsOnDate"
+        },
+        {
+            "text": "make a playlist titled all new indie",
+            "intent": "CreatePlaylistWithName"
+        },
+        {
+            "text": "open my contacts with phone number 605 555 0132 and email ivonne.jonieoutlook.com",
+            "intent": "ShowContactWithNumberAndWithEmail"
+        },
+        {
+            "text": "save this song",
+            "intent": "AddSongToPlaylist"
+        },
+        {
+            "text": "add an event called mom birthday",
+            "intent": "AddEventWithName"
+        },
+        {
+            "text": "show my tweets",
+            "intent": "OpenTwitter"
+        },
+        {
+            "text": "notify me when there is a new video from youtube channel pewdiepie",
+            "intent": "NotifyonNewOnChannel"
+        },
+        {
+            "text": "translate to finish",
+            "intent": "TranslateToLanguage"
+        },
+        {
+            "text": "switch the aircon off",
+            "intent": "TurnOff"
+        },
+        {
+            "text": "show photos in my album memes",
+            "intent": "ShowAlbumWithName"
+        },
+        {
+            "text": "share my vegetarian recipies with mary.lougmail.com",
+            "intent": "ShareFileWithNameToAddress"
+        },
+        {
+            "text": "display my google drive files in reverse alphabetical order",
+            "intent": "SortReverseAlphabetical"
+        },
+        {
+            "text": "set my living room thermostat to 22 degrees celsius",
+            "intent": "SetTemperatureToValueOnDevice"
+        },
+        {
+            "text": "get the fitbit pedometer",
+            "intent": "ShowSteps"
+        },
+        {
+            "text": "change default translation language to english",
+            "intent": "SetDefaultLanguage"
+        },
+        {
+            "text": "current weather at pebble beach tomorrow",
+            "intent": "WeatherTomorrowInLocation"
+        },
+        {
+            "text": "send a text to tarah containing please answer",
+            "intent": "SMSToContactWithMessage"
+        },
+        {
+            "text": "sunrise and sunset times at michael on date 30 january",
+            "intent": "SunriseAndSunsetInLocationAndOnDate"
+        },
+        {
+            "text": "update my facebook page saying so tired today",
+            "intent": "PostStatus"
+        },
+        {
+            "text": "get the humidity",
+            "intent": "GetHumidity"
+        },
+        {
+            "text": "show tweets with hashtag masheu09",
+            "intent": "ShowTwittsWithHashtag"
+        },
+        {
+            "text": "wallpaper free fire images on duckduckgo",
+            "intent": "SearchImagesWithTextOnEngine"
+        },
+        {
+            "text": "images from google matching nike free run larger than 800 x 600",
+            "intent": "SearchImagesWithTextOnEngineWithWidthAndWithHeightAndWithCondition"
+        },
+        {
+            "text": "show my google drive files larger than 1 gigabyte",
+            "intent": "ShowFilesWithSize"
+        },
+        {
+            "text": "edit my contact steven moses",
+            "intent": "EditContactWithName"
+        },
+        {
+            "text": "WithCaptionpost a picture to slack channel concerned with caption room",
+            "intent": "SendPictureToChannel"
+        },
+        {
+            "text": "display my emails labelled new topic",
+            "intent": "ShowEmailWithLabel"
+        },
+        {
+            "text": "play the vision in black beware of the dogs by magic dirt",
+            "intent": "PlayAlbumOfTypeByArtist"
+        },
+        {
+            "text": "show me my emails that arrived in the last 30 minutes",
+            "intent": "ShowEmailFromTime"
+        },
+        {
+            "text": "get my emails i received from corieproton.com",
+            "intent": "ShowEmailFromSender"
+        },
+        {
+            "text": "show my contacts with name bernita",
+            "intent": "ShowContactWithName"
+        },
+        {
+            "text": "moon phase for location dakar",
+            "intent": "MoonphaseInLocation"
+        },
+        {
+            "text": "show me my instagram pictures i took in saddle river",
+            "intent": "ShowPicturesWithLocation"
+        },
+        {
+            "text": "upload cutt.ly/eqzfmL0 to memorandum on slack",
+            "intent": "SendPictureWithUrlToChannel"
+        },
+        {
+            "text": "change the number of my contact diane-marie",
+            "intent": "EditNumberInContactWithName"
+        },
+        {
+            "text": "set the number 615 555 0179 in contact liu as home",
+            "intent": "EditNumberInContactWithNameToNumberAndToType"
+        },
+        {
+            "text": "direct message on twitter to jonradical saying busy busy worked all weekend",
+            "intent": "SendMessageToUser"
+        },
+        {
+            "text": "set the purpose for slack channel river to bug fix",
+            "intent": "SetPurposeOnChannel"
+        },
+        {
+            "text": "decrease the volume of speaker",
+            "intent": "DecreaseVolume"
+        },
+        {
+            "text": "get slack messages in class for physics i received in the last hour",
+            "intent": "CheckMessagesInChannel"
+        },
+        {
+            "text": "bing search",
+            "intent": "OpenEngine"
+        },
+        {
+            "text": "random article",
+            "intent": "RandomPage"
+        },
+        {
+            "text": "open my contacts with phone number 202 555 0174",
+            "intent": "ShowContactWithNumber"
+        },
+        {
+            "text": "show me my 10 latest instagram pictures on my account",
+            "intent": "ShowLastNumberPictures"
+        },
+        {
+            "text": "japanease food around kaneohe",
+            "intent": "SearchByCategoryInLocation"
+        },
+        {
+            "text": "images from duckduckgo matching reflection nebula with size 800 x 600",
+            "intent": "SearchImagesWithTextOnEngineWithWidthAndWithHeight"
+        },
+        {
+            "text": "moon phase for summit on date 15 june",
+            "intent": "MoonphaseInLocationOnDate"
+        },
+        {
+            "text": "news on ny times",
+            "intent": "ShowNews"
+        },
+        {
+            "text": "play the inspirational walk playlist on spotify",
+            "intent": "PlayPlaylist"
+        },
+        {
+            "text": "show me my instagram pictures tagged resinjewelry",
+            "intent": "ShowPicturesWithHashtag"
+        },
+        {
+            "text": "list my instagram pictures",
+            "intent": "ShowPictures"
+        },
+        {
+            "text": "the translation of do you have anything quieter",
+            "intent": "TranslateText"
+        },
+        {
+            "text": "sunrise at jonas ridge",
+            "intent": "SunriseInLocation"
+        },
+        {
+            "text": "perkins restruant nearby",
+            "intent": "SearchByQuery"
+        },
+        {
+            "text": "download article as pdf",
+            "intent": "DownloadAsPdf"
+        },
+        {
+            "text": "send an email",
+            "intent": "SendEmail"
+        },
+        {
+            "text": "play the previous song",
+            "intent": "PreviousSong"
+        },
+        {
+            "text": "call 22 590 01 45",
+            "intent": "CallNumber"
+        },
+        {
+            "text": "help me turn off the speaker",
+            "intent": "TurnOnOrOff"
+        },
+        {
+            "text": "list my starred google drive files",
+            "intent": "ShowFilesWithStar"
+        },
+        {
+            "text": "change the name of my contact with number 1 803 555 0171",
+            "intent": "EditContactWithNumber"
+        },
+        {
+            "text": "post office on google",
+            "intent": "SearchTextOnEngine"
+        },
+        {
+            "text": "play the song numb by richard dawson",
+            "intent": "PlaySongByArtist"
+        },
+        {
+            "text": "set the topic of slack channel jogging to party",
+            "intent": "SetTopicInChannel"
+        },
+        {
+            "text": "play recommended tv shows on youtube",
+            "intent": "FindQuery"
+        },
+        {
+            "text": "silence my speaker",
+            "intent": "MuteOn"
+        },
+        {
+            "text": "danceability of the that song",
+            "intent": "ShowDanceability"
+        },
+        {
+            "text": "4 star restaurants",
+            "intent": "SearchByRating"
+        },
+        {
+            "text": "the language of sausage",
+            "intent": "DetectLanguage"
+        },
+        {
+            "text": "the translation of french sentence dimanche",
+            "intent": "TranslateTextFromLanguage"
+        },
+        {
+            "text": "put www.tinyurl.com/vmkgtf9 on my facebook with caption with my dad",
+            "intent": "PostPictureWithUrlAndWithCaption"
+        },
+        {
+            "text": "turn the air conditioning on",
+            "intent": "TurnOn"
+        },
+        {
+            "text": "call ambulance",
+            "intent": "CallEmergency"
+        },
+        {
+            "text": "show tech youtube channels",
+            "intent": "ShowChannelWithCategory"
+        },
+        {
+            "text": "check recent messages from jesse malton in slack",
+            "intent": "CheckMessagesFromUser"
+        },
+        {
+            "text": "sunset at johnson",
+            "intent": "SunsetInLocation"
+        },
+        {
+            "text": "send a picture to slack channel costs with caption arkansas",
+            "intent": "SendPictureToChannelWithCaption"
+        },
+        {
+            "text": "show me my emails with subject greetings",
+            "intent": "ShowEmailWithSubject"
+        },
+        {
+            "text": "notify me if my weight goes over 80 kg",
+            "intent": "NotifyOnWeight"
+        },
+        {
+            "text": "white in czech",
+            "intent": "TranslateTextToLanguage"
+        },
+        {
+            "text": "go to tenth element in contents",
+            "intent": "GoToElementNumber"
+        },
+        {
+            "text": "open my google contacts with email ortensiacts.com",
+            "intent": "ShowContactWithEmail"
+        },
+        {
+            "text": "stop following dirtysouth777 on twitter",
+            "intent": "UnfollowUser"
+        },
+        {
+            "text": "set source language to french",
+            "intent": "SetDefaultLanguageToLanguage"
+        },
+        {
+            "text": "send email to marget using my gmail",
+            "intent": "SendEmailToAddress"
+        },
+        {
+            "text": "what temperature is it in here according to my air conditioning ?",
+            "intent": "GetTemperature"
+        },
+        {
+            "text": "show my instagram pictures that have the clarendon filter",
+            "intent": "ShowPicturesWithFilter"
+        },
+        {
+            "text": "message baking on slack saying members including gatc european technology ventures",
+            "intent": "SendMessageToChannel"
+        },
+        {
+            "text": "play the next song on spotify",
+            "intent": "NextSong"
+        },
+        {
+            "text": "create new playlist",
+            "intent": "CreatePlaylist"
+        },
+        {
+            "text": "notify me when an event on my calendar at location nemacolin begins",
+            "intent": "NotifyOnEventInLocation"
+        },
+        {
+            "text": "display my google drive files",
+            "intent": "OpenGdrive"
+        },
+        {
+            "text": "what's the weather outside",
+            "intent": "OpenWeather"
+        },
+        {
+            "text": "create a post on instagram with the last photo from Gallery and a tag nakina",
+            "intent": "PostWithLastPictureWithLocationAndWithHashtag"
+        },
+        {
+            "text": "become a follower of emilyclaiborne on twitter",
+            "intent": "FollowUser"
+        },
+        {
+            "text": "3 star restaurants around schofield barracks",
+            "intent": "SearchByRatingInLocation"
+        }
+    ]
+}

@@ -1,0 +1,93 @@
+{
+    "data": [
+        {
+            "text": "Can you give me some - tell me some cheap rate hotels because I'm planning just to leave my bags there and go somewhere take some pictures .",
+            "intent": [
+                "INFO",
+                "RECOMMEND",
+                "EXPLAIN"
+            ]
+        },
+        {
+            "text": "Okay sure , and when do you plan to come to Singapore ?",
+            "intent": [
+                "POSITIVE",
+                "WHEN"
+            ]
+        },
+        {
+            "text": "Two , three stops down ?",
+            "intent": [
+                "HOW_TO",
+                "WHERE"
+            ]
+        },
+        {
+            "text": "Maybe two days .",
+            "intent": [
+                "HOW_MUCH",
+                "COMMIT"
+            ]
+        },
+        {
+            "text": "restaurants or bars .",
+            "intent": [
+                "WHICH"
+            ]
+        },
+        {
+            "text": "So I think that's okay now .",
+            "intent": [
+                "ENOUGH"
+            ]
+        },
+        {
+            "text": "like Antonio Banderas ?",
+            "intent": [
+                "WHO"
+            ]
+        },
+        {
+            "text": "Oh thank you .",
+            "intent": [
+                "THANK"
+            ]
+        },
+        {
+            "text": "What's your favourite ?",
+            "intent": [
+                "WHAT"
+            ]
+        },
+        {
+            "text": "It is - there is a water flowing on its mouth ?",
+            "intent": [
+                "CONFIRM"
+            ]
+        },
+        {
+            "text": "Can you help me out ?",
+            "intent": [
+                "OPENING"
+            ]
+        },
+        {
+            "text": "Okay , this rate is not available here .",
+            "intent": [
+                "NEGATIVE"
+            ]
+        },
+        {
+            "text": "Just the two of us .",
+            "intent": [
+                "PREFERENCE"
+            ]
+        },
+        {
+            "text": "the hotels - Yah .",
+            "intent": [
+                "ACK"
+            ]
+        }
+    ]
+}
