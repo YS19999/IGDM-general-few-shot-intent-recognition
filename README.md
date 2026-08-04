@@ -15,7 +15,7 @@ Feature distribution differences. Red points represent target datasets (ATIS, SN
 ![image](https://github.com/YS19999/IGDM-general-few-shot-intent-recognition/blob/main/images/method_page-0001.jpg)
 
 ## How to use
-You can directly run meta_train.py to train a new model, and then use meta_test.py to conduct the generalization test. Alternatively, you can directly use the pre-trained model weights that we have provided. It can be downloaded from Baidu Netdisk.
+You can directly run meta_train.py to train a new model, and then use meta_test.py to conduct the generalization test. Alternatively, you can directly use the pre-trained model weights that we have provided. It can be downloaded from <a href="https://example.com" target="_blank">Link</a>.
 
 ## Results
 ### Single-label fuzzy matching
